@@ -1781,7 +1781,65 @@
     "team1-id": 13902,
     "team2-id": 13811,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Round of 16",
+    "veto": [
+      "1. BORRACHEIROS removed Cache",
+      "2. QUINTESSÊNCIA removed Nuke",
+      "3. BORRACHEIROS picked Anubis",
+      "4. QUINTESSÊNCIA picked Dust2",
+      "5. BORRACHEIROS removed Mirage",
+      "6. QUINTESSÊNCIA removed Ancient",
+      "7. Inferno was left over"
+    ],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "BORRACHEIROS",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "QUINTESSÊNCIA",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 6:6) (4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "BORRACHEIROS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "QUINTESSÊNCIA",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:3)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "BORRACHEIROS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "QUINTESSÊNCIA",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399638,
@@ -1793,7 +1851,65 @@
     "team1-id": 10245,
     "team2-id": 11251,
     "team1score": 1,
-    "team2score": 2
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Consolidation final",
+    "veto": [
+      "1. Eternal Fire removed Mirage",
+      "2. JiJieHao removed Cache",
+      "3. Eternal Fire picked Ancient",
+      "4. JiJieHao picked Inferno",
+      "5. JiJieHao removed Dust2",
+      "6. Eternal Fire removed Nuke",
+      "7. Anubis was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "JiJieHao",
+          "score": "20",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Eternal Fire",
+          "score": "22",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 7:5) (8:10)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "JiJieHao",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Eternal Fire",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "JiJieHao",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Eternal Fire",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 3:6)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399333,
@@ -1805,7 +1921,65 @@
     "team1-id": 13814,
     "team2-id": 13924,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Round of 16",
+    "veto": [
+      "1. Black Phoenix removed Ancient",
+      "2. INOX Division removed Mirage",
+      "3. Black Phoenix picked Dust2",
+      "4. INOX Division picked Nuke",
+      "5. Black Phoenix removed Anubis",
+      "6. INOX Division removed Cache",
+      "7. Inferno was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "INOX Division",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 2:6)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "INOX Division",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Default",
+        "team1": {
+          "name": "INOX Division",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399885,
@@ -1817,7 +1991,65 @@
     "team1-id": 13999,
     "team2-id": 13279,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Semi-final",
+    "veto": [
+      "1. LPH removed Cache",
+      "2. WBT Academy removed Inferno",
+      "3. LPH picked Nuke",
+      "4. WBT Academy picked Anubis",
+      "5. LPH removed Dust2",
+      "6. WBT Academy removed Mirage",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "WBT Academy",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 1:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "WBT Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "WBT Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399699,
@@ -1829,7 +2061,65 @@
     "team1-id": 13766,
     "team2-id": 13900,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Lower bracket semi-final",
+    "veto": [
+      "1. Banda Chuya removed Inferno",
+      "2. Phantom Academy removed Cache",
+      "3. Banda Chuya picked Nuke",
+      "4. Phantom Academy picked Mirage",
+      "5. Banda Chuya removed Anubis",
+      "6. Phantom Academy removed Ancient",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Phantom Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Banda Chuya",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Phantom Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Banda Chuya",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:7)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Phantom Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Banda Chuya",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399884,
@@ -1841,7 +2131,65 @@
     "team1-id": 13945,
     "team2-id": 14084,
     "team1score": 1,
-    "team2score": 2
+    "team2score": 2,
+    "format": "Best of 3 (Online)",
+    "stage": "Semi-final",
+    "veto": [
+      "1. LFO 10 removed Anubis",
+      "2. MAYBE removed Inferno",
+      "3. LFO 10 picked Dust2",
+      "4. MAYBE picked Mirage",
+      "5. LFO 10 removed Ancient",
+      "6. MAYBE removed Cache",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 4:8) (1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:3)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "MAYBE",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 4:7)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399849,
@@ -1853,7 +2201,65 @@
     "team1-id": 12895,
     "team2-id": 4555,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Semi-final",
+    "veto": [
+      "1. Virtus.pro removed Anubis",
+      "2. K27 removed Inferno",
+      "3. Virtus.pro picked Dust2",
+      "4. K27 picked Cache",
+      "5. Virtus.pro removed Nuke",
+      "6. K27 removed Ancient",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "K27",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Virtus.pro",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 0:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "K27",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Virtus.pro",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 1:7)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "K27",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Virtus.pro",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399497,
@@ -1865,7 +2271,27 @@
     "team1-id": 13808,
     "team2-id": 13759,
     "team1score": 0,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Swiss round 2 (teams with a 0-1 record)",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Walczaki",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "mellren",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399498,
@@ -1877,7 +2303,65 @@
     "team1-id": 13681,
     "team2-id": 7900,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Swiss round 2 (teams with a 1-0 record)",
+    "veto": [
+      "1. Spirit Academy removed Inferno",
+      "2. Inner Circle Academy removed Nuke",
+      "3. Spirit Academy picked Ancient",
+      "4. Inner Circle Academy picked Anubis",
+      "5. Spirit Academy removed Cache",
+      "6. Inner Circle Academy removed Mirage",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Inner Circle Academy",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 3:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Inner Circle Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(11:1; 2:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Inner Circle Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:3)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399848,
@@ -1889,7 +2373,65 @@
     "team1-id": 8634,
     "team2-id": 13924,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Semi-final",
+    "veto": [
+      "1. Black Phoenix removed Ancient",
+      "2. Nemesis removed Anubis",
+      "3. Black Phoenix picked Dust2",
+      "4. Nemesis picked Inferno",
+      "5. Black Phoenix removed Nuke",
+      "6. Nemesis removed Mirage",
+      "7. Cache was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Nemesis",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 4:6)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Nemesis",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:3)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Nemesis",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399332,
@@ -1901,7 +2443,65 @@
     "team1-id": 13027,
     "team2-id": 11719,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Round of 16",
+    "veto": [
+      "1. Illyrians removed Nuke",
+      "2. Nuclear TigeRES removed Cache",
+      "3. Illyrians picked Dust2",
+      "4. Nuclear TigeRES picked Ancient",
+      "5. Illyrians removed Inferno",
+      "6. Nuclear TigeRES removed Mirage",
+      "7. Anubis was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Nuclear TigeRES",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:6)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Nuclear TigeRES",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Nuclear TigeRES",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399911,
@@ -1913,7 +2513,27 @@
     "team1-id": 7653,
     "team2-id": 13722,
     "team1score": 1,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Round of 16",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Isurus",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Hacha",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399700,
@@ -1925,7 +2545,27 @@
     "team1-id": 13974,
     "team2-id": 14021,
     "team1score": 0,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Lower bracket semi-final",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Ryvex",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "TitanFlow",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399499,
@@ -1937,7 +2577,65 @@
     "team1-id": 12857,
     "team2-id": 14084,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Swiss round 2 (teams with a 1-0 record)",
+    "veto": [
+      "1. LFO 10 removed Nuke",
+      "2. FORZE Reload removed Inferno",
+      "3. LFO 10 picked Ancient",
+      "4. FORZE Reload picked Dust2",
+      "5. LFO 10 removed Cache",
+      "6. FORZE Reload removed Anubis",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(11:1; 2:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399587,
@@ -1949,7 +2647,65 @@
     "team1-id": 13667,
     "team2-id": 11514,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Lower bracket final",
+    "veto": [
+      "1. Rare Atom removed Nuke",
+      "2. NEXVOID removed Mirage",
+      "3. Rare Atom picked Dust2",
+      "4. NEXVOID picked Ancient",
+      "5. NEXVOID removed Cache",
+      "6. Rare Atom removed Inferno",
+      "7. Anubis was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "NEXVOID",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Rare Atom",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 4:7)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "NEXVOID",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Rare Atom",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 6:6)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "NEXVOID",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Rare Atom",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399331,
@@ -1961,7 +2717,27 @@
     "team1-id": 13573,
     "team2-id": 13901,
     "team1score": 1,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Round of 16",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ex-RUSTEC",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399586,
@@ -1973,7 +2749,65 @@
     "team1-id": 8840,
     "team2-id": 12646,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Upper bracket final",
+    "veto": [
+      "1. Chinggis Warriors removed Anubis",
+      "2. Lynn Vision removed Mirage",
+      "3. Chinggis Warriors picked Nuke",
+      "4. Lynn Vision picked Dust2",
+      "5. Lynn Vision removed Cache",
+      "6. Chinggis Warriors removed Ancient",
+      "7. Inferno was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Lynn Vision",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Chinggis Warriors",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Lynn Vision",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Chinggis Warriors",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Lynn Vision",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Chinggis Warriors",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:3)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399907,
@@ -1985,7 +2819,65 @@
     "team1-id": 14051,
     "team2-id": 13912,
     "team1score": 1,
-    "team2score": 2
+    "team2score": 2,
+    "format": "Best of 3 (Online)",
+    "stage": "Round of 16",
+    "veto": [
+      "1. Low Cortisol BR removed Inferno",
+      "2. Grêmio removed Anubis",
+      "3. Low Cortisol BR picked Mirage",
+      "4. Grêmio picked Cache",
+      "5. Low Cortisol BR removed Ancient",
+      "6. Grêmio removed Dust2",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Low Cortisol BR",
+          "score": "3",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Grêmio",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 2:2)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Low Cortisol BR",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Grêmio",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Low Cortisol BR",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Grêmio",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 4:8)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399814,
@@ -1997,7 +2889,65 @@
     "team1-id": 11655,
     "team2-id": 12959,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group B decider match",
+    "veto": [
+      "1. ShindeN removed Anubis",
+      "2. Imperial removed Ancient",
+      "3. ShindeN picked Dust2",
+      "4. Imperial picked Mirage",
+      "5. ShindeN removed Cache",
+      "6. Imperial removed Nuke",
+      "7. Inferno was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Imperial",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ShindeN",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(11:1; 2:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Imperial",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ShindeN",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(3:9; 9:3) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Imperial",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ShindeN",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399847,
@@ -2009,7 +2959,65 @@
     "team1-id": 13989,
     "team2-id": 4555,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Quarter-final",
+    "veto": [
+      "1. UPGRADE removed Cache",
+      "2. Virtus.pro removed Inferno",
+      "3. UPGRADE picked Nuke",
+      "4. Virtus.pro picked Mirage",
+      "5. UPGRADE removed Anubis",
+      "6. Virtus.pro removed Ancient",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "UPGRADE",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Virtus.pro",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 4:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "UPGRADE",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Virtus.pro",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 0:7)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "UPGRADE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Virtus.pro",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399636,
@@ -2021,7 +3029,65 @@
     "team1-id": 10577,
     "team2-id": 11251,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Upper bracket final",
+    "veto": [
+      "1. SINNERS removed Anubis",
+      "2. Eternal Fire removed Nuke",
+      "3. SINNERS picked Mirage",
+      "4. Eternal Fire picked Cache",
+      "5. Eternal Fire removed Inferno",
+      "6. SINNERS removed Dust2",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "SINNERS",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Eternal Fire",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "SINNERS",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Eternal Fire",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 4:8) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "SINNERS",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Eternal Fire",
+          "score": "16",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 5:7) (7:4)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399785,
@@ -2033,7 +3099,65 @@
     "team1-id": 10333,
     "team2-id": 11641,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Semi-final. Winner qualifies for Stake Ranked Episode 6.",
+    "veto": [
+      "1. Sangal removed Inferno",
+      "2. Metizport removed Dust2",
+      "3. Sangal picked Cache",
+      "4. Metizport picked Nuke",
+      "5. Metizport removed Anubis",
+      "6. Sangal removed Ancient",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Sangal",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Metizport",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 7:5) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Sangal",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Metizport",
+          "score": "17",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 5:7) (7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Sangal",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Metizport",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:7)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399906,
@@ -2045,7 +3169,65 @@
     "team1-id": 11933,
     "team2-id": 14008,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Round of 16",
+    "veto": [
+      "1. your end removed Nuke",
+      "2. Yawara removed Inferno",
+      "3. your end picked Anubis",
+      "4. Yawara picked Mirage",
+      "5. your end removed Ancient",
+      "6. Yawara removed Cache",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Yawara",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "your end",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Yawara",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "your end",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Yawara",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "your end",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399496,

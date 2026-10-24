@@ -12,7 +12,7 @@ from python_utils import converters
 # ================== CONFIG ================== #
 
 MAX_RUNTIME_SECONDS = 60 * 5
-MAX_RESULTS_OFFSET = 100
+MAX_RESULTS_OFFSET = 2000
 
 ROOT = Path(__file__).resolve().parents[1]
 STATE_FILE = ROOT / "scrape_state.json"

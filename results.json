@@ -1,5 +1,775 @@
 [
   {
+    "match-id": 2399731,
+    "url": "https://hltv.org/matches/2399731/g2-vs-aurora-pgl-masters-bucharest-2026",
+    "date": null,
+    "event": "PGL Masters Bucharest 2026",
+    "team1": "G2",
+    "team2": "Aurora",
+    "team1-id": 5995,
+    "team2-id": 11861,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Swiss round 2 (teams with a 0-1 record)",
+    "veto": [
+      "1. Aurora removed Ancient",
+      "2. G2 removed Anubis",
+      "3. Aurora picked Cache",
+      "4. G2 picked Inferno",
+      "5. G2 removed Nuke",
+      "6. Aurora removed Mirage",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "G2",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Aurora",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "G2",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Aurora",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 4:8) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "G2",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Aurora",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399732,
+    "url": "https://hltv.org/matches/2399732/mouz-vs-9z-pgl-masters-bucharest-2026",
+    "date": null,
+    "event": "PGL Masters Bucharest 2026",
+    "team1": "MOUZ",
+    "team2": "9z",
+    "team1-id": 4494,
+    "team2-id": 9996,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Swiss round 2 (teams with a 0-1 record)",
+    "veto": [
+      "1. 9z removed Inferno",
+      "2. MOUZ removed Anubis",
+      "3. 9z picked Dust2",
+      "4. MOUZ picked Nuke",
+      "5. MOUZ removed Ancient",
+      "6. 9z removed Cache",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "MOUZ",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "9z",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:0)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "MOUZ",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "9z",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:1)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "MOUZ",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "9z",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399730,
+    "url": "https://hltv.org/matches/2399730/betboom-vs-nemiga-pgl-masters-bucharest-2026",
+    "date": null,
+    "event": "PGL Masters Bucharest 2026",
+    "team1": "BETBOOM",
+    "team2": "Nemiga",
+    "team1-id": 12394,
+    "team2-id": 7969,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Swiss round 2 (teams with a 1-0 record)",
+    "veto": [
+      "1. Nemiga removed Nuke",
+      "2. BETBOOM removed Cache",
+      "3. Nemiga picked Anubis",
+      "4. BETBOOM picked Mirage",
+      "5. BETBOOM removed Inferno",
+      "6. Nemiga removed Dust2",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "BETBOOM",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Nemiga",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "BETBOOM",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Nemiga",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "BETBOOM",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Nemiga",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399729,
+    "url": "https://hltv.org/matches/2399729/vitality-vs-the-mongolz-pgl-masters-bucharest-2026",
+    "date": null,
+    "event": "PGL Masters Bucharest 2026",
+    "team1": "Vitality",
+    "team2": "The MongolZ",
+    "team1-id": 9565,
+    "team2-id": 6248,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Swiss round 2 (teams with a 1-0 record)",
+    "veto": [
+      "1. The MongolZ removed Anubis",
+      "2. Vitality removed Ancient",
+      "3. The MongolZ picked Inferno",
+      "4. Vitality picked Cache",
+      "5. Vitality removed Nuke",
+      "6. The MongolZ removed Dust2",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Vitality",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "The MongolZ",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Vitality",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "The MongolZ",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Vitality",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "The MongolZ",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2398701,
+    "url": "https://hltv.org/matches/2398701/state-vs-g2-ares-hotspawn-showdown-2026-finals",
+    "date": null,
+    "event": "Hotspawn Showdown 2026 Finals",
+    "team1": "STATE",
+    "team2": "G2 Ares",
+    "team1-id": 13623,
+    "team2-id": 12889,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Consolidation final",
+    "veto": [
+      "1. G2 Ares removed Nuke",
+      "2. STATE removed Dust2",
+      "3. G2 Ares picked Inferno",
+      "4. STATE picked Anubis",
+      "5. G2 Ares removed Cache",
+      "6. STATE removed Mirage",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "STATE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "STATE",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 5:7) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "STATE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399703,
+    "url": "https://hltv.org/matches/2399703/quintessence-vs-titanflow-cct-2026-challengers-europe-series-8",
+    "date": null,
+    "event": "CCT 2026 Challengers Europe Series 8",
+    "team1": "Quintessence",
+    "team2": "TitanFlow",
+    "team1-id": 14020,
+    "team2-id": 14021,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Consolidation final",
+    "veto": [
+      "1. TitanFlow removed Nuke",
+      "2. Quintessence removed Anubis",
+      "3. TitanFlow picked Mirage",
+      "4. Quintessence picked Cache",
+      "5. TitanFlow removed Ancient",
+      "6. Quintessence removed Inferno",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Quintessence",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "TitanFlow",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 5:4)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Quintessence",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "TitanFlow",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 8:4) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Quintessence",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "TitanFlow",
+          "score": "17",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 3:9) (7:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399113,
+    "url": "https://hltv.org/matches/2399113/metizport-vs-baks-nodwin-clutch-series-13",
+    "date": null,
+    "event": "NODWIN Clutch Series 13",
+    "team1": "Metizport",
+    "team2": "BAKS",
+    "team1-id": 11641,
+    "team2-id": 11699,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Round of 16",
+    "veto": [
+      "1. BAKS removed Anubis",
+      "2. Metizport removed Dust2",
+      "3. BAKS picked Cache",
+      "4. Metizport picked Nuke",
+      "5. BAKS removed Inferno",
+      "6. Metizport removed Mirage",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Metizport",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:3)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Metizport",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Metizport",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399339,
+    "url": "https://hltv.org/matches/2399339/acend-vs-inox-division-cct-2026-europe-series-11",
+    "date": null,
+    "event": "CCT 2026 Europe Series 11",
+    "team1": "Acend",
+    "team2": "INOX Division",
+    "team1-id": 13518,
+    "team2-id": 13814,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Semi-final",
+    "veto": [
+      "1. INOX Division removed Mirage",
+      "2. Acend removed Nuke",
+      "3. INOX Division picked Dust2",
+      "4. Acend picked Ancient",
+      "5. INOX Division removed Cache",
+      "6. Acend removed Anubis",
+      "7. Inferno was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Acend",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "INOX Division",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Acend",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "INOX Division",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Acend",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "INOX Division",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399916,
+    "url": "https://hltv.org/matches/2399916/legion-vs-badkids-vidergg-ctrl-point-season-2",
+    "date": null,
+    "event": "ViderGG CTRL POINT Season 2",
+    "team1": "Legion",
+    "team2": "BadKids",
+    "team1-id": 12535,
+    "team2-id": 14110,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Grand final",
+    "veto": [
+      "1. BadKids removed Cache",
+      "2. Legion removed Ancient",
+      "3. BadKids picked Nuke",
+      "4. Legion picked Dust2",
+      "5. BadKids removed Inferno",
+      "6. Legion removed Anubis",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Legion",
+          "score": "12",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BadKids",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 9:3) (0:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Legion",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BadKids",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 2:8)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Legion",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BadKids",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399506,
+    "url": "https://hltv.org/matches/2399506/spirit-academy-vs-lfo-10-cct-2026-europe-series-12",
+    "date": null,
+    "event": "CCT 2026 Europe Series 12",
+    "team1": "Spirit Academy",
+    "team2": "LFO 10",
+    "team1-id": 7900,
+    "team2-id": 14084,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Swiss round 3 (teams with a 1-1 record)",
+    "veto": [
+      "1. LFO 10 removed Nuke",
+      "2. Spirit Academy removed Inferno",
+      "3. LFO 10 picked Ancient",
+      "4. Spirit Academy picked Dust2",
+      "5. LFO 10 removed Anubis",
+      "6. Spirit Academy removed Cache",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Spirit Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Spirit Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:1)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Spirit Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399505,
+    "url": "https://hltv.org/matches/2399505/lavked-vs-mellren-cct-2026-europe-series-12",
+    "date": null,
+    "event": "CCT 2026 Europe Series 12",
+    "team1": "Lavked",
+    "team2": "mellren",
+    "team1-id": 12609,
+    "team2-id": 13759,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Swiss round 3 (teams with a 1-1 record)",
+    "veto": [
+      "1. mellren removed Nuke",
+      "2. Lavked removed Inferno",
+      "3. mellren picked Ancient",
+      "4. Lavked picked Dust2",
+      "5. mellren removed Cache",
+      "6. Lavked removed Mirage",
+      "7. Anubis was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Lavked",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "mellren",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 3:9)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Lavked",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "mellren",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Lavked",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "mellren",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 5:7) (4:1)",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2399728,
     "url": "https://hltv.org/matches/2399728/fut-vs-liquid-pgl-masters-bucharest-2026",
     "date": null,
@@ -12949,7 +13719,65 @@
     "team1-id": 13573,
     "team2-id": 12857,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Swiss round 4 (teams with a 2-1 record). Winner advances to playoffs.",
+    "veto": [
+      "1. FORZE Reload removed Inferno",
+      "2. ex-Zero Tenacity removed Ancient",
+      "3. FORZE Reload picked Dust2",
+      "4. ex-Zero Tenacity picked Cache",
+      "5. FORZE Reload removed Anubis",
+      "6. ex-Zero Tenacity removed Mirage",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 6:6)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 8:4) (4:1)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399101,
@@ -12961,7 +13789,27 @@
     "team1-id": 11699,
     "team2-id": 13759,
     "team1score": 1,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Swiss round 4 (teams with a 2-1 record). Winner advances to playoffs.",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "BAKS",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "mellren",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399610,
@@ -12973,7 +13821,65 @@
     "team1-id": 6667,
     "team2-id": 13333,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Upper bracket round of 16",
+    "veto": [
+      "1. ASTRAL removed Dust2",
+      "2. FaZe removed Inferno",
+      "3. ASTRAL picked Ancient",
+      "4. FaZe picked Mirage",
+      "5. FaZe removed Anubis",
+      "6. ASTRAL removed Nuke",
+      "7. Cache was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FaZe",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ASTRAL",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FaZe",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ASTRAL",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FaZe",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ASTRAL",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 5:7) (4:2)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399830,
@@ -12985,7 +13891,65 @@
     "team1-id": 14002,
     "team2-id": 13981,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group A decider match",
+    "veto": [
+      "1. TrafficPills removed Ancient",
+      "2. NEXORA removed Inferno",
+      "3. TrafficPills picked Nuke",
+      "4. NEXORA picked Mirage",
+      "5. TrafficPills removed Anubis",
+      "6. NEXORA removed Cache",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "NEXORA",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "TrafficPills",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 3:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "NEXORA",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "TrafficPills",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "NEXORA",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "TrafficPills",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:2)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399777,
@@ -12997,7 +13961,65 @@
     "team1-id": 10333,
     "team2-id": 12366,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Round of 16",
+    "veto": [
+      "1. Aurora Young Blud removed Anubis",
+      "2. Sangal removed Inferno",
+      "3. Aurora Young Blud picked Ancient",
+      "4. Sangal picked Nuke",
+      "5. Sangal removed Dust2",
+      "6. Aurora Young Blud removed Cache",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Sangal",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Aurora Young Blud",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Sangal",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Aurora Young Blud",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Sangal",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Aurora Young Blud",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399321,
@@ -13009,7 +14031,65 @@
     "team1-id": 11699,
     "team2-id": 11719,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Swiss round 4 (teams with a 2-1 record). Winner advances to playoffs.",
+    "veto": [
+      "1. BAKS removed Anubis",
+      "2. Illyrians removed Nuke",
+      "3. BAKS picked Cache",
+      "4. Illyrians picked Dust2",
+      "5. BAKS removed Inferno",
+      "6. Illyrians removed Ancient",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "BAKS",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:4)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399579,
@@ -13021,7 +14101,65 @@
     "team1-id": 13667,
     "team2-id": 13983,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Upper bracket quarter-final",
+    "veto": [
+      "1. Vitalem Aerem removed Cache",
+      "2. NEXVOID removed Mirage",
+      "3. Vitalem Aerem picked Dust2",
+      "4. NEXVOID picked Inferno",
+      "5. NEXVOID removed Nuke",
+      "6. Vitalem Aerem removed Anubis",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "NEXVOID",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Vitalem Aerem",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "NEXVOID",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Vitalem Aerem",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "NEXVOID",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Vitalem Aerem",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399688,

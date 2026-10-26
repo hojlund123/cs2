@@ -1,5 +1,425 @@
 [
   {
+    "match-id": 2399736,
+    "url": "https://hltv.org/matches/2399736/nemiga-vs-aurora-pgl-masters-bucharest-2026",
+    "date": null,
+    "event": "PGL Masters Bucharest 2026",
+    "team1": "Nemiga",
+    "team2": "Aurora",
+    "team1-id": 7969,
+    "team2-id": 11861,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Swiss round 3 (teams with a 1-1 record)",
+    "veto": [
+      "1. Nemiga removed Inferno",
+      "2. Aurora removed Ancient",
+      "3. Nemiga picked Mirage",
+      "4. Aurora picked Anubis",
+      "5. Aurora removed Dust2",
+      "6. Nemiga removed Cache",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Nemiga",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Aurora",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 6:6) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Nemiga",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Aurora",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 0:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Nemiga",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Aurora",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399735,
+    "url": "https://hltv.org/matches/2399735/the-mongolz-vs-mouz-pgl-masters-bucharest-2026",
+    "date": null,
+    "event": "PGL Masters Bucharest 2026",
+    "team1": "The MongolZ",
+    "team2": "MOUZ",
+    "team1-id": 6248,
+    "team2-id": 4494,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Swiss round 3 (teams with a 1-1 record)",
+    "veto": [
+      "1. MOUZ removed Anubis",
+      "2. The MongolZ removed Cache",
+      "3. MOUZ picked Nuke",
+      "4. The MongolZ picked Mirage",
+      "5. The MongolZ removed Ancient",
+      "6. MOUZ removed Dust2",
+      "7. Inferno was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "The MongolZ",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "The MongolZ",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "The MongolZ",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399116,
+    "url": "https://hltv.org/matches/2399116/nemesis-vs-inox-division-nodwin-clutch-series-13",
+    "date": null,
+    "event": "NODWIN Clutch Series 13",
+    "team1": "Nemesis",
+    "team2": "INOX Division",
+    "team1-id": 8634,
+    "team2-id": 13814,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Quarter-final",
+    "veto": [
+      "1. INOX Division removed Mirage",
+      "2. Nemesis removed Anubis",
+      "3. INOX Division picked Dust2",
+      "4. Nemesis picked Cache",
+      "5. INOX Division removed Ancient",
+      "6. Nemesis removed Inferno",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Nemesis",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "INOX Division",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:4)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Nemesis",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "INOX Division",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:0)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Nemesis",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "INOX Division",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399894,
+    "url": "https://hltv.org/matches/2399894/nexvoid-vs-ground-zero-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "NEXVOID",
+    "team2": "Ground Zero",
+    "team1-id": 13667,
+    "team2-id": 8536,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group A elimination match",
+    "veto": [
+      "1. NEXVOID removed Mirage",
+      "2. Ground Zero removed Cache",
+      "3. NEXVOID picked Ancient",
+      "4. Ground Zero picked Anubis",
+      "5. NEXVOID removed Dust2",
+      "6. Ground Zero removed Inferno",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "NEXVOID",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Ground Zero",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "NEXVOID",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Ground Zero",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "NEXVOID",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Ground Zero",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399892,
+    "url": "https://hltv.org/matches/2399892/alter-ego-vs-off-chops-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "Alter Ego",
+    "team2": "Off Chops",
+    "team1-id": 9958,
+    "team2-id": 14095,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group A winners' match",
+    "veto": [
+      "1. Off Chops removed Mirage",
+      "2. Alter Ego removed Nuke",
+      "3. Off Chops picked Inferno",
+      "4. Alter Ego picked Ancient",
+      "5. Off Chops removed Anubis",
+      "6. Alter Ego removed Cache",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Alter Ego",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Off Chops",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Alter Ego",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Off Chops",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Alter Ego",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Off Chops",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399888,
+    "url": "https://hltv.org/matches/2399888/ground-zero-vs-off-chops-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "Ground Zero",
+    "team2": "Off Chops",
+    "team1-id": 8536,
+    "team2-id": 14095,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group A opening match",
+    "veto": [
+      "1. Off Chops removed Mirage",
+      "2. Ground Zero removed Cache",
+      "3. Off Chops picked Dust2",
+      "4. Ground Zero picked Anubis",
+      "5. Off Chops removed Ancient",
+      "6. Ground Zero removed Inferno",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Ground Zero",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Off Chops",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 3:6)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Ground Zero",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Off Chops",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 4:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Ground Zero",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Off Chops",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2399889,
     "url": "https://hltv.org/matches/2399889/nexvoid-vs-alter-ego-dfrag-invitational-2026",
     "date": null,

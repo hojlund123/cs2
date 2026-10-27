@@ -1,5 +1,565 @@
 [
   {
+    "match-id": 2399120,
+    "url": "https://hltv.org/matches/2399120/nemesis-vs-brute-nodwin-clutch-series-13",
+    "date": null,
+    "event": "NODWIN Clutch Series 13",
+    "team1": "Nemesis",
+    "team2": "BRUTE",
+    "team1-id": 8634,
+    "team2-id": 9139,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (Online)",
+    "stage": "Semi-final",
+    "veto": [
+      "1. BRUTE removed Ancient",
+      "2. Nemesis removed Anubis",
+      "3. BRUTE picked Mirage",
+      "4. Nemesis picked Cache",
+      "5. BRUTE removed Dust2",
+      "6. Nemesis removed Nuke",
+      "7. Inferno was left over"
+    ],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Nemesis",
+          "score": "3",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BRUTE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 0:4)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Nemesis",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BRUTE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Nemesis",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BRUTE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399893,
+    "url": "https://hltv.org/matches/2399893/flyquest-vs-rooster-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "FlyQuest",
+    "team2": "Rooster",
+    "team1-id": 12774,
+    "team2-id": 9881,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group B winners' match",
+    "veto": [
+      "1. Rooster removed Ancient",
+      "2. FlyQuest removed Mirage",
+      "3. Rooster picked Anubis",
+      "4. FlyQuest picked Inferno",
+      "5. Rooster removed Nuke",
+      "6. FlyQuest removed Cache",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "FlyQuest",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Rooster",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:1)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "FlyQuest",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Rooster",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(9:3; 2:10)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FlyQuest",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Rooster",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399866,
+    "url": "https://hltv.org/matches/2399866/b8-vs-k27-rlg-tesla-cup-2026",
+    "date": null,
+    "event": "RLG Tesla Cup 2026",
+    "team1": "B8",
+    "team2": "K27",
+    "team1-id": 11241,
+    "team2-id": 12895,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group A opening match",
+    "veto": [
+      "1. K27 removed Inferno",
+      "2. B8 removed Anubis",
+      "3. K27 picked Mirage",
+      "4. B8 picked Dust2",
+      "5. K27 removed Ancient",
+      "6. B8 removed Cache",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "B8",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "K27",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "B8",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "K27",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 1:6)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "B8",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "K27",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 0:7)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399895,
+    "url": "https://hltv.org/matches/2399895/staqued-vs-abyssal-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "Staqued",
+    "team2": "Abyssal",
+    "team1-id": 13997,
+    "team2-id": 13686,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group B elimination match",
+    "veto": [
+      "1. Staqued removed Nuke",
+      "2. Abyssal removed Anubis",
+      "3. Staqued picked Inferno",
+      "4. Abyssal picked Cache",
+      "5. Staqued removed Dust2",
+      "6. Abyssal removed Ancient",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Staqued",
+          "score": "2",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Abyssal",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 0:3)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Staqued",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Abyssal",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 2:7)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Staqued",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Abyssal",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399921,
+    "url": "https://hltv.org/matches/2399921/chinggis-warriors-vs-the-one-mesa-pro-series-halloween-cup-2026",
+    "date": null,
+    "event": "MESA Pro Series Halloween Cup 2026",
+    "team1": "Chinggis Warriors",
+    "team2": "the ONE",
+    "team1-id": 12646,
+    "team2-id": 14111,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Upper bracket semi-final",
+    "veto": [
+      "1. the ONE removed Nuke",
+      "2. Chinggis Warriors removed Anubis",
+      "3. the ONE picked Ancient",
+      "4. Chinggis Warriors picked Dust2",
+      "5. the ONE removed Cache",
+      "6. Chinggis Warriors removed Mirage",
+      "7. Inferno was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Chinggis Warriors",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "the ONE",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:1)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Chinggis Warriors",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "the ONE",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Chinggis Warriors",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "the ONE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399891,
+    "url": "https://hltv.org/matches/2399891/rooster-vs-abyssal-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "Rooster",
+    "team2": "Abyssal",
+    "team1-id": 9881,
+    "team2-id": 13686,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group B opening match",
+    "veto": [
+      "1. Abyssal removed Anubis",
+      "2. Rooster removed Ancient",
+      "3. Abyssal picked Inferno",
+      "4. Rooster picked Mirage",
+      "5. Abyssal removed Dust2",
+      "6. Rooster removed Cache",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Rooster",
+          "score": "15",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Abyssal",
+          "score": "19",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 8:4) (3:7)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Rooster",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Abyssal",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Rooster",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Abyssal",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399920,
+    "url": "https://hltv.org/matches/2399920/5star-vs-the-audacity-mesa-pro-series-halloween-cup-2026",
+    "date": null,
+    "event": "MESA Pro Series Halloween Cup 2026",
+    "team1": "5star",
+    "team2": "The Audacity",
+    "team1-id": 13724,
+    "team2-id": 14086,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Upper bracket semi-final",
+    "veto": [
+      "1. The Audacity removed Inferno",
+      "2. 5star removed Dust2",
+      "3. The Audacity picked Ancient",
+      "4. 5star picked Cache",
+      "5. The Audacity removed Anubis",
+      "6. 5star removed Mirage",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "5star",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "The Audacity",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 6:6)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "5star",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "The Audacity",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 1:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "5star",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "The Audacity",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399890,
+    "url": "https://hltv.org/matches/2399890/flyquest-vs-staqued-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "FlyQuest",
+    "team2": "Staqued",
+    "team1-id": 12774,
+    "team2-id": 13997,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group B opening match",
+    "veto": [
+      "1. Staqued removed Nuke",
+      "2. FlyQuest removed Mirage",
+      "3. Staqued picked Ancient",
+      "4. FlyQuest picked Inferno",
+      "5. Staqued removed Anubis",
+      "6. FlyQuest removed Dust2",
+      "7. Cache was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FlyQuest",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Staqued",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(11:1; 2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "FlyQuest",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Staqued",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:0)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FlyQuest",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Staqued",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2399742,
     "url": "https://hltv.org/matches/2399742/g2-vs-dendele-pgl-masters-bucharest-2026",
     "date": null,

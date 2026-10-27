@@ -1,5 +1,355 @@
 [
   {
+    "match-id": 2399747,
+    "url": "https://hltv.org/matches/2399747/vitality-vs-natus-vincere-pgl-masters-bucharest-2026",
+    "date": null,
+    "event": "PGL Masters Bucharest 2026",
+    "team1": "Vitality",
+    "team2": "Natus Vincere",
+    "team1-id": 9565,
+    "team2-id": 4608,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Swiss round 4 (teams with a 2-1 record). Winner advances to playoffs.",
+    "veto": [
+      "1. Natus Vincere removed Cache",
+      "2. Vitality removed Ancient",
+      "3. Natus Vincere picked Inferno",
+      "4. Vitality picked Dust2",
+      "5. Vitality removed Anubis",
+      "6. Natus Vincere removed Nuke",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Vitality",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Natus Vincere",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Vitality",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Natus Vincere",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(3:9; 10:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Vitality",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Natus Vincere",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399708,
+    "url": "https://hltv.org/matches/2399708/mibr-vs-eternal-fire-stake-ranked-episode-5",
+    "date": null,
+    "event": "Stake Ranked Episode 5",
+    "team1": "MIBR",
+    "team2": "Eternal Fire",
+    "team1-id": 9215,
+    "team2-id": 11251,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Upper bracket quarter-final",
+    "veto": [
+      "1. Eternal Fire removed Nuke",
+      "2. MIBR removed Dust2",
+      "3. Eternal Fire picked Ancient",
+      "4. MIBR picked Mirage",
+      "5. MIBR removed Cache",
+      "6. Eternal Fire removed Inferno",
+      "7. Anubis was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "MIBR",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Eternal Fire",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 4:7)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "MIBR",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Eternal Fire",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:3)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "MIBR",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Eternal Fire",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399514,
+    "url": "https://hltv.org/matches/2399514/inner-circle-academy-vs-lavked-cct-2026-europe-series-12",
+    "date": null,
+    "event": "CCT 2026 Europe Series 12",
+    "team1": "Inner Circle Academy",
+    "team2": "Lavked",
+    "team1-id": 13681,
+    "team2-id": 12609,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (Online)",
+    "stage": "Swiss round 4 (teams with a 2-1 record). Winner advances to playoffs.",
+    "veto": [
+      "1. Lavked removed Cache",
+      "2. Inner Circle Academy removed Inferno",
+      "3. Lavked picked Mirage",
+      "4. Inner Circle Academy picked Anubis",
+      "5. Lavked removed Nuke",
+      "6. Inner Circle Academy removed Dust2",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Inner Circle Academy",
+          "score": "17",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lavked",
+          "score": "19",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 10:2) (5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Inner Circle Academy",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lavked",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 4:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Inner Circle Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lavked",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399870,
+    "url": "https://hltv.org/matches/2399870/envy-vs-gamerlegion-rlg-tesla-cup-2026",
+    "date": null,
+    "event": "RLG Tesla Cup 2026",
+    "team1": "Envy",
+    "team2": "GamerLegion",
+    "team1-id": 5991,
+    "team2-id": 9928,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group B opening match",
+    "veto": [
+      "1. Envy removed Mirage",
+      "2. GamerLegion removed Anubis",
+      "3. Envy picked Dust2",
+      "4. GamerLegion picked Ancient",
+      "5. Envy removed Cache",
+      "6. GamerLegion removed Inferno",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Envy",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "GamerLegion",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 3:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Envy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "GamerLegion",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:1)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Envy",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "GamerLegion",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 2:9)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399122,
+    "url": "https://hltv.org/matches/2399122/brute-vs-fokus-nodwin-clutch-series-13",
+    "date": null,
+    "event": "NODWIN Clutch Series 13",
+    "team1": "BRUTE",
+    "team2": "FOKUS",
+    "team1-id": 9139,
+    "team2-id": 13679,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "Best of 3 (Online)",
+    "stage": "Grand final",
+    "veto": [
+      "1. FOKUS removed Inferno",
+      "2. BRUTE removed Ancient",
+      "3. FOKUS picked Cache",
+      "4. BRUTE picked Mirage",
+      "5. FOKUS removed Dust2",
+      "6. BRUTE removed Anubis",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "BRUTE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FOKUS",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "BRUTE",
+          "score": "23",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FOKUS",
+          "score": "25",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 6:6) (11:13)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "BRUTE",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FOKUS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 6:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2399748,
     "url": "https://hltv.org/matches/2399748/furia-vs-tyloo-pgl-masters-bucharest-2026",
     "date": null,

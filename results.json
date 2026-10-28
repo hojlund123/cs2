@@ -1,5 +1,355 @@
 [
   {
+    "match-id": 2399871,
+    "url": "https://hltv.org/matches/2399871/b8-vs-alliance-rlg-tesla-cup-2026",
+    "date": null,
+    "event": "RLG Tesla Cup 2026",
+    "team1": "B8",
+    "team2": "Alliance",
+    "team1-id": 11241,
+    "team2-id": 12474,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group A elimination match",
+    "veto": [
+      "1. Alliance removed Cache",
+      "2. B8 removed Anubis",
+      "3. Alliance picked Inferno",
+      "4. B8 picked Mirage",
+      "5. Alliance removed Dust2",
+      "6. B8 removed Nuke",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "B8",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Alliance",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "B8",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Alliance",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "B8",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Alliance",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399923,
+    "url": "https://hltv.org/matches/2399923/the-audacity-vs-chinggis-warriors-mesa-pro-series-halloween-cup-2026",
+    "date": null,
+    "event": "MESA Pro Series Halloween Cup 2026",
+    "team1": "The Audacity",
+    "team2": "Chinggis Warriors",
+    "team1-id": 14086,
+    "team2-id": 12646,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Upper bracket final",
+    "veto": [
+      "1. The Audacity removed Dust2",
+      "2. Chinggis Warriors removed Anubis",
+      "3. The Audacity picked Ancient",
+      "4. Chinggis Warriors picked Nuke",
+      "5. The Audacity removed Inferno",
+      "6. Chinggis Warriors removed Mirage",
+      "7. Cache was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "The Audacity",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Chinggis Warriors",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "The Audacity",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Chinggis Warriors",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "The Audacity",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Chinggis Warriors",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399897,
+    "url": "https://hltv.org/matches/2399897/abyssal-vs-rooster-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "Abyssal",
+    "team2": "Rooster",
+    "team1-id": 13686,
+    "team2-id": 9881,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group B decider match",
+    "veto": [
+      "1. Abyssal removed Anubis",
+      "2. Rooster removed Ancient",
+      "3. Abyssal picked Inferno",
+      "4. Rooster picked Mirage",
+      "5. Abyssal removed Dust2",
+      "6. Rooster removed Cache",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Abyssal",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Rooster",
+          "score": "12",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 6:6) (4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Abyssal",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Rooster",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Abyssal",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Rooster",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399922,
+    "url": "https://hltv.org/matches/2399922/5star-vs-the-one-mesa-pro-series-halloween-cup-2026",
+    "date": null,
+    "event": "MESA Pro Series Halloween Cup 2026",
+    "team1": "5star",
+    "team2": "the ONE",
+    "team1-id": 13724,
+    "team2-id": 14111,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Lower bracket final",
+    "veto": [
+      "1. the ONE removed Anubis",
+      "2. 5star removed Dust2",
+      "3. the ONE picked Mirage",
+      "4. 5star picked Inferno",
+      "5. the ONE removed Cache",
+      "6. 5star removed Ancient",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "5star",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "the ONE",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:3)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "5star",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "the ONE",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "5star",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "the ONE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399896,
+    "url": "https://hltv.org/matches/2399896/off-chops-vs-nexvoid-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "Off Chops",
+    "team2": "NEXVOID",
+    "team1-id": 14095,
+    "team2-id": 13667,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group A decider match",
+    "veto": [
+      "1. Off Chops removed Ancient",
+      "2. NEXVOID removed Mirage",
+      "3. Off Chops picked Cache",
+      "4. NEXVOID picked Inferno",
+      "5. Off Chops removed Anubis",
+      "6. NEXVOID removed Dust2",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Off Chops",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NEXVOID",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Off Chops",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NEXVOID",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 1:8)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Off Chops",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NEXVOID",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 1:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2399747,
     "url": "https://hltv.org/matches/2399747/vitality-vs-natus-vincere-pgl-masters-bucharest-2026",
     "date": null,

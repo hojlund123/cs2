@@ -1,5 +1,529 @@
 [
   {
+    "match-id": 2399752,
+    "url": "https://hltv.org/matches/2399752/fut-vs-nemiga-pgl-masters-bucharest-2026",
+    "date": null,
+    "event": "PGL Masters Bucharest 2026",
+    "team1": "FUT",
+    "team2": "Nemiga",
+    "team1-id": 13286,
+    "team2-id": 7969,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Quarter-final",
+    "veto": [
+      "1. Nemiga removed Anubis",
+      "2. FUT removed Inferno",
+      "3. Nemiga picked Nuke",
+      "4. FUT picked Dust2",
+      "5. FUT removed Cache",
+      "6. Nemiga removed Mirage",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "FUT",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Nemiga",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(9:3; 2:10)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FUT",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Nemiga",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 3:7)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FUT",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Nemiga",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399714,
+    "url": "https://hltv.org/matches/2399714/eternal-fire-vs-big-stake-ranked-episode-5",
+    "date": null,
+    "event": "Stake Ranked Episode 5",
+    "team1": "Eternal Fire",
+    "team2": "BIG",
+    "team1-id": 11251,
+    "team2-id": 7532,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Lower bracket semi-final",
+    "veto": [
+      "1. Eternal Fire removed Nuke",
+      "2. BIG removed Dust2",
+      "3. Eternal Fire picked Ancient",
+      "4. BIG picked Inferno",
+      "5. BIG removed Anubis",
+      "6. Eternal Fire removed Mirage",
+      "7. Cache was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Eternal Fire",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BIG",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:2)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Eternal Fire",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BIG",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Eternal Fire",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BIG",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399518,
+    "url": "https://hltv.org/matches/2399518/butterfly-vs-forze-reload-cct-2026-europe-series-12",
+    "date": null,
+    "event": "CCT 2026 Europe Series 12",
+    "team1": "Butterfly",
+    "team2": "FORZE Reload",
+    "team1-id": 13908,
+    "team2-id": 12857,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Round of 16",
+    "veto": [
+      "1. Butterfly removed Anubis",
+      "2. FORZE Reload removed Inferno",
+      "3. Butterfly picked Nuke",
+      "4. FORZE Reload picked Ancient",
+      "5. Butterfly removed Cache",
+      "6. FORZE Reload removed Mirage",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Butterfly",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 7:5) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:1)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400021,
+    "url": "https://hltv.org/matches/2400021/pcific-vs-black-phoenix-cis-esports-league-cyberclash-season-2-finals",
+    "date": null,
+    "event": "CIS Esports League CyberClash Season 2 Finals",
+    "team1": "PCIFIC",
+    "team2": "Black Phoenix",
+    "team1-id": 13054,
+    "team2-id": 13924,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Quarter-final",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "PCIFIC",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399876,
+    "url": "https://hltv.org/matches/2399876/b8-vs-hotu-rlg-tesla-cup-2026",
+    "date": null,
+    "event": "RLG Tesla Cup 2026",
+    "team1": "B8",
+    "team2": "HOTU",
+    "team1-id": 11241,
+    "team2-id": 11581,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Semi-final",
+    "veto": [
+      "1. B8 removed Anubis",
+      "2. HOTU removed Inferno",
+      "3. B8 picked Ancient",
+      "4. HOTU picked Dust2",
+      "5. B8 removed Cache",
+      "6. HOTU removed Mirage",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "B8",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "HOTU",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 5:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "B8",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "HOTU",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "B8",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "HOTU",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399926,
+    "url": "https://hltv.org/matches/2399926/wbt-academy-vs-saw-youngsters-hyperx-retake-season-13",
+    "date": null,
+    "event": "HyperX Retake Season 13",
+    "team1": "WBT Academy",
+    "team2": "SAW Youngsters",
+    "team1-id": 13999,
+    "team2-id": 11248,
+    "team1score": 6,
+    "team2score": 13,
+    "format": "Best of 1 (LAN)",
+    "stage": "Group A opening match",
+    "veto": [
+      "1. SAW Youngsters removed Cache",
+      "2. WBT Academy removed Inferno",
+      "3. SAW Youngsters removed Ancient",
+      "4. WBT Academy removed Mirage",
+      "5. SAW Youngsters removed Dust2",
+      "6. WBT Academy removed Nuke",
+      "7. Anubis was left over"
+    ],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "WBT Academy",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "SAW Youngsters",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 1:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399925,
+    "url": "https://hltv.org/matches/2399925/the-audacity-vs-chinggis-warriors-mesa-pro-series-halloween-cup-2026",
+    "date": null,
+    "event": "MESA Pro Series Halloween Cup 2026",
+    "team1": "The Audacity",
+    "team2": "Chinggis Warriors",
+    "team1-id": 14086,
+    "team2-id": 12646,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Grand final",
+    "veto": [
+      "1. Chinggis Warriors removed Anubis",
+      "2. The Audacity removed Dust2",
+      "3. Chinggis Warriors picked Inferno",
+      "4. The Audacity picked Mirage",
+      "5. Chinggis Warriors removed Cache",
+      "6. The Audacity removed Ancient",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "The Audacity",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Chinggis Warriors",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 8:4) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "The Audacity",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Chinggis Warriors",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "The Audacity",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Chinggis Warriors",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 1:8)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400020,
+    "url": "https://hltv.org/matches/2400020/nuclear-tigeres-vs-hyperspirit-cis-esports-league-cyberclash-season-2-finals",
+    "date": null,
+    "event": "CIS Esports League CyberClash Season 2 Finals",
+    "team1": "Nuclear TigeRES",
+    "team2": "HYPERSPIRIT",
+    "team1-id": 13027,
+    "team2-id": 13012,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Quarter-final",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Nuclear TigeRES",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "HYPERSPIRIT",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399924,
+    "url": "https://hltv.org/matches/2399924/5star-vs-chinggis-warriors-mesa-pro-series-halloween-cup-2026",
+    "date": null,
+    "event": "MESA Pro Series Halloween Cup 2026",
+    "team1": "5star",
+    "team2": "Chinggis Warriors",
+    "team1-id": 13724,
+    "team2-id": 12646,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Consolidation final",
+    "veto": [
+      "1. 5star removed Dust2",
+      "2. Chinggis Warriors removed Anubis",
+      "3. 5star picked Inferno",
+      "4. Chinggis Warriors picked Ancient",
+      "5. 5star removed Mirage",
+      "6. Chinggis Warriors removed Cache",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "5star",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Chinggis Warriors",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "5star",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Chinggis Warriors",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 3:7)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "5star",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Chinggis Warriors",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 5:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2399751,
     "url": "https://hltv.org/matches/2399751/spirit-vs-natus-vincere-pgl-masters-bucharest-2026",
     "date": null,

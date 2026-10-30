@@ -1,5 +1,495 @@
 [
   {
+    "match-id": 2399899,
+    "url": "https://hltv.org/matches/2399899/nexvoid-vs-flyquest-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "NEXVOID",
+    "team2": "FlyQuest",
+    "team1-id": 13667,
+    "team2-id": 12774,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Upper bracket semi-final",
+    "veto": [
+      "1. FlyQuest removed Ancient",
+      "2. NEXVOID removed Anubis",
+      "3. FlyQuest picked Dust2",
+      "4. NEXVOID picked Nuke",
+      "5. FlyQuest removed Mirage",
+      "6. NEXVOID removed Cache",
+      "7. Inferno was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "NEXVOID",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FlyQuest",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 2:7)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "NEXVOID",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FlyQuest",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "NEXVOID",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FlyQuest",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399898,
+    "url": "https://hltv.org/matches/2399898/alter-ego-vs-abyssal-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "Alter Ego",
+    "team2": "Abyssal",
+    "team1-id": 9958,
+    "team2-id": 13686,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Upper bracket semi-final",
+    "veto": [
+      "1. Abyssal removed Anubis",
+      "2. Alter Ego removed Nuke",
+      "3. Abyssal picked Inferno",
+      "4. Alter Ego picked Dust2",
+      "5. Abyssal removed Ancient",
+      "6. Alter Ego removed Cache",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Alter Ego",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Abyssal",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Alter Ego",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Abyssal",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Alter Ego",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Abyssal",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399968,
+    "url": "https://hltv.org/matches/2399968/nrg-vs-procyon-fire-last-chance-2026",
+    "date": null,
+    "event": "FiRe Last Chance 2026",
+    "team1": "NRG",
+    "team2": "Procyon",
+    "team1-id": 6673,
+    "team2-id": 10997,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group B winners' match",
+    "veto": [
+      "1. Procyon removed Cache",
+      "2. NRG removed Anubis",
+      "3. Procyon picked Inferno",
+      "4. NRG picked Dust2",
+      "5. Procyon removed Mirage",
+      "6. NRG removed Ancient",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "NRG",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Procyon",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "NRG",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Procyon",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:1)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "NRG",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Procyon",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 4:8) (4:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399969,
+    "url": "https://hltv.org/matches/2399969/tactical-chaos-vs-galorys-fire-last-chance-2026",
+    "date": null,
+    "event": "FiRe Last Chance 2026",
+    "team1": "Tactical Chaos",
+    "team2": "Galorys",
+    "team1-id": 14109,
+    "team2-id": 12677,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group B elimination match",
+    "veto": [
+      "1. Tactical Chaos removed Cache",
+      "2. Galorys removed Mirage",
+      "3. Tactical Chaos picked Ancient",
+      "4. Galorys picked Nuke",
+      "5. Tactical Chaos removed Anubis",
+      "6. Galorys removed Inferno",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Tactical Chaos",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Galorys",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 2:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Tactical Chaos",
+          "score": "2",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Galorys",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 1:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Tactical Chaos",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Galorys",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399951,
+    "url": "https://hltv.org/matches/2399951/turma-do-pagode-vs-alka-gamers-club-masters-vii",
+    "date": null,
+    "event": "Gamers Club Masters VII",
+    "team1": "Turma do Pagode",
+    "team2": "ALKA",
+    "team1-id": 9686,
+    "team2-id": 13756,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group A opening match",
+    "veto": [
+      "1. ALKA removed Inferno",
+      "2. Turma do Pagode removed Mirage",
+      "3. ALKA picked Cache",
+      "4. Turma do Pagode picked Anubis",
+      "5. ALKA removed Ancient",
+      "6. Turma do Pagode removed Dust2",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Turma do Pagode",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ALKA",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Turma do Pagode",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ALKA",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Turma do Pagode",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ALKA",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399967,
+    "url": "https://hltv.org/matches/2399967/galorys-vs-procyon-fire-last-chance-2026",
+    "date": null,
+    "event": "FiRe Last Chance 2026",
+    "team1": "Galorys",
+    "team2": "Procyon",
+    "team1-id": 12677,
+    "team2-id": 10997,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group B opening match",
+    "veto": [
+      "1. Procyon removed Cache",
+      "2. Galorys removed Mirage",
+      "3. Procyon picked Inferno",
+      "4. Galorys picked Ancient",
+      "5. Procyon removed Nuke",
+      "6. Galorys removed Anubis",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Galorys",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Procyon",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(9:3; 2:10)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Galorys",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Procyon",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Galorys",
+          "score": "17",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Procyon",
+          "score": "19",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 6:6) (5:7)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399931,
+    "url": "https://hltv.org/matches/2399931/zotix-vs-tyloo-hyperx-retake-season-13",
+    "date": null,
+    "event": "HyperX Retake Season 13",
+    "team1": "ZOTIX",
+    "team2": "TYLOO",
+    "team1-id": 13797,
+    "team2-id": 4863,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group C decider match",
+    "veto": [
+      "1. ZOTIX removed Nuke",
+      "2. TYLOO removed Dust2",
+      "3. ZOTIX picked Anubis",
+      "4. TYLOO picked Mirage",
+      "5. ZOTIX removed Cache",
+      "6. TYLOO removed Ancient",
+      "7. Inferno was left over"
+    ],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "ZOTIX",
+          "score": "3",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "TYLOO",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 1:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "ZOTIX",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "TYLOO",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "ZOTIX",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "TYLOO",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2399755,
     "url": "https://hltv.org/matches/2399755/betboom-vs-furia-pgl-masters-bucharest-2026",
     "date": null,
@@ -1647,7 +2137,65 @@
     "team1-id": 11655,
     "team2-id": 13811,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group B opening match",
+    "veto": [
+      "1. QUINTESSÊNCIA removed Nuke",
+      "2. Imperial removed Anubis",
+      "3. QUINTESSÊNCIA picked Cache",
+      "4. Imperial picked Inferno",
+      "5. QUINTESSÊNCIA removed Mirage",
+      "6. Imperial removed Ancient",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Imperial",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "QUINTESSÊNCIA",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:3)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Imperial",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "QUINTESSÊNCIA",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Imperial",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "QUINTESSÊNCIA",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399877,

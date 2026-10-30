@@ -1,5 +1,255 @@
 [
   {
+    "match-id": 2399522,
+    "url": "https://hltv.org/matches/2399522/genone-vs-baks-cct-2026-europe-series-12",
+    "date": null,
+    "event": "CCT 2026 Europe Series 12",
+    "team1": "GenOne",
+    "team2": "BAKS",
+    "team1-id": 11609,
+    "team2-id": 11699,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "Best of 3 (Online)",
+    "stage": "Round of 16",
+    "veto": [
+      "1. GenOne removed Mirage",
+      "2. BAKS removed Anubis",
+      "3. GenOne picked Inferno",
+      "4. BAKS picked Cache",
+      "5. GenOne removed Ancient",
+      "6. BAKS removed Dust2",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "GenOne",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "GenOne",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 3:2)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "GenOne",
+          "score": "1",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 0:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399933,
+    "url": "https://hltv.org/matches/2399933/natus-vincere-vs-toobisie-hyperx-retake-season-13",
+    "date": null,
+    "event": "HyperX Retake Season 13",
+    "team1": "Natus Vincere",
+    "team2": "Toobisie",
+    "team1-id": 4608,
+    "team2-id": 13993,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group B winners' match",
+    "veto": [
+      "1. Toobisie removed Inferno",
+      "2. Natus Vincere removed Mirage",
+      "3. Toobisie picked Nuke",
+      "4. Natus Vincere picked Ancient",
+      "5. Toobisie removed Anubis",
+      "6. Natus Vincere removed Dust2",
+      "7. Cache was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Natus Vincere",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Toobisie",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Natus Vincere",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Toobisie",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Natus Vincere",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Toobisie",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399932,
+    "url": "https://hltv.org/matches/2399932/basement-boys-vs-toobisie-hyperx-retake-season-13",
+    "date": null,
+    "event": "HyperX Retake Season 13",
+    "team1": "BASEMENT BOYS",
+    "team2": "Toobisie",
+    "team1-id": 13181,
+    "team2-id": 13993,
+    "team1score": 2,
+    "team2score": 13,
+    "format": "Best of 1 (LAN)",
+    "stage": "Group B opening match",
+    "veto": [
+      "1. Toobisie removed Ancient",
+      "2. BASEMENT BOYS removed Inferno",
+      "3. Toobisie removed Mirage",
+      "4. BASEMENT BOYS removed Anubis",
+      "5. Toobisie removed Dust2",
+      "6. BASEMENT BOYS removed Nuke",
+      "7. Cache was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "BASEMENT BOYS",
+          "score": "2",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Toobisie",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 1:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399900,
+    "url": "https://hltv.org/matches/2399900/alter-ego-vs-flyquest-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "Alter Ego",
+    "team2": "FlyQuest",
+    "team1-id": 9958,
+    "team2-id": 12774,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Upper bracket final",
+    "veto": [
+      "1. Alter Ego removed Nuke",
+      "2. FlyQuest removed Mirage",
+      "3. Alter Ego picked Ancient",
+      "4. FlyQuest picked Inferno",
+      "5. Alter Ego removed Dust2",
+      "6. FlyQuest removed Cache",
+      "7. Anubis was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Alter Ego",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FlyQuest",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 4:7)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Alter Ego",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FlyQuest",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 2:6)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Alter Ego",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FlyQuest",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2399899,
     "url": "https://hltv.org/matches/2399899/nexvoid-vs-flyquest-dfrag-invitational-2026",
     "date": null,
@@ -2207,7 +2457,65 @@
     "team1-id": 6667,
     "team2-id": 9928,
     "team1score": 1,
-    "team2score": 2
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Semi-final",
+    "veto": [
+      "1. GamerLegion removed Anubis",
+      "2. FaZe removed Inferno",
+      "3. GamerLegion picked Dust2",
+      "4. FaZe picked Mirage",
+      "5. GamerLegion removed Ancient",
+      "6. FaZe removed Cache",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FaZe",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "GamerLegion",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 1:9)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FaZe",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "GamerLegion",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 6:6) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "FaZe",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "GamerLegion",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 3:5)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399962,
@@ -2219,7 +2527,65 @@
     "team1-id": 8474,
     "team2-id": 14114,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group A opening match",
+    "veto": [
+      "1. Arena Pro removed Cache",
+      "2. 100 Thieves removed Nuke",
+      "3. Arena Pro picked Mirage",
+      "4. 100 Thieves picked Dust2",
+      "5. Arena Pro removed Inferno",
+      "6. 100 Thieves removed Anubis",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "100 Thieves",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Arena Pro",
+          "score": "1",
+          "status": "lost"
+        },
+        "half_scores": "(11:1; 2:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "100 Thieves",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Arena Pro",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "100 Thieves",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Arena Pro",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400013,
@@ -2231,7 +2597,27 @@
     "team1-id": 11110,
     "team2-id": 13599,
     "team1score": 1,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Group A opening match",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Honvéd",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "benched gods",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400012,
@@ -2243,7 +2629,65 @@
     "team1-id": 11446,
     "team2-id": 13945,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Group A opening match",
+    "veto": [
+      "1. MAYBE removed Nuke",
+      "2. Leo removed Mirage",
+      "3. MAYBE picked Ancient",
+      "4. Leo picked Cache",
+      "5. MAYBE removed Dust2",
+      "6. Leo removed Anubis",
+      "7. Inferno was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Leo",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Leo",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 2:5)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Leo",
+          "score": "34",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "31",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 3:9) (22:19)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399927,
@@ -2255,7 +2699,65 @@
     "team1-id": 10245,
     "team2-id": 11248,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group A winners' match",
+    "veto": [
+      "1. SAW Youngsters removed Cache",
+      "2. JiJieHao removed Nuke",
+      "3. SAW Youngsters picked Inferno",
+      "4. JiJieHao picked Mirage",
+      "5. SAW Youngsters removed Ancient",
+      "6. JiJieHao removed Anubis",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "JiJieHao",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "SAW Youngsters",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 6:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "JiJieHao",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "SAW Youngsters",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "JiJieHao",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "SAW Youngsters",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399752,

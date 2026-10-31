@@ -1,5 +1,419 @@
 [
   {
+    "match-id": 2399902,
+    "url": "https://hltv.org/matches/2399902/abyssal-vs-nexvoid-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "Abyssal",
+    "team2": "NEXVOID",
+    "team1-id": 13686,
+    "team2-id": 13667,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Lower bracket final",
+    "veto": [
+      "1. Abyssal removed Anubis",
+      "2. NEXVOID removed Mirage",
+      "3. Abyssal picked Cache",
+      "4. NEXVOID picked Ancient",
+      "5. Abyssal removed Dust2",
+      "6. NEXVOID removed Inferno",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Abyssal",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NEXVOID",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 2:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Abyssal",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NEXVOID",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 3:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Abyssal",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NEXVOID",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399941,
+    "url": "https://hltv.org/matches/2399941/metizport-vs-tyloo-hyperx-retake-season-13",
+    "date": null,
+    "event": "HyperX Retake Season 13",
+    "team1": "Metizport",
+    "team2": "TYLOO",
+    "team1-id": 11641,
+    "team2-id": 4863,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Quarter-final",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Metizport",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "TYLOO",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399940,
+    "url": "https://hltv.org/matches/2399940/natus-vincere-vs-wbt-academy-hyperx-retake-season-13",
+    "date": null,
+    "event": "HyperX Retake Season 13",
+    "team1": "Natus Vincere",
+    "team2": "WBT Academy",
+    "team1-id": 4608,
+    "team2-id": 13999,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Quarter-final",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Natus Vincere",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "WBT Academy",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399976,
+    "url": "https://hltv.org/matches/2399976/wildcard-vs-bestia-fire-last-chance-2026",
+    "date": null,
+    "event": "FiRe Last Chance 2026",
+    "team1": "Wildcard",
+    "team2": "BESTIA",
+    "team1-id": 12257,
+    "team2-id": 12144,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group D winners' match",
+    "veto": [
+      "1. BESTIA removed Anubis",
+      "2. Wildcard removed Ancient",
+      "3. BESTIA picked Inferno",
+      "4. Wildcard picked Nuke",
+      "5. BESTIA removed Cache",
+      "6. Wildcard removed Dust2",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Wildcard",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BESTIA",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 1:8)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Wildcard",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BESTIA",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Wildcard",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BESTIA",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 3:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399955,
+    "url": "https://hltv.org/matches/2399955/dendele-vs-turma-do-pagode-gamers-club-masters-vii",
+    "date": null,
+    "event": "Gamers Club Masters VII",
+    "team1": "DENDELE",
+    "team2": "Turma do Pagode",
+    "team1-id": 13926,
+    "team2-id": 9686,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group A winners' match",
+    "veto": [
+      "1. Turma do Pagode removed Mirage",
+      "2. DENDELE removed Dust2",
+      "3. Turma do Pagode picked Ancient",
+      "4. DENDELE picked Nuke",
+      "5. Turma do Pagode removed Inferno",
+      "6. DENDELE removed Anubis",
+      "7. Cache was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "DENDELE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Turma do Pagode",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "DENDELE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Turma do Pagode",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "DENDELE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Turma do Pagode",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399939,
+    "url": "https://hltv.org/matches/2399939/og-vs-bcgame-hyperx-retake-season-13",
+    "date": null,
+    "event": "HyperX Retake Season 13",
+    "team1": "OG",
+    "team2": "BC.Game",
+    "team1-id": 10411,
+    "team2-id": 12878,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group D decider match",
+    "veto": [
+      "1. OG removed Mirage",
+      "2. BC.Game removed Anubis",
+      "3. OG picked Inferno",
+      "4. BC.Game picked Cache",
+      "5. OG removed Nuke",
+      "6. BC.Game removed Ancient",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "OG",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BC.Game",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:6)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "OG",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BC.Game",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 4:8) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "OG",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BC.Game",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399977,
+    "url": "https://hltv.org/matches/2399977/hacha-vs-bth-fire-last-chance-2026",
+    "date": null,
+    "event": "FiRe Last Chance 2026",
+    "team1": "Hacha",
+    "team2": "BTH",
+    "team1-id": 13722,
+    "team2-id": 11226,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group D elimination match",
+    "veto": [
+      "1. Hacha removed Anubis",
+      "2. BTH removed Cache",
+      "3. Hacha picked Nuke",
+      "4. BTH picked Dust2",
+      "5. Hacha removed Mirage",
+      "6. BTH removed Inferno",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Hacha",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BTH",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(12:0; 1:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Hacha",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BTH",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Hacha",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BTH",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2399757,
     "url": "https://hltv.org/matches/2399757/mouz-vs-furia-pgl-masters-bucharest-2026",
     "date": null,
@@ -1449,7 +1863,65 @@
     "team1-id": 13811,
     "team2-id": 13473,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group B elimination match",
+    "veto": [
+      "1. QUINTESSÊNCIA removed Nuke",
+      "2. NAOCOPULAS removed Cache",
+      "3. QUINTESSÊNCIA picked Dust2",
+      "4. NAOCOPULAS picked Ancient",
+      "5. QUINTESSÊNCIA removed Anubis",
+      "6. NAOCOPULAS removed Inferno",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NAOCOPULAS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NAOCOPULAS",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(9:3; 3:9) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NAOCOPULAS",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399717,
@@ -1461,7 +1933,65 @@
     "team1-id": 9215,
     "team2-id": 11251,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Consolidation final",
+    "veto": [
+      "1. Eternal Fire removed Nuke",
+      "2. MIBR removed Dust2",
+      "3. Eternal Fire picked Ancient",
+      "4. MIBR picked Inferno",
+      "5. MIBR removed Cache",
+      "6. Eternal Fire removed Mirage",
+      "7. Anubis was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "MIBR",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Eternal Fire",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 4:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "MIBR",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Eternal Fire",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 4:5)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "MIBR",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Eternal Fire",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399970,
@@ -1473,7 +2003,65 @@
     "team1-id": 11837,
     "team2-id": 14108,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group C opening match",
+    "veto": [
+      "1. Signatus removed Inferno",
+      "2. Fluxo removed Ancient",
+      "3. Signatus picked Dust2",
+      "4. Fluxo picked Cache",
+      "5. Signatus removed Anubis",
+      "6. Fluxo removed Nuke",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Fluxo",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Signatus",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "(12:0; 1:0)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Fluxo",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Signatus",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Fluxo",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Signatus",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399523,
@@ -1485,7 +2073,65 @@
     "team1-id": 13679,
     "team2-id": 14084,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Round of 16",
+    "veto": [
+      "1. FOKUS removed Inferno",
+      "2. LFO 10 removed Nuke",
+      "3. FOKUS picked Cache",
+      "4. LFO 10 picked Mirage",
+      "5. FOKUS removed Anubis",
+      "6. LFO 10 removed Dust2",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FOKUS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:1)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FOKUS",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 2:10) (4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FOKUS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2399522,

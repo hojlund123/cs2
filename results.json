@@ -1,5 +1,355 @@
 [
   {
+    "match-id": 2399758,
+    "url": "https://hltv.org/matches/2399758/vitality-vs-mouz-pgl-masters-bucharest-2026",
+    "date": null,
+    "event": "PGL Masters Bucharest 2026",
+    "team1": "Vitality",
+    "team2": "MOUZ",
+    "team1-id": 9565,
+    "team2-id": 4494,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "3rd place decider match",
+    "veto": [
+      "1. MOUZ removed Anubis",
+      "2. Vitality removed Ancient",
+      "3. MOUZ picked Nuke",
+      "4. Vitality picked Inferno",
+      "5. Vitality removed Cache",
+      "6. MOUZ removed Dust2",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Vitality",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 2:6)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Vitality",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 3:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Vitality",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400016,
+    "url": "https://hltv.org/matches/2400016/psychoface-vs-donstu-cct-2026-europe-series-13-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": "PsychoFace",
+    "team2": "DONSTU",
+    "team1-id": 13799,
+    "team2-id": 13714,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (Online)",
+    "stage": "Group C opening match",
+    "veto": [
+      "1. DONSTU removed Mirage",
+      "2. PsychoFace removed Anubis",
+      "3. DONSTU picked Cache",
+      "4. PsychoFace picked Nuke",
+      "5. DONSTU removed Inferno",
+      "6. PsychoFace removed Ancient",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "PsychoFace",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "DONSTU",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "PsychoFace",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "DONSTU",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 9:3) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "PsychoFace",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "DONSTU",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399526,
+    "url": "https://hltv.org/matches/2399526/spirit-academy-vs-phantom-cct-2026-europe-series-12",
+    "date": null,
+    "event": "CCT 2026 Europe Series 12",
+    "team1": "Spirit Academy",
+    "team2": "Phantom",
+    "team1-id": 7900,
+    "team2-id": 13173,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (Online)",
+    "stage": "Quarter-final",
+    "veto": [
+      "1. Phantom removed Cache",
+      "2. Spirit Academy removed Inferno",
+      "3. Phantom picked Anubis",
+      "4. Spirit Academy picked Ancient",
+      "5. Phantom removed Dust2",
+      "6. Spirit Academy removed Nuke",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Spirit Academy",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Spirit Academy",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 4:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Spirit Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399437,
+    "url": "https://hltv.org/matches/2399437/hotu-vs-the-huns-gluck-moscow-cyber-games-2026",
+    "date": null,
+    "event": "GLuck Moscow Cyber Games 2026",
+    "team1": "HOTU",
+    "team2": "The Huns",
+    "team1-id": 11581,
+    "team2-id": 12510,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Semi-final",
+    "veto": [
+      "1. The Huns removed Anubis",
+      "2. HOTU removed Inferno",
+      "3. The Huns picked Ancient",
+      "4. HOTU picked Cache",
+      "5. The Huns removed Nuke",
+      "6. HOTU removed Mirage",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "HOTU",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "The Huns",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "HOTU",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "The Huns",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "HOTU",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "The Huns",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399903,
+    "url": "https://hltv.org/matches/2399903/alter-ego-vs-nexvoid-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "Alter Ego",
+    "team2": "NEXVOID",
+    "team1-id": 9958,
+    "team2-id": 13667,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Consolidation final",
+    "veto": [
+      "1. Alter Ego removed Nuke",
+      "2. NEXVOID removed Mirage",
+      "3. Alter Ego picked Dust2",
+      "4. NEXVOID picked Inferno",
+      "5. Alter Ego removed Cache",
+      "6. NEXVOID removed Anubis",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Alter Ego",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NEXVOID",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 7:5) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Alter Ego",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NEXVOID",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Alter Ego",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NEXVOID",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 5:7) (4:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2399902,
     "url": "https://hltv.org/matches/2399902/abyssal-vs-nexvoid-dfrag-invitational-2026",
     "date": null,

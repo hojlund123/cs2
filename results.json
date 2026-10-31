@@ -1,5 +1,1357 @@
 [
   {
+    "match-id": 2399759,
+    "url": "https://hltv.org/matches/2399759/nemiga-vs-furia-pgl-masters-bucharest-2026",
+    "date": null,
+    "event": "PGL Masters Bucharest 2026",
+    "team1": "Nemiga",
+    "team2": "FURIA",
+    "team1-id": 7969,
+    "team2-id": 8297,
+    "team1score": 2,
+    "team2score": 3,
+    "format": "Best of 5 (LAN)",
+    "stage": "Grand final",
+    "veto": [
+      "1. Nemiga removed Inferno",
+      "2. FURIA removed Anubis",
+      "3. Nemiga picked Ancient",
+      "4. FURIA picked Dust2",
+      "5. Nemiga picked Cache",
+      "6. FURIA picked Mirage",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Nemiga",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FURIA",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Nemiga",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FURIA",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 3:3)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Nemiga",
+          "score": "2",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FURIA",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 0:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Nemiga",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FURIA",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:8)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Nemiga",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FURIA",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 1:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399529,
+    "url": "https://hltv.org/matches/2399529/acend-vs-butterfly-cct-2026-europe-series-12",
+    "date": null,
+    "event": "CCT 2026 Europe Series 12",
+    "team1": "Acend",
+    "team2": "Butterfly",
+    "team1-id": 13518,
+    "team2-id": 13908,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Quarter-final",
+    "veto": [
+      "1. Butterfly removed Anubis",
+      "2. Acend removed Nuke",
+      "3. Butterfly picked Dust2",
+      "4. Acend picked Inferno",
+      "5. Butterfly removed Cache",
+      "6. Acend removed Mirage",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Acend",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Butterfly",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Acend",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 3:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Acend",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Butterfly",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:7)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400019,
+    "url": "https://hltv.org/matches/2400019/azuolas-vs-illyrians-cct-2026-europe-series-13-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": "Azuolas",
+    "team2": "Illyrians",
+    "team1-id": 13991,
+    "team2-id": 11719,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Group D opening match",
+    "veto": [
+      "1. Illyrians removed Nuke",
+      "2. Azuolas removed Dust2",
+      "3. Illyrians picked Cache",
+      "4. Azuolas picked Mirage",
+      "5. Illyrians removed Inferno",
+      "6. Azuolas removed Anubis",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Azuolas",
+          "score": "17",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "19",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 5:7) (5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Azuolas",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(3:9; 10:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Azuolas",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399943,
+    "url": "https://hltv.org/matches/2399943/iberian-soul-vs-og-hyperx-retake-season-13",
+    "date": null,
+    "event": "HyperX Retake Season 13",
+    "team1": "Iberian Soul",
+    "team2": "OG",
+    "team1-id": 13104,
+    "team2-id": 10411,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Quarter-final",
+    "veto": [
+      "1. OG removed Mirage",
+      "2. Iberian Soul removed Dust2",
+      "3. OG picked Anubis",
+      "4. Iberian Soul picked Nuke",
+      "5. OG removed Ancient",
+      "6. Iberian Soul removed Cache",
+      "7. Inferno was left over"
+    ],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Iberian Soul",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "OG",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 2:3)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Iberian Soul",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "OG",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:2)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Iberian Soul",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "OG",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400038,
+    "url": "https://hltv.org/matches/2400038/privateer-vs-ctrl-epic49",
+    "date": null,
+    "event": "EPIC49",
+    "team1": "Privateer",
+    "team2": "CTRL",
+    "team1-id": 13914,
+    "team2-id": 13695,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Lower bracket semi-final",
+    "veto": [
+      "1. CTRL removed Ancient",
+      "2. Privateer removed Mirage",
+      "3. CTRL picked Cache",
+      "4. Privateer picked Nuke",
+      "5. CTRL removed Dust2",
+      "6. Privateer removed Inferno",
+      "7. Anubis was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Privateer",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "CTRL",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Privateer",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "CTRL",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Privateer",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "CTRL",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 4:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400039,
+    "url": "https://hltv.org/matches/2400039/the-pigs-vs-29avgage-epic49",
+    "date": null,
+    "event": "EPIC49",
+    "team1": "The Pigs",
+    "team2": "29AvgAge",
+    "team1-id": 14120,
+    "team2-id": 14121,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Lower bracket semi-final",
+    "veto": [
+      "1. 29AvgAge removed Ancient",
+      "2. The Pigs removed Inferno",
+      "3. 29AvgAge picked Dust2",
+      "4. The Pigs picked Cache",
+      "5. 29AvgAge removed Anubis",
+      "6. The Pigs removed Nuke",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "The Pigs",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "29AvgAge",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "The Pigs",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "29AvgAge",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 3:9)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "The Pigs",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "29AvgAge",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400037,
+    "url": "https://hltv.org/matches/2400037/the-last-resort-vs-ryvex-epic49",
+    "date": null,
+    "event": "EPIC49",
+    "team1": "The Last Resort",
+    "team2": "Ryvex",
+    "team1-id": 6089,
+    "team2-id": 13974,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Upper bracket final",
+    "veto": [
+      "1. Ryvex removed Anubis",
+      "2. The Last Resort removed Mirage",
+      "3. Ryvex picked Dust2",
+      "4. The Last Resort picked Inferno",
+      "5. Ryvex removed Nuke",
+      "6. The Last Resort removed Cache",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "The Last Resort",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Ryvex",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "The Last Resort",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Ryvex",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "The Last Resort",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Ryvex",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399980,
+    "url": "https://hltv.org/matches/2399980/shinden-vs-isurus-fire-last-chance-2026",
+    "date": null,
+    "event": "FiRe Last Chance 2026",
+    "team1": "ShindeN",
+    "team2": "Isurus",
+    "team1-id": 12959,
+    "team2-id": 7653,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group C decider match",
+    "veto": [
+      "1. Isurus removed Dust2",
+      "2. ShindeN removed Anubis",
+      "3. Isurus picked Nuke",
+      "4. ShindeN picked Cache",
+      "5. Isurus removed Mirage",
+      "6. ShindeN removed Ancient",
+      "7. Inferno was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "ShindeN",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Isurus",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "ShindeN",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Isurus",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:1)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "ShindeN",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Isurus",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 0:8)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399957,
+    "url": "https://hltv.org/matches/2399957/low-cortisol-br-vs-turma-do-pagode-gamers-club-masters-vii",
+    "date": null,
+    "event": "Gamers Club Masters VII",
+    "team1": "Low Cortisol BR",
+    "team2": "Turma do Pagode",
+    "team1-id": 14051,
+    "team2-id": 9686,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group A decider match",
+    "veto": [
+      "1. Low Cortisol BR removed Cache",
+      "2. Turma do Pagode removed Mirage",
+      "3. Low Cortisol BR picked Nuke",
+      "4. Turma do Pagode picked Dust2",
+      "5. Low Cortisol BR removed Inferno",
+      "6. Turma do Pagode removed Ancient",
+      "7. Anubis was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Low Cortisol BR",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Turma do Pagode",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Low Cortisol BR",
+          "score": "12",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Turma do Pagode",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 7:5) (0:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Low Cortisol BR",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Turma do Pagode",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400027,
+    "url": "https://hltv.org/matches/2400027/omega-vs-private-cis-esports-league-cyberclash-season-2-finals",
+    "date": null,
+    "event": "CIS Esports League CyberClash Season 2 Finals",
+    "team1": "Omega",
+    "team2": "PRIVATE",
+    "team1-id": 11459,
+    "team2-id": 14030,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Grand final",
+    "veto": [
+      "1. PRIVATE removed Inferno",
+      "2. Omega removed Anubis",
+      "3. PRIVATE picked Ancient",
+      "4. Omega picked Dust2",
+      "5. PRIVATE removed Cache",
+      "6. Omega removed Nuke",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Omega",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PRIVATE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 6:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Omega",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PRIVATE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 1:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Omega",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PRIVATE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400034,
+    "url": "https://hltv.org/matches/2400034/optibet-vs-galaxy-goexanimo-battle-of-baltics-2026",
+    "date": null,
+    "event": "GOEXANIMO Battle of Baltics 2026",
+    "team1": "Optibet",
+    "team2": "Galaxy",
+    "team1-id": 14054,
+    "team2-id": 7572,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Grand final",
+    "veto": [
+      "1. Galaxy removed Ancient",
+      "2. Optibet removed Mirage",
+      "3. Galaxy picked Anubis",
+      "4. Optibet picked Nuke",
+      "5. Galaxy removed Cache",
+      "6. Optibet removed Inferno",
+      "7. Dust2 was left over"
+    ],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Optibet",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Galaxy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 4:7)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Optibet",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Galaxy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 4:7)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Optibet",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Galaxy",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400047,
+    "url": "https://hltv.org/matches/2400047/prodigy-ru-vs-monte-cct-2026-contenders-europe-series-10",
+    "date": null,
+    "event": "CCT 2026 Contenders Europe Series 10",
+    "team1": "prodigy RU",
+    "team2": "Monte",
+    "team1-id": 14117,
+    "team2-id": 11811,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (Online)",
+    "stage": "Upper bracket final",
+    "veto": [
+      "1. Monte removed Inferno",
+      "2. prodigy RU removed Dust2",
+      "3. Monte picked Nuke",
+      "4. prodigy RU picked Mirage",
+      "5. Monte removed Ancient",
+      "6. prodigy RU removed Anubis",
+      "7. Cache was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "prodigy RU",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Monte",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 4:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "prodigy RU",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Monte",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 3:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "prodigy RU",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Monte",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399981,
+    "url": "https://hltv.org/matches/2399981/hacha-vs-wildcard-fire-last-chance-2026",
+    "date": null,
+    "event": "FiRe Last Chance 2026",
+    "team1": "Hacha",
+    "team2": "Wildcard",
+    "team1-id": 13722,
+    "team2-id": 12257,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group D decider match",
+    "veto": [
+      "1. Hacha removed Anubis",
+      "2. Wildcard removed Ancient",
+      "3. Hacha picked Mirage",
+      "4. Wildcard picked Inferno",
+      "5. Hacha removed Cache",
+      "6. Wildcard removed Dust2",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Hacha",
+          "score": "3",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Wildcard",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 0:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Hacha",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Wildcard",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Hacha",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Wildcard",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400049,
+    "url": "https://hltv.org/matches/2400049/phantom-academy-vs-uwuza-basestack-league-season-1",
+    "date": null,
+    "event": "BaseStack League Season 1",
+    "team1": "Phantom Academy",
+    "team2": "uwuza",
+    "team1-id": 13766,
+    "team2-id": 14122,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Grand final",
+    "veto": [
+      "1. Phantom Academy removed Inferno",
+      "2. uwuza removed Mirage",
+      "3. Phantom Academy picked Dust2",
+      "4. uwuza picked Nuke",
+      "5. Phantom Academy removed Ancient",
+      "6. uwuza removed Cache",
+      "7. Anubis was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Phantom Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "uwuza",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Phantom Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "uwuza",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Phantom Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "uwuza",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399528,
+    "url": "https://hltv.org/matches/2399528/fokus-vs-baks-cct-2026-europe-series-12",
+    "date": null,
+    "event": "CCT 2026 Europe Series 12",
+    "team1": "FOKUS",
+    "team2": "BAKS",
+    "team1-id": 13679,
+    "team2-id": 11699,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Quarter-final",
+    "veto": [
+      "1. BAKS removed Anubis",
+      "2. FOKUS removed Inferno",
+      "3. BAKS picked Mirage",
+      "4. FOKUS picked Nuke",
+      "5. BAKS removed Cache",
+      "6. FOKUS removed Dust2",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FOKUS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "FOKUS",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 7:5) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FOKUS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400036,
+    "url": "https://hltv.org/matches/2400036/ryvex-vs-privateer-epic49",
+    "date": null,
+    "event": "EPIC49",
+    "team1": "Ryvex",
+    "team2": "Privateer",
+    "team1-id": 13974,
+    "team2-id": 13914,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Upper bracket semi-final",
+    "veto": [
+      "1. Privateer removed Dust2",
+      "2. Ryvex removed Anubis",
+      "3. Privateer picked Nuke",
+      "4. Ryvex picked Mirage",
+      "5. Privateer removed Ancient",
+      "6. Ryvex removed Cache",
+      "7. Inferno was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Ryvex",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Privateer",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 4:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Ryvex",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Privateer",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Ryvex",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Privateer",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400018,
+    "url": "https://hltv.org/matches/2400018/lfo-10-vs-fortress-cct-2026-europe-series-13-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": "LFO 10",
+    "team2": "Fortress",
+    "team1-id": 14084,
+    "team2-id": 13646,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (Online)",
+    "stage": "Group D opening match",
+    "veto": [
+      "1. LFO 10 removed Nuke",
+      "2. Fortress removed Dust2",
+      "3. LFO 10 picked Cache",
+      "4. Fortress picked Anubis",
+      "5. LFO 10 removed Inferno",
+      "6. Fortress removed Ancient",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "LFO 10",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Fortress",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "LFO 10",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Fortress",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "LFO 10",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Fortress",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399942,
+    "url": "https://hltv.org/matches/2399942/jijiehao-vs-basement-boys-hyperx-retake-season-13",
+    "date": null,
+    "event": "HyperX Retake Season 13",
+    "team1": "JiJieHao",
+    "team2": "BASEMENT BOYS",
+    "team1-id": 10245,
+    "team2-id": 13181,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
+    "match-id": 2399979,
+    "url": "https://hltv.org/matches/2399979/galorys-vs-procyon-fire-last-chance-2026",
+    "date": null,
+    "event": "FiRe Last Chance 2026",
+    "team1": "Galorys",
+    "team2": "Procyon",
+    "team1-id": 12677,
+    "team2-id": 10997,
+    "team1score": 1,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400033,
+    "url": "https://hltv.org/matches/2400033/esprots-vs-galaxy-goexanimo-battle-of-baltics-2026",
+    "date": null,
+    "event": "GOEXANIMO Battle of Baltics 2026",
+    "team1": "Esprots",
+    "team2": "Galaxy",
+    "team1-id": 12854,
+    "team2-id": 7572,
+    "team1score": 0,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400035,
+    "url": "https://hltv.org/matches/2400035/the-last-resort-vs-the-pigs-epic49",
+    "date": null,
+    "event": "EPIC49",
+    "team1": "The Last Resort",
+    "team2": "The Pigs",
+    "team1-id": 6089,
+    "team2-id": 14120,
+    "team1score": 2,
+    "team2score": 1
+  },
+  {
+    "match-id": 2399978,
+    "url": "https://hltv.org/matches/2399978/barca-vs-bounty-hunters-fire-last-chance-2026",
+    "date": null,
+    "event": "FiRe Last Chance 2026",
+    "team1": "BARCA",
+    "team2": "Bounty Hunters",
+    "team1-id": 14107,
+    "team2-id": 6544,
+    "team1score": 2,
+    "team2score": 1
+  },
+  {
+    "match-id": 2400026,
+    "url": "https://hltv.org/matches/2400026/pcific-vs-nuclear-tigeres-cis-esports-league-cyberclash-season-2-finals",
+    "date": null,
+    "event": "CIS Esports League CyberClash Season 2 Finals",
+    "team1": "PCIFIC",
+    "team2": "Nuclear TigeRES",
+    "team1-id": 13054,
+    "team2-id": 13027,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
+    "match-id": 2399956,
+    "url": "https://hltv.org/matches/2399956/naocopulas-vs-pain-gamers-club-masters-vii",
+    "date": null,
+    "event": "Gamers Club Masters VII",
+    "team1": "NAOCOPULAS",
+    "team2": "paiN",
+    "team1-id": 13473,
+    "team2-id": 4773,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
+    "match-id": 2400017,
+    "url": "https://hltv.org/matches/2400017/saint-sinners-vs-misa-cct-2026-europe-series-13-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": "Saint Sinners",
+    "team2": "Misa",
+    "team1-id": 13998,
+    "team2-id": 13528,
+    "team1score": 1,
+    "team2score": 2
+  },
+  {
+    "match-id": 2399438,
+    "url": "https://hltv.org/matches/2399438/1win-vs-5star-gluck-moscow-cyber-games-2026",
+    "date": null,
+    "event": "GLuck Moscow Cyber Games 2026",
+    "team1": "1win",
+    "team2": "5star",
+    "team1-id": 10621,
+    "team2-id": 13724,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
+    "match-id": 2399527,
+    "url": "https://hltv.org/matches/2399527/betclic-vs-9ine-cct-2026-europe-series-12",
+    "date": null,
+    "event": "CCT 2026 Europe Series 12",
+    "team1": "Betclic",
+    "team2": "9INE",
+    "team1-id": 12916,
+    "team2-id": 10278,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
+    "match-id": 2400032,
+    "url": "https://hltv.org/matches/2400032/optibet-vs-fraternity-goexanimo-battle-of-baltics-2026",
+    "date": null,
+    "event": "GOEXANIMO Battle of Baltics 2026",
+    "team1": "Optibet",
+    "team2": "Fraternity",
+    "team1-id": 14054,
+    "team2-id": 13911,
+    "team1score": 2,
+    "team2score": 1
+  },
+  {
     "match-id": 2399758,
     "url": "https://hltv.org/matches/2399758/vitality-vs-mouz-pgl-masters-bucharest-2026",
     "date": null,

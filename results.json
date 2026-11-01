@@ -1,5 +1,315 @@
 [
   {
+    "match-id": 2400041,
+    "url": "https://hltv.org/matches/2400041/ryvex-vs-the-pigs-epic49",
+    "date": null,
+    "event": "EPIC49",
+    "team1": "Ryvex",
+    "team2": "The Pigs",
+    "team1-id": 13974,
+    "team2-id": 14120,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "Consolidation final",
+    "veto": [
+      "1. The Pigs removed Inferno",
+      "2. Ryvex removed Anubis",
+      "3. The Pigs picked Cache",
+      "4. Ryvex picked Dust2",
+      "5. The Pigs removed Nuke",
+      "6. Ryvex removed Mirage",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Ryvex",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "The Pigs",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 2:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Ryvex",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "The Pigs",
+          "score": "16",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 7:5) (7:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Ryvex",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "The Pigs",
+          "score": "17",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 6:6) (7:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399439,
+    "url": "https://hltv.org/matches/2399439/the-huns-vs-5star-gluck-moscow-cyber-games-2026",
+    "date": null,
+    "event": "GLuck Moscow Cyber Games 2026",
+    "team1": "The Huns",
+    "team2": "5star",
+    "team1-id": 12510,
+    "team2-id": 13724,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "3rd place decider match",
+    "veto": [
+      "1. 5star removed Dust2",
+      "2. The Huns removed Anubis",
+      "3. 5star picked Inferno",
+      "4. The Huns picked Ancient",
+      "5. 5star removed Mirage",
+      "6. The Huns removed Cache",
+      "7. Nuke was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "The Huns",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "5star",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 2:8)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "The Huns",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "5star",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "The Huns",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "5star",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400050,
+    "url": "https://hltv.org/matches/2400050/psychoface-vs-saint-sinners-cct-2026-europe-series-13-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": "PsychoFace",
+    "team2": "Saint Sinners",
+    "team1-id": 13799,
+    "team2-id": 13998,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (Online)",
+    "stage": "Group C elimination match",
+    "veto": [
+      "1. Saint Sinners removed Cache",
+      "2. PsychoFace removed Anubis",
+      "3. Saint Sinners picked Dust2",
+      "4. PsychoFace picked Nuke",
+      "5. Saint Sinners removed Inferno",
+      "6. PsychoFace removed Ancient",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "PsychoFace",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Saint Sinners",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 3:2)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "PsychoFace",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Saint Sinners",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "(12:0; 1:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "PsychoFace",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Saint Sinners",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399901,
+    "url": "https://hltv.org/matches/2399901/flyquest-vs-alter-ego-dfrag-invitational-2026",
+    "date": null,
+    "event": "DFRAG Invitational 2026",
+    "team1": "FlyQuest",
+    "team2": "Alter Ego",
+    "team1-id": 12774,
+    "team2-id": 9958,
+    "team1score": 3,
+    "team2score": 0,
+    "format": "Best of 5 (LAN)",
+    "stage": "Grand final",
+    "veto": [
+      "1. FlyQuest removed Mirage",
+      "2. Alter Ego removed Nuke",
+      "3. FlyQuest picked Inferno",
+      "4. Alter Ego picked Ancient",
+      "5. FlyQuest picked Anubis",
+      "6. Alter Ego picked Dust2",
+      "7. Cache was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "FlyQuest",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Alter Ego",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FlyQuest",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Alter Ego",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 5:7) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "FlyQuest",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Alter Ego",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:1)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FlyQuest",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Alter Ego",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FlyQuest",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Alter Ego",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2400044,
     "url": "https://hltv.org/matches/2400044/nutorious-vs-holly-molly-nstlga-texas-open-2026",
     "date": null,

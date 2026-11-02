@@ -1,5 +1,485 @@
 [
   {
+    "match-id": 2399855,
+    "url": "https://hltv.org/matches/2399855/legacy-vs-the-mongolz-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "Legacy",
+    "team2": "The MongolZ",
+    "team1-id": 5704,
+    "team2-id": 6248,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group A upper bracket quarter-final",
+    "veto": [
+      "1. The MongolZ removed Cache",
+      "2. Legacy removed Inferno",
+      "3. The MongolZ picked Mirage",
+      "4. Legacy picked Dust2",
+      "5. The MongolZ removed Anubis",
+      "6. Legacy removed Nuke",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Legacy",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "The MongolZ",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 4:8) (4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Legacy",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "The MongolZ",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 4:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Legacy",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "The MongolZ",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 4:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399856,
+    "url": "https://hltv.org/matches/2399856/heroic-vs-b8-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "HEROIC",
+    "team2": "B8",
+    "team1-id": 7175,
+    "team2-id": 11241,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Group A upper bracket quarter-final",
+    "veto": [
+      "1. HEROIC removed Mirage",
+      "2. B8 removed Inferno",
+      "3. HEROIC picked Nuke",
+      "4. B8 picked Dust2",
+      "5. HEROIC removed Ancient",
+      "6. B8 removed Anubis",
+      "7. Cache was left over"
+    ],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "HEROIC",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "B8",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "HEROIC",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "B8",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "HEROIC",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "B8",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400046,
+    "url": "https://hltv.org/matches/2400046/lag-vs-nutorious-nstlga-texas-open-2026",
+    "date": null,
+    "event": "NSTLGA Texas Open 2026",
+    "team1": "LAG",
+    "team2": "NuTorious",
+    "team1-id": 11955,
+    "team2-id": 12973,
+    "team1score": 3,
+    "team2score": 1,
+    "format": "Best of 5 (LAN)",
+    "stage": "Grand final",
+    "veto": [
+      "1. LAG removed Cache",
+      "2. NuTorious removed Dust2",
+      "3. LAG picked Inferno",
+      "4. NuTorious picked Anubis",
+      "5. LAG picked Nuke",
+      "6. NuTorious picked Ancient",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "LAG",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NuTorious",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "LAG",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NuTorious",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "(12:0; 1:0)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "LAG",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NuTorious",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "LAG",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NuTorious",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "LAG",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NuTorious",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399961,
+    "url": "https://hltv.org/matches/2399961/dendele-vs-imperial-gamers-club-masters-vii",
+    "date": null,
+    "event": "Gamers Club Masters VII",
+    "team1": "DENDELE",
+    "team2": "Imperial",
+    "team1-id": 13926,
+    "team2-id": 11655,
+    "team1score": 3,
+    "team2score": 0,
+    "format": "Best of 5 (LAN)",
+    "stage": "Grand final",
+    "veto": [
+      "1. Imperial removed Ancient",
+      "2. DENDELE removed Dust2",
+      "3. Imperial picked Mirage",
+      "4. DENDELE picked Inferno",
+      "5. Imperial picked Cache",
+      "6. DENDELE picked Nuke",
+      "7. Anubis was left over"
+    ],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "DENDELE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Imperial",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "DENDELE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Imperial",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "DENDELE",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Imperial",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 2:10) (4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "DENDELE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Imperial",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "DENDELE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Imperial",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399988,
+    "url": "https://hltv.org/matches/2399988/bestia-vs-barca-fire-last-chance-2026",
+    "date": null,
+    "event": "FiRe Last Chance 2026",
+    "team1": "BESTIA",
+    "team2": "BARCA",
+    "team1-id": 12144,
+    "team2-id": 14107,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "Best of 3 (LAN)",
+    "stage": "3rd place decider",
+    "veto": [
+      "1. BARCA removed Dust2",
+      "2. BESTIA removed Anubis",
+      "3. BARCA picked Cache",
+      "4. BESTIA picked Mirage",
+      "5. BARCA removed Inferno",
+      "6. BESTIA removed Nuke",
+      "7. Ancient was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "BESTIA",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BARCA",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "BESTIA",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BARCA",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "BESTIA",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BARCA",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399989,
+    "url": "https://hltv.org/matches/2399989/100-thieves-vs-wildcard-fire-last-chance-2026",
+    "date": null,
+    "event": "FiRe Last Chance 2026",
+    "team1": "100 Thieves",
+    "team2": "Wildcard",
+    "team1-id": 8474,
+    "team2-id": 12257,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "Best of 3 (LAN)",
+    "stage": "Grand final",
+    "veto": [
+      "1. Wildcard removed Ancient",
+      "2. 100 Thieves removed Nuke",
+      "3. Wildcard picked Cache",
+      "4. 100 Thieves picked Dust2",
+      "5. Wildcard removed Anubis",
+      "6. 100 Thieves removed Inferno",
+      "7. Mirage was left over"
+    ],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "100 Thieves",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Wildcard",
+          "score": "16",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 3:9) (7:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "100 Thieves",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Wildcard",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "100 Thieves",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Wildcard",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2400055,
     "url": "https://hltv.org/matches/2400055/monte-vs-prodigy-ru-cct-2026-contenders-europe-series-10",
     "date": null,

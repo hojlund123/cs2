@@ -1,5 +1,223 @@
 [
   {
+    "match-id": 2400059,
+    "url": "https://hltv.org/matches/2400059/ex-ence-vs-sinqu-nodwin-clutch-series-14-closed-qualifier",
+    "date": null,
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": "ex-ENCE",
+    "team2": "SINQU",
+    "team1-id": 13749,
+    "team2-id": 13571,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "ex-ENCE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "SINQU",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "ex-ENCE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "SINQU",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "ex-ENCE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "SINQU",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400067,
+    "url": "https://hltv.org/matches/2400067/lfo-10-vs-illyrians-cct-2026-europe-series-13-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": "LFO 10",
+    "team2": "Illyrians",
+    "team1-id": 14084,
+    "team2-id": 11719,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "LFO 10",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400058,
+    "url": "https://hltv.org/matches/2400058/spirit-academy-vs-noir-verse-nodwin-clutch-series-14-closed-qualifier",
+    "date": null,
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": "Spirit Academy",
+    "team2": "Noir Verse",
+    "team1-id": 7900,
+    "team2-id": 13877,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Spirit Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Spirit Academy",
+          "score": "12",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 6:6) (0:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Spirit Academy",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 2:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400066,
+    "url": "https://hltv.org/matches/2400066/misa-vs-psychoface-cct-2026-europe-series-13-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": "Misa",
+    "team2": "PsychoFace",
+    "team1-id": 13528,
+    "team2-id": 13799,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Misa",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PsychoFace",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 4:8) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Misa",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PsychoFace",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Misa",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PsychoFace",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2399858,
     "url": "https://hltv.org/matches/2399858/natus-vincere-vs-falcons-iem-beijing-2026",
     "date": null,

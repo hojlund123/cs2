@@ -1,5 +1,1403 @@
 [
   {
+    "match-id": 2399997,
+    "url": "https://hltv.org/matches/2399997/legacy-vs-b8-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "Legacy",
+    "team2": "B8",
+    "team1-id": 5704,
+    "team2-id": 11241,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Legacy",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "B8",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 6:6)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Legacy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "B8",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Legacy",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "B8",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 6:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400071,
+    "url": "https://hltv.org/matches/2400071/donstu-vs-megoshort-cct-2026-europe-series-13-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": "DONSTU",
+    "team2": "megoshort",
+    "team1-id": 13714,
+    "team2-id": 11018,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "DONSTU",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "megoshort",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 6:6) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "DONSTU",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "megoshort",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 2:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "DONSTU",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "megoshort",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 3:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400180,
+    "url": "https://hltv.org/matches/2400180/rbls-vs-pcific-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "RBLS",
+    "team2": "PCIFIC",
+    "team1-id": 12642,
+    "team2-id": 13054,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "RBLS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PCIFIC",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "RBLS",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PCIFIC",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 5:7) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "RBLS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PCIFIC",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400177,
+    "url": "https://hltv.org/matches/2400177/four-magic-vs-lfo-10-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "Four Magic",
+    "team2": "LFO 10",
+    "team1-id": 13520,
+    "team2-id": 14084,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Four Magic",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 0:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Four Magic",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Four Magic",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 5:7) (4:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400181,
+    "url": "https://hltv.org/matches/2400181/maybe-vs-falcons-force-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "MAYBE",
+    "team2": "Falcons Force",
+    "team1-id": 13945,
+    "team2-id": 13321,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "MAYBE",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Falcons Force",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 1:6)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Falcons Force",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Falcons Force",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400074,
+    "url": "https://hltv.org/matches/2400074/quintessncia-vs-red-canids-academy-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "QUINTESSÊNCIA",
+    "team2": "RED Canids Academy",
+    "team1-id": 13811,
+    "team2-id": 13029,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "RED Canids Academy",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:0)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "RED Canids Academy",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "RED Canids Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400179,
+    "url": "https://hltv.org/matches/2400179/saint-sinners-vs-kuusamo-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "Saint Sinners",
+    "team2": "KUUSAMO",
+    "team1-id": 13998,
+    "team2-id": 13745,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Saint Sinners",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "KUUSAMO",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 3:6)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Saint Sinners",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "KUUSAMO",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Saint Sinners",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "KUUSAMO",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400199,
+    "url": "https://hltv.org/matches/2400199/ex-ence-vs-azuolas-nodwin-clutch-series-14-closed-qualifier",
+    "date": null,
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": "ex-ENCE",
+    "team2": "Azuolas",
+    "team1-id": 13749,
+    "team2-id": 13991,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "ex-ENCE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Azuolas",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "ex-ENCE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Azuolas",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:2)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "ex-ENCE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Azuolas",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400182,
+    "url": "https://hltv.org/matches/2400182/lilmix-vs-banda-chuya-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "Lilmix",
+    "team2": "Banda Chuya",
+    "team1-id": 9735,
+    "team2-id": 13900,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Lilmix",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Banda Chuya",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 1:7)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Lilmix",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Banda Chuya",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 4:6)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Lilmix",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Banda Chuya",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400178,
+    "url": "https://hltv.org/matches/2400178/drama-vs-baks-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "Drama",
+    "team2": "BAKS",
+    "team1-id": 13704,
+    "team2-id": 11699,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Drama",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Drama",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 1:8)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Drama",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400183,
+    "url": "https://hltv.org/matches/2400183/mellren-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "mellren",
+    "team2": "MOUZ NXT",
+    "team1-id": 13759,
+    "team2-id": 11176,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "mellren",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "mellren",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(3:9; 10:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "mellren",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400176,
+    "url": "https://hltv.org/matches/2400176/acend-vs-benched-gods-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "Acend",
+    "team2": "benched gods",
+    "team1-id": 13518,
+    "team2-id": 13599,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Acend",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "benched gods",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400198,
+    "url": "https://hltv.org/matches/2400198/sinqu-vs-walczaki-nodwin-clutch-series-14-closed-qualifier",
+    "date": null,
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": "SINQU",
+    "team2": "Walczaki",
+    "team1-id": 13571,
+    "team2-id": 13808,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "SINQU",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Walczaki",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:3)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "SINQU",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Walczaki",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "SINQU",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Walczaki",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 4:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400174,
+    "url": "https://hltv.org/matches/2400174/mellren-vs-lilmix-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "mellren",
+    "team2": "Lilmix",
+    "team1-id": 13759,
+    "team2-id": 9735,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "mellren",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Lilmix",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "mellren",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lilmix",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 5:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "mellren",
+          "score": "15",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lilmix",
+          "score": "19",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 5:7) (3:7)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400070,
+    "url": "https://hltv.org/matches/2400070/leo-vs-illyrians-cct-2026-europe-series-13-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": "Leo",
+    "team2": "Illyrians",
+    "team1-id": 11446,
+    "team2-id": 11719,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Leo",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Leo",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Leo",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400175,
+    "url": "https://hltv.org/matches/2400175/banda-chuya-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "Banda Chuya",
+    "team2": "MOUZ NXT",
+    "team1-id": 13900,
+    "team2-id": 11176,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Banda Chuya",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Banda Chuya",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 7:5) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Banda Chuya",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400170,
+    "url": "https://hltv.org/matches/2400170/baks-vs-kuusamo-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "BAKS",
+    "team2": "KUUSAMO",
+    "team1-id": 11699,
+    "team2-id": 13745,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "KUUSAMO",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:6)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "KUUSAMO",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "BAKS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "KUUSAMO",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400168,
+    "url": "https://hltv.org/matches/2400168/acend-vs-four-magic-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "Acend",
+    "team2": "Four Magic",
+    "team1-id": 13518,
+    "team2-id": 13520,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Acend",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Four Magic",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Acend",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Four Magic",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Acend",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Four Magic",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400173,
+    "url": "https://hltv.org/matches/2400173/falcons-force-vs-pcific-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "Falcons Force",
+    "team2": "PCIFIC",
+    "team1-id": 13321,
+    "team2-id": 13054,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Falcons Force",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PCIFIC",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400172,
+    "url": "https://hltv.org/matches/2400172/rbls-vs-maybe-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "RBLS",
+    "team2": "MAYBE",
+    "team1-id": 12642,
+    "team2-id": 13945,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "RBLS",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "RBLS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "RBLS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400069,
+    "url": "https://hltv.org/matches/2400069/spirit-academy-vs-psychoface-cct-2026-europe-series-13-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": "Spirit Academy",
+    "team2": "PsychoFace",
+    "team1-id": 7900,
+    "team2-id": 13799,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Spirit Academy",
+          "score": "1",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PsychoFace",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 0:2)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Spirit Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PsychoFace",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Spirit Academy",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PsychoFace",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 4:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400197,
+    "url": "https://hltv.org/matches/2400197/leo-vs-noir-verse-nodwin-clutch-series-14-closed-qualifier",
+    "date": null,
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": "Leo",
+    "team2": "Noir Verse",
+    "team1-id": 11446,
+    "team2-id": 13877,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Leo",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 4:6)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Leo",
+          "score": "16",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "19",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 4:8) (4:7)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Leo",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400169,
+    "url": "https://hltv.org/matches/2400169/benched-gods-vs-lfo-10-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "benched gods",
+    "team2": "LFO 10",
+    "team1-id": 13599,
+    "team2-id": 14084,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "benched gods",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400171,
+    "url": "https://hltv.org/matches/2400171/saint-sinners-vs-drama-esl-challenger-league-season-52-europe-cup-10",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "Saint Sinners",
+    "team2": "Drama",
+    "team1-id": 13998,
+    "team2-id": 13704,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Saint Sinners",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Saint Sinners",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Saint Sinners",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2399996,
     "url": "https://hltv.org/matches/2399996/furia-vs-natus-vincere-iem-beijing-2026",
     "date": null,

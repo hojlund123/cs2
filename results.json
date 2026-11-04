@@ -1,5 +1,581 @@
 [
   {
+    "match-id": 2400004,
+    "url": "https://hltv.org/matches/2400004/natus-vincere-vs-falcons-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "Natus Vincere",
+    "team2": "Falcons",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Natus Vincere",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Falcons",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 6:6)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Natus Vincere",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Falcons",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Natus Vincere",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Falcons",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(12:0; 1:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400005,
+    "url": "https://hltv.org/matches/2400005/the-mongolz-vs-furia-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "The MongolZ",
+    "team2": "FURIA",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "The MongolZ",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FURIA",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "The MongolZ",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FURIA",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "The MongolZ",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FURIA",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400002,
+    "url": "https://hltv.org/matches/2400002/liquid-vs-betboom-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "Liquid",
+    "team2": "BETBOOM",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Liquid",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BETBOOM",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 0:6)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Liquid",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BETBOOM",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(3:9; 10:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Liquid",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BETBOOM",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 6:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400003,
+    "url": "https://hltv.org/matches/2400003/parivision-vs-mouz-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "PARIVISION",
+    "team2": "MOUZ",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "PARIVISION",
+          "score": "2",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 0:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "PARIVISION",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 6:4)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "PARIVISION",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400001,
+    "url": "https://hltv.org/matches/2400001/natus-vincere-vs-b8-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "Natus Vincere",
+    "team2": "B8",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Natus Vincere",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "B8",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Natus Vincere",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "B8",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Natus Vincere",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "B8",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400000,
+    "url": "https://hltv.org/matches/2400000/falcons-vs-heroic-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "Falcons",
+    "team2": "HEROIC",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Falcons",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "HEROIC",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Falcons",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "HEROIC",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Falcons",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "HEROIC",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400121,
+    "url": "https://hltv.org/matches/2400121/ex-zero-tenacity-vs-psychoface-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "ex-Zero Tenacity",
+    "team2": "PsychoFace",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PsychoFace",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PsychoFace",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PsychoFace",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400210,
+    "url": "https://hltv.org/matches/2400210/megoshort-vs-honvd-cct-2026-europe-series-14-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": "megoshort",
+    "team2": "Honvéd",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "megoshort",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Honvéd",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 0:6)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "megoshort",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Honvéd",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 3:9)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "megoshort",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Honvéd",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400287,
+    "url": "https://hltv.org/matches/2400287/azuolas-vs-benched-gods-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "Azuolas",
+    "team2": "benched gods",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Azuolas",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "benched gods",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400281,
+    "url": "https://hltv.org/matches/2400281/leo-vs-spirit-academy-nodwin-clutch-series-14-closed-qualifier",
+    "date": null,
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": "Leo",
+    "team2": "Spirit Academy",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 0,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400209,
+    "url": "https://hltv.org/matches/2400209/illyrians-vs-bebop-cct-2026-europe-series-14-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": "Illyrians",
+    "team2": "Bebop",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
+    "match-id": 2400288,
+    "url": "https://hltv.org/matches/2400288/6yubojlbl-vs-pcific-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "6yuBoJlbl",
+    "team2": "PCIFIC",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 0,
+    "team2score": 1
+  },
+  {
+    "match-id": 2400120,
+    "url": "https://hltv.org/matches/2400120/baks-vs-gothic-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "BAKS",
+    "team2": "Gothic",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 1,
+    "team2score": 0
+  },
+  {
     "match-id": 2399999,
     "url": "https://hltv.org/matches/2399999/aurora-vs-betboom-iem-beijing-2026",
     "date": null,

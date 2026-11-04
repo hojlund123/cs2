@@ -1,5 +1,191 @@
 [
   {
+    "match-id": 2399999,
+    "url": "https://hltv.org/matches/2399999/aurora-vs-betboom-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "Aurora",
+    "team2": "BETBOOM",
+    "team1-id": 11861,
+    "team2-id": 12394,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Aurora",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BETBOOM",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 1:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Aurora",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BETBOOM",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 1:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Aurora",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BETBOOM",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2399998,
+    "url": "https://hltv.org/matches/2399998/liquid-vs-tyloo-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "Liquid",
+    "team2": "TYLOO",
+    "team1-id": 5973,
+    "team2-id": 4863,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Liquid",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "TYLOO",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Liquid",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "TYLOO",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(11:1; 2:3)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Liquid",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "TYLOO",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400075,
+    "url": "https://hltv.org/matches/2400075/bestia-academy-vs-zetta-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "BESTIA Academy",
+    "team2": "Zetta",
+    "team1-id": 13026,
+    "team2-id": 13833,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "BESTIA Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Zetta",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "BESTIA Academy",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Zetta",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 6:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "BESTIA Academy",
+          "score": "13",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Zetta",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 4:8) (1:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2399997,
     "url": "https://hltv.org/matches/2399997/legacy-vs-b8-iem-beijing-2026",
     "date": null,

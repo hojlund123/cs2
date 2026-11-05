@@ -1,5 +1,81 @@
 [
   {
+    "match-id": 2400081,
+    "url": "https://hltv.org/matches/2400081/bestia-academy-vs-mira-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "BESTIA Academy",
+    "team2": "Mira",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "BESTIA Academy",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Mira",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400080,
+    "url": "https://hltv.org/matches/2400080/borracheiros-vs-mibr-fe-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "BORRACHEIROS",
+    "team2": "MIBR fe",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "BORRACHEIROS",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MIBR fe",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400079,
+    "url": "https://hltv.org/matches/2400079/isurus-vs-underworld-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "Isurus",
+    "team2": "Underworld",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 2,
+    "team2score": 1
+  },
+  {
     "match-id": 2400189,
     "url": "https://hltv.org/matches/2400189/drama-vs-banda-chuya-esl-challenger-league-season-52-europe-cup-10",
     "date": null,

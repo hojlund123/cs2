@@ -1,5 +1,753 @@
 [
   {
+    "match-id": 2400063,
+    "url": "https://hltv.org/matches/2400063/johnny-speeds-vs-drama-nodwin-clutch-series-14-closed-qualifier",
+    "date": "2026-11-05",
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": "Johnny Speeds",
+    "team2": "Drama",
+    "team1-id": 12604,
+    "team2-id": 13704,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Johnny Speeds",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "1",
+          "status": "lost"
+        },
+        "half_scores": "(11:1; 2:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Johnny Speeds",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Johnny Speeds",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400217,
+    "url": "https://hltv.org/matches/2400217/illyrians-vs-honvd-cct-2026-europe-series-14-closed-qualifier",
+    "date": "2026-11-05",
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": "Illyrians",
+    "team2": "Honvéd",
+    "team1-id": 11719,
+    "team2-id": 11110,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Illyrians",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Honvéd",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Illyrians",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Honvéd",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 3:7)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Illyrians",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Honvéd",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400126,
+    "url": "https://hltv.org/matches/2400126/forze-reload-vs-g2-ares-cct-2026-europe-series-13",
+    "date": "2026-11-05",
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "FORZE Reload",
+    "team2": "G2 Ares",
+    "team1-id": 12857,
+    "team2-id": 12889,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 3:9) (4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400062,
+    "url": "https://hltv.org/matches/2400062/basement-boys-vs-misa-nodwin-clutch-series-14-closed-qualifier",
+    "date": "2026-11-05",
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": "BASEMENT BOYS",
+    "team2": "Misa",
+    "team1-id": 13181,
+    "team2-id": 13528,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "BASEMENT BOYS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Misa",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "BASEMENT BOYS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Misa",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "BASEMENT BOYS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Misa",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400192,
+    "url": "https://hltv.org/matches/2400192/pcific-vs-banda-chuya-esl-challenger-league-season-52-europe-cup-10",
+    "date": "2026-11-05",
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "PCIFIC",
+    "team2": "Banda Chuya",
+    "team1-id": 13054,
+    "team2-id": 13900,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "PCIFIC",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Banda Chuya",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "PCIFIC",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Banda Chuya",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "PCIFIC",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Banda Chuya",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400193,
+    "url": "https://hltv.org/matches/2400193/rbls-vs-mellren-esl-challenger-league-season-52-europe-cup-10",
+    "date": "2026-11-05",
+    "event": "ESL Challenger League Season 52 Europe Cup 10",
+    "team1": "RBLS",
+    "team2": "mellren",
+    "team1-id": 12642,
+    "team2-id": 13759,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "RBLS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "mellren",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "RBLS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "mellren",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "RBLS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "mellren",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400222,
+    "url": "https://hltv.org/matches/2400222/noir-verse-vs-prestige-cct-2026-europe-series-14-closed-qualifier",
+    "date": "2026-11-05",
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": "Noir Verse",
+    "team2": "Prestige",
+    "team1-id": 13877,
+    "team2-id": 13159,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Noir Verse",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Prestige",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 7:3)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Noir Verse",
+          "score": "13",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Prestige",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(10:2; 2:10) (1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Noir Verse",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Prestige",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400061,
+    "url": "https://hltv.org/matches/2400061/fire-flux-vs-illyrians-nodwin-clutch-series-14-closed-qualifier",
+    "date": "2026-11-05",
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": "Fire Flux",
+    "team2": "Illyrians",
+    "team1-id": 12960,
+    "team2-id": 11719,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Fire Flux",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:0)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Fire Flux",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 6:6) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Fire Flux",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400124,
+    "url": "https://hltv.org/matches/2400124/genone-vs-maybe-cct-2026-europe-series-13",
+    "date": "2026-11-05",
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "GenOne",
+    "team2": "MAYBE",
+    "team1-id": 11609,
+    "team2-id": 13945,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "GenOne",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "GenOne",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "GenOne",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 2:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400060,
+    "url": "https://hltv.org/matches/2400060/baks-vs-honvd-nodwin-clutch-series-14-closed-qualifier",
+    "date": "2026-11-05",
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": "BAKS",
+    "team2": "Honvéd",
+    "team1-id": 11699,
+    "team2-id": 11110,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Honvéd",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "BAKS",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Honvéd",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 2:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Honvéd",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400290,
+    "url": "https://hltv.org/matches/2400290/ex-ence-vs-noir-verse-european-pro-league-series-10",
+    "date": "2026-11-05",
+    "event": "European Pro League Series 10",
+    "team1": "ex-ENCE",
+    "team2": "Noir Verse",
+    "team1-id": 13749,
+    "team2-id": 13877,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "ex-ENCE",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400289,
+    "url": "https://hltv.org/matches/2400289/walczaki-vs-balkan-outlaws-european-pro-league-series-10",
+    "date": "2026-11-05",
+    "event": "European Pro League Series 10",
+    "team1": "Walczaki",
+    "team2": "Balkan Outlaws",
+    "team1-id": 13808,
+    "team2-id": null,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Walczaki",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Balkan Outlaws",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400125,
+    "url": "https://hltv.org/matches/2400125/6yubojlbl-vs-leo-cct-2026-europe-series-13",
+    "date": "2026-11-05",
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "6yuBoJlbl",
+    "team2": "Leo",
+    "team1-id": 14079,
+    "team2-id": 11446,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "6yuBoJlbl",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Leo",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400221,
+    "url": "https://hltv.org/matches/2400221/bebop-vs-megoshort-cct-2026-europe-series-14-closed-qualifier",
+    "date": "2026-11-05",
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": "Bebop",
+    "team2": "megoshort",
+    "team1-id": 13613,
+    "team2-id": 11018,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Bebop",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "megoshort",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2400081,
     "url": "https://hltv.org/matches/2400081/bestia-academy-vs-mira-cct-2026-south-america-series-8",
     "date": null,
@@ -73,7 +821,57 @@
     "team1-id": null,
     "team2-id": null,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Isurus",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Underworld",
+          "score": "1",
+          "status": "lost"
+        },
+        "half_scores": "(11:1; 2:0)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Isurus",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Underworld",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 4:7)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Isurus",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Underworld",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:1)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400189,
@@ -1729,7 +2527,27 @@
     "team1-id": null,
     "team2-id": null,
     "team1score": 0,
-    "team2score": 1
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "6yuBoJlbl",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PCIFIC",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400120,
@@ -1741,7 +2559,27 @@
     "team1-id": null,
     "team2-id": null,
     "team1score": 1,
-    "team2score": 0
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "BAKS",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Gothic",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2399999,

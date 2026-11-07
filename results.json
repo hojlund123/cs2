@@ -1,5 +1,379 @@
 [
   {
+    "match-id": 2400009,
+    "url": "https://hltv.org/matches/2400009/mouz-vs-betboom-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "MOUZ",
+    "team2": "BETBOOM",
+    "team1-id": 4494,
+    "team2-id": 12394,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "MOUZ",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BETBOOM",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "MOUZ",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BETBOOM",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:2)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "MOUZ",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BETBOOM",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400008,
+    "url": "https://hltv.org/matches/2400008/the-mongolz-vs-natus-vincere-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "The MongolZ",
+    "team2": "Natus Vincere",
+    "team1-id": 6248,
+    "team2-id": 4608,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "The MongolZ",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Natus Vincere",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "The MongolZ",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Natus Vincere",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "The MongolZ",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Natus Vincere",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400434,
+    "url": "https://hltv.org/matches/2400434/johnny-speeds-vs-drama-nodwin-clutch-series-14-closed-qualifier",
+    "date": null,
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": "Johnny Speeds",
+    "team2": "Drama",
+    "team1-id": 12604,
+    "team2-id": 13704,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Johnny Speeds",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 4:7)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Johnny Speeds",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Johnny Speeds",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 6:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400132,
+    "url": "https://hltv.org/matches/2400132/butterfly-vs-maybe-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "Butterfly",
+    "team2": "MAYBE",
+    "team1-id": 13908,
+    "team2-id": 13945,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Butterfly",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 4:8) (4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Butterfly",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400223,
+    "url": "https://hltv.org/matches/2400223/four-magic-vs-masonic-cct-2026-europe-series-14-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": "Four Magic",
+    "team2": "MASONIC",
+    "team1-id": 13520,
+    "team2-id": 10867,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Four Magic",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(0:12; 8:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Four Magic",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 1:6)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Four Magic",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400224,
+    "url": "https://hltv.org/matches/2400224/ryvex-vs-saint-sinners-cct-2026-europe-series-14-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": "Ryvex",
+    "team2": "Saint Sinners",
+    "team1-id": 13974,
+    "team2-id": 13998,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Ryvex",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Saint Sinners",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400293,
+    "url": "https://hltv.org/matches/2400293/g2-ares-vs-saint-sinners-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "G2 Ares",
+    "team2": "Saint Sinners",
+    "team1-id": 12889,
+    "team2-id": 13998,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "G2 Ares",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Saint Sinners",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2400089,
     "url": "https://hltv.org/matches/2400089/underworld-vs-mibr-fe-cct-2026-south-america-series-8",
     "date": null,
@@ -41,7 +415,27 @@
     "team1-id": null,
     "team2-id": null,
     "team1score": 1,
-    "team2score": 0
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "DAMAJUANA",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Mira",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400087,
@@ -53,7 +447,57 @@
     "team1-id": null,
     "team2-id": null,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "MEIA NOITE",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 2:8)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "MEIA NOITE",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "MEIA NOITE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400425,
@@ -65,7 +509,57 @@
     "team1-id": null,
     "team2-id": null,
     "team1score": 1,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Bakisochskakis",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Coinstep",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 4:5)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Bakisochskakis",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Coinstep",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:2)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Bakisochskakis",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Coinstep",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(0:12; 0:1)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400298,
@@ -77,7 +571,57 @@
     "team1-id": null,
     "team2-id": null,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Drama",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Misa",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Drama",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Misa",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Drama",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Misa",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400086,
@@ -89,7 +633,27 @@
     "team1-id": null,
     "team2-id": null,
     "team1score": 0,
-    "team2score": 1
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "your end",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Low Cortisol",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400085,
@@ -101,7 +665,57 @@
     "team1-id": null,
     "team2-id": null,
     "team1score": 1,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "tao toma",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 6:6) (4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "tao toma",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 7:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "tao toma",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 4:7)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400007,

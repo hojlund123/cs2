@@ -1,5 +1,1267 @@
 [
   {
+    "match-id": 2400307,
+    "url": "https://hltv.org/matches/2400307/og-vs-private-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "OG",
+    "team2": "PRIVATE",
+    "team1-id": 10411,
+    "team2-id": 14030,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "OG",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PRIVATE",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:3)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "OG",
+          "score": "3",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PRIVATE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 0:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "OG",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PRIVATE",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400220,
+    "url": "https://hltv.org/matches/2400220/drama-vs-phantom-academy-cct-2026-europe-series-14-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": "Drama",
+    "team2": "Phantom Academy",
+    "team1-id": 13704,
+    "team2-id": 13766,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Drama",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Phantom Academy",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Drama",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 3:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Drama",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 2:7)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400310,
+    "url": "https://hltv.org/matches/2400310/dnk-vs-the-last-resort-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "DNK",
+    "team2": "The Last Resort",
+    "team1-id": 13803,
+    "team2-id": 6089,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "DNK",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "The Last Resort",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "DNK",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "The Last Resort",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 4:8)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "DNK",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "The Last Resort",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 4:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400314,
+    "url": "https://hltv.org/matches/2400314/ryvex-vs-lph-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "Ryvex",
+    "team2": "LPH",
+    "team1-id": 13974,
+    "team2-id": 13279,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Ryvex",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 4:8) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Ryvex",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Ryvex",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400311,
+    "url": "https://hltv.org/matches/2400311/alliance-vs-9ine-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "Alliance",
+    "team2": "9INE",
+    "team1-id": 12474,
+    "team2-id": 10278,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Alliance",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "9INE",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 6:6) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Alliance",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "9INE",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Alliance",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "9INE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400135,
+    "url": "https://hltv.org/matches/2400135/nexus-vs-forze-reload-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "Nexus",
+    "team2": "FORZE Reload",
+    "team1-id": 6239,
+    "team2-id": 12857,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Nexus",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Nexus",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Nexus",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400309,
+    "url": "https://hltv.org/matches/2400309/fokus-vs-balkan-outlaws-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "FOKUS",
+    "team2": "Balkan Outlaws",
+    "team1-id": 13679,
+    "team2-id": 14130,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FOKUS",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Balkan Outlaws",
+          "score": "12",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 4:8) (4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FOKUS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Balkan Outlaws",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FOKUS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Balkan Outlaws",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400313,
+    "url": "https://hltv.org/matches/2400313/acend-vs-aimclub-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "Acend",
+    "team2": "aimclub",
+    "team1-id": 13518,
+    "team2-id": 6810,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Acend",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "aimclub",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Acend",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "aimclub",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Acend",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "aimclub",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400429,
+    "url": "https://hltv.org/matches/2400429/kappa-bar-vs-coinstep-svenska-cupen-2026-closed-qualifier",
+    "date": null,
+    "event": "Svenska Cupen 2026 Closed Qualifier",
+    "team1": "Kappa Bar",
+    "team2": "Coinstep",
+    "team1-id": 11321,
+    "team2-id": 14136,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Kappa Bar",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Coinstep",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Kappa Bar",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Coinstep",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Kappa Bar",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Coinstep",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400312,
+    "url": "https://hltv.org/matches/2400312/maybe-vs-6yubojlbl-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "MAYBE",
+    "team2": "6yuBoJlbl",
+    "team1-id": 13945,
+    "team2-id": 14079,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "MAYBE",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "6yuBoJlbl",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 1:6)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "MAYBE",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "6yuBoJlbl",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 0:8)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "MAYBE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "6yuBoJlbl",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400308,
+    "url": "https://hltv.org/matches/2400308/g2-ares-vs-optibet-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "G2 Ares",
+    "team2": "Optibet",
+    "team1-id": 12889,
+    "team2-id": 14054,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "G2 Ares",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Optibet",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "G2 Ares",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Optibet",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "G2 Ares",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Optibet",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400134,
+    "url": "https://hltv.org/matches/2400134/ex-zero-tenacity-vs-leo-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "ex-Zero Tenacity",
+    "team2": "Leo",
+    "team1-id": 13573,
+    "team2-id": 11446,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Leo",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 4:8)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Leo",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Leo",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400304,
+    "url": "https://hltv.org/matches/2400304/6yubojlbl-vs-9ine-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "6yuBoJlbl",
+    "team2": "9INE",
+    "team1-id": 14079,
+    "team2-id": 10278,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "6yuBoJlbl",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "9INE",
+          "score": "12",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 7:5) (4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "6yuBoJlbl",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "9INE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 3:9)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "6yuBoJlbl",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "9INE",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 5:7) (2:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400303,
+    "url": "https://hltv.org/matches/2400303/alliance-vs-maybe-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "Alliance",
+    "team2": "MAYBE",
+    "team1-id": 12474,
+    "team2-id": 13945,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Alliance",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Alliance",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 4:8)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Alliance",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400302,
+    "url": "https://hltv.org/matches/2400302/fokus-vs-dnk-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "FOKUS",
+    "team2": "DNK",
+    "team1-id": 13679,
+    "team2-id": 13803,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FOKUS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "DNK",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FOKUS",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "DNK",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 4:7)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FOKUS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "DNK",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400219,
+    "url": "https://hltv.org/matches/2400219/saw-youngsters-vs-lfo-10-cct-2026-europe-series-14-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": "SAW Youngsters",
+    "team2": "LFO 10",
+    "team1-id": 11248,
+    "team2-id": 14084,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "SAW Youngsters",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 2:5)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "SAW Youngsters",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "SAW Youngsters",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400299,
+    "url": "https://hltv.org/matches/2400299/private-vs-optibet-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "PRIVATE",
+    "team2": "Optibet",
+    "team1-id": 14030,
+    "team2-id": 14054,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "PRIVATE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Optibet",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "PRIVATE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Optibet",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "PRIVATE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Optibet",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400430,
+    "url": "https://hltv.org/matches/2400430/xept-vs-bakisochskakis-svenska-cupen-2026-closed-qualifier",
+    "date": null,
+    "event": "Svenska Cupen 2026 Closed Qualifier",
+    "team1": "XEPT",
+    "team2": "Bakisochskakis",
+    "team1-id": 14076,
+    "team2-id": 14135,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "XEPT",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Bakisochskakis",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "XEPT",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Bakisochskakis",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "XEPT",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Bakisochskakis",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400300,
+    "url": "https://hltv.org/matches/2400300/og-vs-g2-ares-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "OG",
+    "team2": "G2 Ares",
+    "team1-id": 10411,
+    "team2-id": 12889,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "OG",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "OG",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:4)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "OG",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400306,
+    "url": "https://hltv.org/matches/2400306/lph-vs-aimclub-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "LPH",
+    "team2": "aimclub",
+    "team1-id": 13279,
+    "team2-id": 6810,
+    "team1score": 0,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400301,
+    "url": "https://hltv.org/matches/2400301/balkan-outlaws-vs-the-last-resort-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "Balkan Outlaws",
+    "team2": "The Last Resort",
+    "team1-id": 14130,
+    "team2-id": 6089,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
+    "match-id": 2400305,
+    "url": "https://hltv.org/matches/2400305/acend-vs-ryvex-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "Acend",
+    "team2": "Ryvex",
+    "team1-id": 13518,
+    "team2-id": 13974,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
+    "match-id": 2400133,
+    "url": "https://hltv.org/matches/2400133/black-phoenix-vs-baks-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "Black Phoenix",
+    "team2": "BAKS",
+    "team1-id": 13924,
+    "team2-id": 11699,
+    "team1score": 2,
+    "team2score": 1
+  },
+  {
+    "match-id": 2400435,
+    "url": "https://hltv.org/matches/2400435/fire-flux-vs-illyrians-nodwin-clutch-series-14-closed-qualifier",
+    "date": null,
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": "Fire Flux",
+    "team2": "Illyrians",
+    "team1-id": 12960,
+    "team2-id": 11719,
+    "team1score": 1,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400389,
+    "url": "https://hltv.org/matches/2400389/saint-sinners-vs-maybe-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "Saint Sinners",
+    "team2": "MAYBE",
+    "team1-id": 13998,
+    "team2-id": 13945,
+    "team1score": 0,
+    "team2score": 1
+  },
+  {
+    "match-id": 2400294,
+    "url": "https://hltv.org/matches/2400294/lunacy-vs-maybe-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "Lunacy",
+    "team2": "MAYBE",
+    "team1-id": 14124,
+    "team2-id": 13945,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
     "match-id": 2400009,
     "url": "https://hltv.org/matches/2400009/mouz-vs-betboom-iem-beijing-2026",
     "date": null,

@@ -1,5 +1,109 @@
 [
   {
+    "match-id": 2400089,
+    "url": "https://hltv.org/matches/2400089/underworld-vs-mibr-fe-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "Underworld",
+    "team2": "MIBR fe",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Underworld",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MIBR fe",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400088,
+    "url": "https://hltv.org/matches/2400088/damajuana-vs-mira-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "DAMAJUANA",
+    "team2": "Mira",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 1,
+    "team2score": 0
+  },
+  {
+    "match-id": 2400087,
+    "url": "https://hltv.org/matches/2400087/meia-noite-vs-rush-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "MEIA NOITE",
+    "team2": "RUSH",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 0,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400425,
+    "url": "https://hltv.org/matches/2400425/bakisochskakis-vs-coinstep-svenska-cupen-2026-closed-qualifier",
+    "date": null,
+    "event": "Svenska Cupen 2026 Closed Qualifier",
+    "team1": "Bakisochskakis",
+    "team2": "Coinstep",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 1,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400298,
+    "url": "https://hltv.org/matches/2400298/drama-vs-misa-nodwin-clutch-series-14-closed-qualifier",
+    "date": null,
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": "Drama",
+    "team2": "Misa",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 2,
+    "team2score": 1
+  },
+  {
+    "match-id": 2400086,
+    "url": "https://hltv.org/matches/2400086/your-end-vs-low-cortisol-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "your end",
+    "team2": "Low Cortisol",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 0,
+    "team2score": 1
+  },
+  {
+    "match-id": 2400085,
+    "url": "https://hltv.org/matches/2400085/quintessncia-vs-tao-toma-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "QUINTESSÊNCIA",
+    "team2": "tao toma",
+    "team1-id": null,
+    "team2-id": null,
+    "team1score": 1,
+    "team2score": 2
+  },
+  {
     "match-id": 2400007,
     "url": "https://hltv.org/matches/2400007/furia-vs-betboom-iem-beijing-2026",
     "date": null,

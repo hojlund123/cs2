@@ -1,5 +1,409 @@
 [
   {
+    "match-id": 2400011,
+    "url": "https://hltv.org/matches/2400011/the-mongolz-vs-mouz-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "The MongolZ",
+    "team2": "MOUZ",
+    "team1-id": 6248,
+    "team2-id": 4494,
+    "team1score": 0,
+    "team2score": 3,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "The MongolZ",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 1:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "The MongolZ",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 0:7)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "The MongolZ",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "The MongolZ",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "The MongolZ",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400010,
+    "url": "https://hltv.org/matches/2400010/natus-vincere-vs-betboom-iem-beijing-2026",
+    "date": null,
+    "event": "IEM Beijing 2026",
+    "team1": "Natus Vincere",
+    "team2": "BETBOOM",
+    "team1-id": 4608,
+    "team2-id": 12394,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Natus Vincere",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BETBOOM",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Natus Vincere",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BETBOOM",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Natus Vincere",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BETBOOM",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400136,
+    "url": "https://hltv.org/matches/2400136/g2-ares-vs-inner-circle-academy-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "G2 Ares",
+    "team2": "Inner Circle Academy",
+    "team1-id": 12889,
+    "team2-id": 13681,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "G2 Ares",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Inner Circle Academy",
+          "score": "12",
+          "status": "lost"
+        },
+        "half_scores": "(3:9; 9:3) (4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "G2 Ares",
+          "score": "12",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Inner Circle Academy",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 7:5) (0:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "G2 Ares",
+          "score": "1",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Inner Circle Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 0:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400225,
+    "url": "https://hltv.org/matches/2400225/illyrians-vs-bebop-cct-2026-europe-series-14-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": "Illyrians",
+    "team2": "Bebop",
+    "team1-id": 11719,
+    "team2-id": 13613,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Illyrians",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Bebop",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Illyrians",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Bebop",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Illyrians",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Bebop",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400137,
+    "url": "https://hltv.org/matches/2400137/gothic-vs-the-last-resort-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "Gothic",
+    "team2": "The Last Resort",
+    "team1-id": 14014,
+    "team2-id": 6089,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Gothic",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "The Last Resort",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400436,
+    "url": "https://hltv.org/matches/2400436/basement-boys-vs-spirit-academy-nodwin-clutch-series-14-closed-qualifier",
+    "date": null,
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": "BASEMENT BOYS",
+    "team2": "Spirit Academy",
+    "team1-id": 13181,
+    "team2-id": 7900,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "BASEMENT BOYS",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 4:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "BASEMENT BOYS",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 1:7)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "BASEMENT BOYS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400383,
+    "url": "https://hltv.org/matches/2400383/azuolas-vs-6yubojlbl-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "Azuolas",
+    "team2": "6yuBoJlbl",
+    "team1-id": 13991,
+    "team2-id": 14079,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Azuolas",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "6yuBoJlbl",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2400377,
     "url": "https://hltv.org/matches/2400377/detonate-vs-keep-talking-cct-2026-challengers-north-america-series-1",
     "date": null,

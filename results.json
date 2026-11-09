@@ -1,5 +1,347 @@
 [
   {
+    "match-id": 2400386,
+    "url": "https://hltv.org/matches/2400386/balkan-outlaws-vs-ex-ence-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "Balkan Outlaws",
+    "team2": "ex-ENCE",
+    "team1-id": 14130,
+    "team2-id": 13749,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ex-ENCE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 0:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ex-ENCE",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ex-ENCE",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400230,
+    "url": "https://hltv.org/matches/2400230/maybe-vs-masonic-cct-2026-europe-series-14-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": "MAYBE",
+    "team2": "MASONIC",
+    "team1-id": 13945,
+    "team2-id": 10867,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "MAYBE",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 1:6)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:2)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "MAYBE",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 3:9)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400141,
+    "url": "https://hltv.org/matches/2400141/baks-vs-leo-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "BAKS",
+    "team2": "Leo",
+    "team1-id": 11699,
+    "team2-id": 11446,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Leo",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Leo",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "BAKS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Leo",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400385,
+    "url": "https://hltv.org/matches/2400385/walczaki-vs-noir-verse-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "Walczaki",
+    "team2": "Noir Verse",
+    "team1-id": 13808,
+    "team2-id": 13877,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Walczaki",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "16",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 7:5) (7:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Walczaki",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 1:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Walczaki",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 2:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400229,
+    "url": "https://hltv.org/matches/2400229/lfo-10-vs-prestige-cct-2026-europe-series-14-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": "LFO 10",
+    "team2": "Prestige",
+    "team1-id": 14084,
+    "team2-id": 13159,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "LFO 10",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Prestige",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "LFO 10",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Prestige",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(3:9; 10:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "LFO 10",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Prestige",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400140,
+    "url": "https://hltv.org/matches/2400140/forze-reload-vs-maybe-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "FORZE Reload",
+    "team2": "MAYBE",
+    "team1-id": 12857,
+    "team2-id": 13945,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2400382,
     "url": "https://hltv.org/matches/2400382/marsborne-vs-feistein-cct-2026-challengers-north-america-series-1",
     "date": null,

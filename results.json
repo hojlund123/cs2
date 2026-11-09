@@ -1,5 +1,285 @@
 [
   {
+    "match-id": 2400382,
+    "url": "https://hltv.org/matches/2400382/marsborne-vs-feistein-cct-2026-challengers-north-america-series-1",
+    "date": null,
+    "event": "CCT 2026 Challengers North America Series 1",
+    "team1": "Marsborne",
+    "team2": "Feistein",
+    "team1-id": 13124,
+    "team2-id": 14134,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Marsborne",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Feistein",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Marsborne",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Feistein",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Marsborne",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Feistein",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400095,
+    "url": "https://hltv.org/matches/2400095/low-cortisol-vs-rush-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "Low Cortisol",
+    "team2": "RUSH",
+    "team1-id": 14051,
+    "team2-id": 13907,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Low Cortisol",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Low Cortisol",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Low Cortisol",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400381,
+    "url": "https://hltv.org/matches/2400381/elusive-vs-detonate-cct-2026-challengers-north-america-series-1",
+    "date": null,
+    "event": "CCT 2026 Challengers North America Series 1",
+    "team1": "Elusive",
+    "team2": "DETONATE",
+    "team1-id": 7256,
+    "team2-id": 11336,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Elusive",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "DETONATE",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400380,
+    "url": "https://hltv.org/matches/2400380/detonate-vs-feistein-cct-2026-challengers-north-america-series-1",
+    "date": null,
+    "event": "CCT 2026 Challengers North America Series 1",
+    "team1": "DETONATE",
+    "team2": "Feistein",
+    "team1-id": 11336,
+    "team2-id": 14134,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "DETONATE",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Feistein",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 6:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "DETONATE",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Feistein",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 0:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "DETONATE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Feistein",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400379,
+    "url": "https://hltv.org/matches/2400379/marsborne-vs-elusive-cct-2026-challengers-north-america-series-1",
+    "date": null,
+    "event": "CCT 2026 Challengers North America Series 1",
+    "team1": "Marsborne",
+    "team2": "Elusive",
+    "team1-id": 13124,
+    "team2-id": 7256,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Marsborne",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Elusive",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:0)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Marsborne",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Elusive",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Marsborne",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Elusive",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2400228,
     "url": "https://hltv.org/matches/2400228/ryvex-vs-drama-cct-2026-europe-series-14-closed-qualifier",
     "date": null,

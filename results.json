@@ -1,5 +1,379 @@
 [
   {
+    "match-id": 2400328,
+    "url": "https://hltv.org/matches/2400328/black-phoenix-vs-baks-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "Black Phoenix",
+    "team2": "BAKS",
+    "team1-id": 13924,
+    "team2-id": 11699,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 3:6)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 2:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400234,
+    "url": "https://hltv.org/matches/2400234/ex-zero-tenacity-vs-illyrians-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "ex-Zero Tenacity",
+    "team2": "Illyrians",
+    "team1-id": 13573,
+    "team2-id": 11719,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400388,
+    "url": "https://hltv.org/matches/2400388/forze-reload-vs-mouz-nxt-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "FORZE Reload",
+    "team2": "MOUZ NXT",
+    "team1-id": 12857,
+    "team2-id": 11176,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400144,
+    "url": "https://hltv.org/matches/2400144/leo-vs-psychoface-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "Leo",
+    "team2": "PsychoFace",
+    "team1-id": 11446,
+    "team2-id": 13799,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Leo",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PsychoFace",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400327,
+    "url": "https://hltv.org/matches/2400327/brute-vs-illyrians-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "BRUTE",
+    "team2": "Illyrians",
+    "team1-id": 9139,
+    "team2-id": 11719,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "BRUTE",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 5:7) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "BRUTE",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 2:7)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "BRUTE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400233,
+    "url": "https://hltv.org/matches/2400233/baks-vs-azuolas-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "BAKS",
+    "team2": "Azuolas",
+    "team1-id": 11699,
+    "team2-id": 13991,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Azuolas",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Azuolas",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "(12:0; 1:0)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "BAKS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Azuolas",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400387,
+    "url": "https://hltv.org/matches/2400387/navi-junior-vs-lfo-10-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "NAVI Junior",
+    "team2": "LFO 10",
+    "team1-id": 10371,
+    "team2-id": 14084,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "NAVI Junior",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2400098,
     "url": "https://hltv.org/matches/2400098/your-end-vs-damajuana-cct-2026-south-america-series-8",
     "date": null,

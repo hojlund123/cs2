@@ -1,5 +1,749 @@
 [
   {
+    "match-id": 2400098,
+    "url": "https://hltv.org/matches/2400098/your-end-vs-damajuana-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "your end",
+    "team2": "DAMAJUANA",
+    "team1-id": 14008,
+    "team2-id": 13697,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "your end",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "DAMAJUANA",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "your end",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "DAMAJUANA",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:2)",
+        "status": "played"
+      },
+      {
+        "map": "Default",
+        "team1": {
+          "name": "your end",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "DAMAJUANA",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400097,
+    "url": "https://hltv.org/matches/2400097/bestia-academy-vs-underworld-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "BESTIA Academy",
+    "team2": "Underworld",
+    "team1-id": 13026,
+    "team2-id": 14045,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "BESTIA Academy",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Underworld",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 0:5)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "BESTIA Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Underworld",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "BESTIA Academy",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Underworld",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 1:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400326,
+    "url": "https://hltv.org/matches/2400326/9ine-vs-fokus-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "9INE",
+    "team2": "FOKUS",
+    "team1-id": 10278,
+    "team2-id": 13679,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "9INE",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FOKUS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 3:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "9INE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FOKUS",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "9INE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FOKUS",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400143,
+    "url": "https://hltv.org/matches/2400143/ex-zero-tenacity-vs-black-phoenix-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "ex-Zero Tenacity",
+    "team2": "Black Phoenix",
+    "team1-id": 13573,
+    "team2-id": 13924,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 3:5)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400232,
+    "url": "https://hltv.org/matches/2400232/honvd-vs-ryvex-cct-2026-europe-series-14-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": "Honvéd",
+    "team2": "Ryvex",
+    "team1-id": 11110,
+    "team2-id": 13974,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Honvéd",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Ryvex",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Honvéd",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Ryvex",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "(12:0; 1:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Honvéd",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Ryvex",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400325,
+    "url": "https://hltv.org/matches/2400325/aimclub-vs-alliance-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "aimclub",
+    "team2": "Alliance",
+    "team1-id": 6810,
+    "team2-id": 12474,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "aimclub",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Alliance",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 2:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "aimclub",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Alliance",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 5:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "aimclub",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Alliance",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400231,
+    "url": "https://hltv.org/matches/2400231/phantom-academy-vs-illyrians-cct-2026-europe-series-14-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": "Phantom Academy",
+    "team2": "Illyrians",
+    "team1-id": 13766,
+    "team2-id": 11719,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Phantom Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:8)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Phantom Academy",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Phantom Academy",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 1:9)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400096,
+    "url": "https://hltv.org/matches/2400096/grmio-vs-zetta-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "Grêmio",
+    "team2": "Zetta",
+    "team1-id": 13912,
+    "team2-id": 13833,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Grêmio",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Zetta",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Grêmio",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Zetta",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Grêmio",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Zetta",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400292,
+    "url": "https://hltv.org/matches/2400292/lfo-10-vs-mouz-nxt-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "LFO 10",
+    "team2": "MOUZ NXT",
+    "team1-id": 14084,
+    "team2-id": 11176,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "LFO 10",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "LFO 10",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 0:8)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "LFO 10",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 0:7)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400142,
+    "url": "https://hltv.org/matches/2400142/butterfly-vs-nexus-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "Butterfly",
+    "team2": "Nexus",
+    "team1-id": 13908,
+    "team2-id": 6239,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Nexus",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Butterfly",
+          "score": "3",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Nexus",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 1:3)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Nexus",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400324,
+    "url": "https://hltv.org/matches/2400324/alliance-vs-fokus-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "Alliance",
+    "team2": "FOKUS",
+    "team1-id": 12474,
+    "team2-id": 13679,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Alliance",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FOKUS",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Alliance",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FOKUS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 4:8)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Alliance",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FOKUS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 4:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400323,
+    "url": "https://hltv.org/matches/2400323/aimclub-vs-9ine-esl-challenger-league-season-52-europe-cup-11",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 11",
+    "team1": "aimclub",
+    "team2": "9INE",
+    "team1-id": 6810,
+    "team2-id": 10278,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "aimclub",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "9INE",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "aimclub",
+          "score": "1",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "9INE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 0:2)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "aimclub",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "9INE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 4:8)",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2400386,
     "url": "https://hltv.org/matches/2400386/balkan-outlaws-vs-ex-ence-european-pro-league-series-10",
     "date": null,

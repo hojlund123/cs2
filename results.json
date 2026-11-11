@@ -1,5 +1,191 @@
 [
   {
+    "match-id": 2399851,
+    "url": "https://hltv.org/matches/2399851/legacy-vs-furia-blast-rivals-2026-season-2",
+    "date": null,
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": "Legacy",
+    "team2": "FURIA",
+    "team1-id": 5704,
+    "team2-id": 8297,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Legacy",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FURIA",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Legacy",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FURIA",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 4:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Legacy",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FURIA",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400101,
+    "url": "https://hltv.org/matches/2400101/quintessncia-vs-rush-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "QUINTESSÊNCIA",
+    "team2": "RUSH",
+    "team1-id": 13811,
+    "team2-id": 13907,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "31",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "34",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 10:2) (19:22)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400459,
+    "url": "https://hltv.org/matches/2400459/33-vs-basement-boys-pgl-cluj-napoca-2027-open-qualifier-1",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+    "team1": "33",
+    "team2": "BASEMENT BOYS",
+    "team1-id": 13297,
+    "team2-id": 13181,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "33",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BASEMENT BOYS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 3:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "33",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BASEMENT BOYS",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "33",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BASEMENT BOYS",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2400461,
     "url": "https://hltv.org/matches/2400461/gamesport-vs-pcific-pgl-cluj-napoca-2027-open-qualifier-1",
     "date": null,

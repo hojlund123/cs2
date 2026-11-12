@@ -1,5 +1,691 @@
 [
   {
+    "match-id": 2400203,
+    "url": "https://hltv.org/matches/2400203/spirit-vs-g2-blast-rivals-2026-season-2",
+    "date": null,
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": "Spirit",
+    "team2": "G2",
+    "team1-id": 7020,
+    "team2-id": 5995,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Spirit",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "G2",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 2:8)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Spirit",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "G2",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Spirit",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "G2",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:1)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400202,
+    "url": "https://hltv.org/matches/2400202/fut-vs-mouz-blast-rivals-2026-season-2",
+    "date": null,
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": "FUT",
+    "team2": "MOUZ",
+    "team1-id": 13286,
+    "team2-id": 4494,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FUT",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "16",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 8:4) (7:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FUT",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(9:3; 3:9) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "FUT",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 3:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400201,
+    "url": "https://hltv.org/matches/2400201/furia-vs-vitality-blast-rivals-2026-season-2",
+    "date": null,
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": "FURIA",
+    "team2": "Vitality",
+    "team1-id": 8297,
+    "team2-id": 9565,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "FURIA",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Vitality",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FURIA",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Vitality",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:7)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FURIA",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Vitality",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "(12:0; 1:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400200,
+    "url": "https://hltv.org/matches/2400200/legacy-vs-falcons-blast-rivals-2026-season-2",
+    "date": null,
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": "Legacy",
+    "team2": "Falcons",
+    "team1-id": 5704,
+    "team2-id": 11283,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Legacy",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Falcons",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 3:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Legacy",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Falcons",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 3:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Legacy",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Falcons",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400337,
+    "url": "https://hltv.org/matches/2400337/ex-zero-tenacity-vs-nt-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "ex-Zero Tenacity",
+    "team2": "NT",
+    "team1-id": 13573,
+    "team2-id": 14007,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NT",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400392,
+    "url": "https://hltv.org/matches/2400392/lunacy-vs-maybe-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "Lunacy",
+    "team2": "MAYBE",
+    "team1-id": 14124,
+    "team2-id": 13945,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Lunacy",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 4:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Lunacy",
+          "score": "17",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "19",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 5:7) (5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Lunacy",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400336,
+    "url": "https://hltv.org/matches/2400336/forze-reload-vs-butterfly-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "FORZE Reload",
+    "team2": "Butterfly",
+    "team1-id": 12857,
+    "team2-id": 13908,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 2:6)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Butterfly",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400471,
+    "url": "https://hltv.org/matches/2400471/drama-vs-6yubojlbl-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "Drama",
+    "team2": "6yuBoJlbl",
+    "team1-id": 13704,
+    "team2-id": 14079,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Drama",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "6yuBoJlbl",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400391,
+    "url": "https://hltv.org/matches/2400391/navi-junior-vs-mouz-nxt-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "NAVI Junior",
+    "team2": "MOUZ NXT",
+    "team1-id": 10371,
+    "team2-id": 11176,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "NAVI Junior",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "NAVI Junior",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "12",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 7:5) (4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "NAVI Junior",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 0:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400241,
+    "url": "https://hltv.org/matches/2400241/the-last-resort-vs-masonic-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "The Last Resort",
+    "team2": "MASONIC",
+    "team1-id": 6089,
+    "team2-id": 10867,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "The Last Resort",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "12",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 6:6) (4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "The Last Resort",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 2:6)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "The Last Resort",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:1)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400335,
+    "url": "https://hltv.org/matches/2400335/phantom-vs-illyrians-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "Phantom",
+    "team2": "Illyrians",
+    "team1-id": 13173,
+    "team2-id": 11719,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Phantom",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Phantom",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:2)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Phantom",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400108,
+    "url": "https://hltv.org/matches/2400108/ex-bounty-hunters-vs-quintessncia-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "ex-Bounty Hunters",
+    "team2": "QUINTESSÊNCIA",
+    "team1-id": null,
+    "team2-id": 13811,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "ex-Bounty Hunters",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "QUINTESSÊNCIA",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400242,
+    "url": "https://hltv.org/matches/2400242/mouz-nxt-vs-lfo-10-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "MOUZ NXT",
+    "team2": "LFO 10",
+    "team1-id": 11176,
+    "team2-id": 14084,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "MOUZ NXT",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2400104,
     "url": "https://hltv.org/matches/2400104/borracheiros-vs-your-end-cct-2026-south-america-series-8",
     "date": null,

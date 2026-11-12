@@ -1,5 +1,1073 @@
 [
   {
+    "match-id": 2400513,
+    "url": "https://hltv.org/matches/2400513/luntiki-vs-m1x-ks-pgl-cluj-napoca-2027-open-qualifier-2",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 2",
+    "team1": "LUNTIKI",
+    "team2": "M1X KS",
+    "team1-id": 14142,
+    "team2-id": 12846,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "LUNTIKI",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "M1X KS",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "LUNTIKI",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "M1X KS",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:0)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "LUNTIKI",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "M1X KS",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400512,
+    "url": "https://hltv.org/matches/2400512/bbl-vs-private-pgl-cluj-napoca-2027-open-qualifier-2",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 2",
+    "team1": "BBL",
+    "team2": "PRIVATE",
+    "team1-id": 13996,
+    "team2-id": 14030,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "BBL",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PRIVATE",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "BBL",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PRIVATE",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "BBL",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PRIVATE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400511,
+    "url": "https://hltv.org/matches/2400511/saw-vs-state-pgl-cluj-napoca-2027-open-qualifier-2",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 2",
+    "team1": "SAW",
+    "team2": "STATE",
+    "team1-id": 10567,
+    "team2-id": 13623,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "SAW",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "STATE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 1:5)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "SAW",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "STATE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 2:8)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "SAW",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "STATE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400107,
+    "url": "https://hltv.org/matches/2400107/procyon-vs-tao-toma-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "Procyon",
+    "team2": "tao toma",
+    "team1-id": 10997,
+    "team2-id": 14126,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Procyon",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "tao toma",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 0:6)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Procyon",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "tao toma",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Procyon",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "tao toma",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 3:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400474,
+    "url": "https://hltv.org/matches/2400474/alliance-vs-noir-verse-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "Alliance",
+    "team2": "Noir Verse",
+    "team1-id": 12474,
+    "team2-id": 13877,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Alliance",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Alliance",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Alliance",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 6:6) (2:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400508,
+    "url": "https://hltv.org/matches/2400508/zvezdochki-vs-m1x-ks-pgl-cluj-napoca-2027-open-qualifier-2",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 2",
+    "team1": "zvezdochki",
+    "team2": "M1X KS",
+    "team1-id": 14146,
+    "team2-id": 12846,
+    "team1score": 13,
+    "team2score": 16,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "zvezdochki",
+          "score": "13",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "M1X KS",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 6:6) (1:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400338,
+    "url": "https://hltv.org/matches/2400338/ex-rustec-vs-spirit-academy-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "ex-RUSTEC",
+    "team2": "Spirit Academy",
+    "team1-id": 13901,
+    "team2-id": 7900,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "ex-RUSTEC",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 3:6)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "ex-RUSTEC",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "ex-RUSTEC",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400506,
+    "url": "https://hltv.org/matches/2400506/private-vs-y23-pgl-cluj-napoca-2027-open-qualifier-2",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 2",
+    "team1": "PRIVATE",
+    "team2": "Y23",
+    "team1-id": 14030,
+    "team2-id": 14145,
+    "team1score": 13,
+    "team2score": 9,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "PRIVATE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Y23",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400505,
+    "url": "https://hltv.org/matches/2400505/bbl-vs-rbls-pgl-cluj-napoca-2027-open-qualifier-2",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 2",
+    "team1": "BBL",
+    "team2": "RBLS",
+    "team1-id": 13996,
+    "team2-id": 12642,
+    "team1score": 13,
+    "team2score": 3,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "BBL",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "RBLS",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:1)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400503,
+    "url": "https://hltv.org/matches/2400503/state-vs-orda-pgl-cluj-napoca-2027-open-qualifier-2",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 2",
+    "team1": "STATE",
+    "team2": "Orda",
+    "team1-id": 13623,
+    "team2-id": 9598,
+    "team1score": 16,
+    "team2score": 12,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "STATE",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Orda",
+          "score": "12",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 8:4) (4:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400509,
+    "url": "https://hltv.org/matches/2400509/butterfly-vs-forze-reload-pgl-cluj-napoca-2027-open-qualifier-2",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 2",
+    "team1": "Butterfly",
+    "team2": "FORZE Reload",
+    "team1-id": 13908,
+    "team2-id": 12857,
+    "team1score": 13,
+    "team2score": 5,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400504,
+    "url": "https://hltv.org/matches/2400504/nuclear-tigeres-vs-saw-pgl-cluj-napoca-2027-open-qualifier-2",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 2",
+    "team1": "Nuclear TigeRES",
+    "team2": "SAW",
+    "team1-id": 13027,
+    "team2-id": 10567,
+    "team1score": 4,
+    "team2score": 13,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Nuclear TigeRES",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "SAW",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 2:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400479,
+    "url": "https://hltv.org/matches/2400479/lvlt-vs-lph-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "LVLT",
+    "team2": "LPH",
+    "team1-id": 14143,
+    "team2-id": 13279,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "LVLT",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "LVLT",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 1:7)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "LVLT",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400475,
+    "url": "https://hltv.org/matches/2400475/ex-inox-vs-maybe-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "ex-INOX",
+    "team2": "MAYBE",
+    "team1-id": 14116,
+    "team2-id": 13945,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "ex-INOX",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "ex-INOX",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "ex-INOX",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400507,
+    "url": "https://hltv.org/matches/2400507/k27-vs-luntiki-pgl-cluj-napoca-2027-open-qualifier-2",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 2",
+    "team1": "K27",
+    "team2": "LUNTIKI",
+    "team1-id": 12895,
+    "team2-id": 14142,
+    "team1score": 11,
+    "team2score": 13,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "K27",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LUNTIKI",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 4:8)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400476,
+    "url": "https://hltv.org/matches/2400476/drama-vs-lavked-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "Drama",
+    "team2": "Lavked",
+    "team1-id": 13704,
+    "team2-id": 12609,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Drama",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lavked",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Drama",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lavked",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 3:7)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Drama",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lavked",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400480,
+    "url": "https://hltv.org/matches/2400480/6yubojlbl-vs-dnk-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "6yuBoJlbl",
+    "team2": "DNK",
+    "team1-id": 14079,
+    "team2-id": 13803,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "6yuBoJlbl",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "DNK",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "6yuBoJlbl",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "DNK",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "6yuBoJlbl",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "DNK",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400510,
+    "url": "https://hltv.org/matches/2400510/ww-vs-33-pgl-cluj-napoca-2027-open-qualifier-2",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 2",
+    "team1": "WW",
+    "team2": "33",
+    "team1-id": 12967,
+    "team2-id": 13297,
+    "team1score": 4,
+    "team2score": 13,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "WW",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "33",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 1:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400481,
+    "url": "https://hltv.org/matches/2400481/titanflow-vs-balkan-outlaws-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "TitanFlow",
+    "team2": "Balkan Outlaws",
+    "team1-id": 14021,
+    "team2-id": 14130,
+    "team1score": 0,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400477,
+    "url": "https://hltv.org/matches/2400477/saint-sinners-vs-kuusamo-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "Saint Sinners",
+    "team2": "KUUSAMO",
+    "team1-id": 13998,
+    "team2-id": 13745,
+    "team1score": 0,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400478,
+    "url": "https://hltv.org/matches/2400478/four-magic-vs-benched-gods-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "Four Magic",
+    "team2": "benched gods",
+    "team1-id": 13520,
+    "team2-id": 13599,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
+    "match-id": 2400106,
+    "url": "https://hltv.org/matches/2400106/ex-yawara-vs-isurus-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "ex-Yawara",
+    "team2": "Isurus",
+    "team1-id": 14125,
+    "team2-id": 7653,
+    "team1score": 2,
+    "team2score": 1
+  },
+  {
+    "match-id": 2400152,
+    "url": "https://hltv.org/matches/2400152/black-phoenix-vs-maybe-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "Black Phoenix",
+    "team2": "MAYBE",
+    "team1-id": 13924,
+    "team2-id": 13945,
+    "team1score": 1,
+    "team2score": 0
+  },
+  {
+    "match-id": 2400244,
+    "url": "https://hltv.org/matches/2400244/mint-vs-honvd-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "MINT",
+    "team2": "Honvéd",
+    "team1-id": null,
+    "team2-id": 11110,
+    "team1score": 0,
+    "team2score": 1
+  },
+  {
+    "match-id": 2400472,
+    "url": "https://hltv.org/matches/2400472/balkan-outlaws-vs-kuusamo-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "Balkan Outlaws",
+    "team2": "KUUSAMO",
+    "team1-id": 14130,
+    "team2-id": 13745,
+    "team1score": 1,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400473,
+    "url": "https://hltv.org/matches/2400473/titanflow-vs-saint-sinners-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "TitanFlow",
+    "team2": "Saint Sinners",
+    "team1-id": 14021,
+    "team2-id": 13998,
+    "team1score": 1,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400151,
+    "url": "https://hltv.org/matches/2400151/baks-vs-the-last-resort-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "BAKS",
+    "team2": "The Last Resort",
+    "team1-id": 11699,
+    "team2-id": 6089,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
+    "match-id": 2400467,
+    "url": "https://hltv.org/matches/2400467/benched-gods-vs-noir-verse-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "benched gods",
+    "team2": "Noir Verse",
+    "team1-id": 13599,
+    "team2-id": 13877,
+    "team1score": 1,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400470,
+    "url": "https://hltv.org/matches/2400470/lavked-vs-dnk-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "Lavked",
+    "team2": "DNK",
+    "team1-id": 12609,
+    "team2-id": 13803,
+    "team1score": 2,
+    "team2score": 1
+  },
+  {
+    "match-id": 2400469,
+    "url": "https://hltv.org/matches/2400469/maybe-vs-lph-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "MAYBE",
+    "team2": "LPH",
+    "team1-id": 13945,
+    "team2-id": 13279,
+    "team1score": 1,
+    "team2score": 0
+  },
+  {
+    "match-id": 2400243,
+    "url": "https://hltv.org/matches/2400243/azuolas-vs-illyrians-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "Azuolas",
+    "team2": "Illyrians",
+    "team1-id": 13991,
+    "team2-id": 11719,
+    "team1score": 0,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400466,
+    "url": "https://hltv.org/matches/2400466/alliance-vs-four-magic-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "Alliance",
+    "team2": "Four Magic",
+    "team1-id": 12474,
+    "team2-id": 13520,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
+    "match-id": 2400468,
+    "url": "https://hltv.org/matches/2400468/ex-inox-vs-lvlt-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "ex-INOX",
+    "team2": "LVLT",
+    "team1-id": 14116,
+    "team2-id": 14143,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
+    "match-id": 2400150,
+    "url": "https://hltv.org/matches/2400150/genone-vs-leo-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "GenOne",
+    "team2": "Leo",
+    "team1-id": 11609,
+    "team2-id": 11446,
+    "team1score": 1,
+    "team2score": 2
+  },
+  {
     "match-id": 2400203,
     "url": "https://hltv.org/matches/2400203/spirit-vs-g2-blast-rivals-2026-season-2",
     "date": null,

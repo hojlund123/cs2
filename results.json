@@ -1,5 +1,689 @@
 [
   {
+    "match-id": 2400104,
+    "url": "https://hltv.org/matches/2400104/borracheiros-vs-your-end-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "BORRACHEIROS",
+    "team2": "your end",
+    "team1-id": 13902,
+    "team2-id": 14008,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "BORRACHEIROS",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "your end",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400149,
+    "url": "https://hltv.org/matches/2400149/black-phoenix-vs-forze-reload-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "Black Phoenix",
+    "team2": "FORZE Reload",
+    "team1-id": 13924,
+    "team2-id": 12857,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "3",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 0:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 6:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400240,
+    "url": "https://hltv.org/matches/2400240/walczaki-vs-the-last-resort-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "Walczaki",
+    "team2": "The Last Resort",
+    "team1-id": 13808,
+    "team2-id": 6089,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Walczaki",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "The Last Resort",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Walczaki",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "The Last Resort",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Walczaki",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "The Last Resort",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400465,
+    "url": "https://hltv.org/matches/2400465/magic-vs-bbl-pgl-cluj-napoca-2027-open-qualifier-1",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+    "team1": "magic",
+    "team2": "BBL",
+    "team1-id": 13592,
+    "team2-id": 13996,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "magic",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BBL",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "magic",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BBL",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "magic",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BBL",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400103,
+    "url": "https://hltv.org/matches/2400103/red-canids-academy-vs-grmio-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "RED Canids Academy",
+    "team2": "Grêmio",
+    "team1-id": 13029,
+    "team2-id": 13912,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "RED Canids Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Grêmio",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(12:0; 1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "RED Canids Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Grêmio",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:0)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "RED Canids Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Grêmio",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400334,
+    "url": "https://hltv.org/matches/2400334/ex-zero-tenacity-vs-spirit-academy-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "ex-Zero Tenacity",
+    "team2": "Spirit Academy",
+    "team1-id": 13573,
+    "team2-id": 7900,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:3)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "15",
+          "status": "lost"
+        },
+        "half_scores": "(3:9; 9:3) (7:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "ex-Zero Tenacity",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400102,
+    "url": "https://hltv.org/matches/2400102/quintessncia-vs-underworld-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "QUINTESSÊNCIA",
+    "team2": "Underworld",
+    "team1-id": 13811,
+    "team2-id": 14045,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Underworld",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "13",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Underworld",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 9:3) (1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "QUINTESSÊNCIA",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Underworld",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400463,
+    "url": "https://hltv.org/matches/2400463/33-vs-bbl-pgl-cluj-napoca-2027-open-qualifier-1",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+    "team1": "33",
+    "team2": "BBL",
+    "team1-id": 13297,
+    "team2-id": 13996,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "33",
+          "score": "19",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BBL",
+          "score": "22",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 7:5) (7:10)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "33",
+          "score": "3",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BBL",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 0:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "33",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BBL",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400148,
+    "url": "https://hltv.org/matches/2400148/nexus-vs-baks-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "Nexus",
+    "team2": "BAKS",
+    "team1-id": 6239,
+    "team2-id": 11699,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Nexus",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 2:6)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Nexus",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Nexus",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400464,
+    "url": "https://hltv.org/matches/2400464/magic-vs-pcific-pgl-cluj-napoca-2027-open-qualifier-1",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+    "team1": "magic",
+    "team2": "PCIFIC",
+    "team1-id": 13592,
+    "team2-id": 13054,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "magic",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PCIFIC",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 5:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "magic",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PCIFIC",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "magic",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PCIFIC",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400239,
+    "url": "https://hltv.org/matches/2400239/forze-reload-vs-masonic-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "FORZE Reload",
+    "team2": "MASONIC",
+    "team1-id": 12857,
+    "team2-id": 10867,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "16",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 8:4) (7:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400333,
+    "url": "https://hltv.org/matches/2400333/ex-inox-vs-33-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "ex-INOX",
+    "team2": "33",
+    "team1-id": 14116,
+    "team2-id": 13297,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "ex-INOX",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "33",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2399854,
     "url": "https://hltv.org/matches/2399854/mouz-vs-g2-blast-rivals-2026-season-2",
     "date": null,

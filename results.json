@@ -1,5 +1,129 @@
 [
   {
+    "match-id": 2400514,
+    "url": "https://hltv.org/matches/2400514/butterfly-vs-33-pgl-cluj-napoca-2027-open-qualifier-2",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 2",
+    "team1": "Butterfly",
+    "team2": "33",
+    "team1-id": 13908,
+    "team2-id": 13297,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Butterfly",
+          "score": "17",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "33",
+          "score": "19",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 8:4) (5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Butterfly",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "33",
+          "score": "16",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 5:7) (7:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Butterfly",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "33",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400105,
+    "url": "https://hltv.org/matches/2400105/axorfy-vs-meia-noite-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "AXORFY",
+    "team2": "MEIA NOITE",
+    "team1-id": 14129,
+    "team2-id": 13938,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "AXORFY",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MEIA NOITE",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "AXORFY",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MEIA NOITE",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "AXORFY",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MEIA NOITE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2400513,
     "url": "https://hltv.org/matches/2400513/luntiki-vs-m1x-ks-pgl-cluj-napoca-2027-open-qualifier-2",
     "date": null,
@@ -885,7 +1009,57 @@
     "team1-id": 14021,
     "team2-id": 14130,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "TitanFlow",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Balkan Outlaws",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 5:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "TitanFlow",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Balkan Outlaws",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 2:9)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "TitanFlow",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Balkan Outlaws",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400477,
@@ -897,7 +1071,57 @@
     "team1-id": 13998,
     "team2-id": 13745,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Saint Sinners",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "KUUSAMO",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 2:8)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Saint Sinners",
+          "score": "2",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "KUUSAMO",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 1:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Saint Sinners",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "KUUSAMO",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400478,
@@ -909,7 +1133,57 @@
     "team1-id": 13520,
     "team2-id": 13599,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Four Magic",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "benched gods",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Four Magic",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "benched gods",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Four Magic",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "benched gods",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400106,
@@ -921,7 +1195,57 @@
     "team1-id": 14125,
     "team2-id": 7653,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "ex-Yawara",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Isurus",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:8)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "ex-Yawara",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Isurus",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "ex-Yawara",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Isurus",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:8)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400152,
@@ -933,7 +1257,27 @@
     "team1-id": 13924,
     "team2-id": 13945,
     "team1score": 1,
-    "team2score": 0
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400244,
@@ -945,7 +1289,27 @@
     "team1-id": null,
     "team2-id": 11110,
     "team1score": 0,
-    "team2score": 1
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "MINT",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Honvéd",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400472,
@@ -957,7 +1321,57 @@
     "team1-id": 14130,
     "team2-id": 13745,
     "team1score": 1,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "KUUSAMO",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 3:9)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "KUUSAMO",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "16",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "KUUSAMO",
+          "score": "19",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 5:7) (4:7)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400473,
@@ -969,7 +1383,57 @@
     "team1-id": 14021,
     "team2-id": 13998,
     "team1score": 1,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "TitanFlow",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Saint Sinners",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "TitanFlow",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Saint Sinners",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 2:9)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "TitanFlow",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Saint Sinners",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 5:3)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400151,
@@ -981,7 +1445,57 @@
     "team1-id": 11699,
     "team2-id": 6089,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "The Last Resort",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "The Last Resort",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "BAKS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "The Last Resort",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400467,
@@ -993,7 +1507,57 @@
     "team1-id": 13599,
     "team2-id": 13877,
     "team1score": 1,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "benched gods",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "benched gods",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(9:3; 1:10)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "benched gods",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400470,
@@ -1005,7 +1569,57 @@
     "team1-id": 12609,
     "team2-id": 13803,
     "team1score": 2,
-    "team2score": 1
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Lavked",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "DNK",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Lavked",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "DNK",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Lavked",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "DNK",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:1)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400469,
@@ -1017,7 +1631,57 @@
     "team1-id": 13945,
     "team2-id": 13279,
     "team1score": 1,
-    "team2score": 0
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "MAYBE",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "MAYBE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "MAYBE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400243,
@@ -1029,7 +1693,57 @@
     "team1-id": 13991,
     "team2-id": 11719,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Azuolas",
+          "score": "2",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 0:3)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Azuolas",
+          "score": "1",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 0:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Azuolas",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400466,
@@ -1041,7 +1755,57 @@
     "team1-id": 12474,
     "team2-id": 13520,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Alliance",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Four Magic",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:0)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Alliance",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Four Magic",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Alliance",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Four Magic",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400468,
@@ -1053,7 +1817,57 @@
     "team1-id": 14116,
     "team2-id": 14143,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "ex-INOX",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LVLT",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "ex-INOX",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LVLT",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "ex-INOX",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LVLT",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400150,
@@ -1065,7 +1879,57 @@
     "team1-id": 11609,
     "team2-id": 11446,
     "team1score": 1,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "GenOne",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Leo",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "GenOne",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Leo",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 5:7) (4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "GenOne",
+          "score": "3",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Leo",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 1:3)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400203,

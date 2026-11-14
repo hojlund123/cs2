@@ -1,5 +1,937 @@
 [
   {
+    "match-id": 2400206,
+    "url": "https://hltv.org/matches/2400206/spirit-vs-mouz-blast-rivals-2026-season-2",
+    "date": null,
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": "Spirit",
+    "team2": "MOUZ",
+    "team1-id": 7020,
+    "team2-id": 4494,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Spirit",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Spirit",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Spirit",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400395,
+    "url": "https://hltv.org/matches/2400395/genone-vs-balkan-outlaws-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "GenOne",
+    "team2": "Balkan Outlaws",
+    "team1-id": 11609,
+    "team2-id": 14130,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "GenOne",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Balkan Outlaws",
+          "score": "16",
+          "status": "lost"
+        },
+        "half_scores": "(3:9; 9:3) (7:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "GenOne",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Balkan Outlaws",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "GenOne",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Balkan Outlaws",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 3:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400157,
+    "url": "https://hltv.org/matches/2400157/infinite-vs-black-phoenix-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "INFINITE",
+    "team2": "Black Phoenix",
+    "team1-id": 10823,
+    "team2-id": 13924,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "INFINITE",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 4:8)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "INFINITE",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 3:7)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "INFINITE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400343,
+    "url": "https://hltv.org/matches/2400343/forze-reload-vs-nt-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "FORZE Reload",
+    "team2": "NT",
+    "team1-id": 12857,
+    "team2-id": 14007,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NT",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NT",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NT",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400112,
+    "url": "https://hltv.org/matches/2400112/barca-vs-borracheiros-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "BARCA",
+    "team2": "BORRACHEIROS",
+    "team1-id": 14107,
+    "team2-id": 13902,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "BARCA",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BORRACHEIROS",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "BARCA",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BORRACHEIROS",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "BARCA",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BORRACHEIROS",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400517,
+    "url": "https://hltv.org/matches/2400517/state-vs-33-pgl-cluj-napoca-2027-open-qualifier-2",
+    "date": null,
+    "event": "PGL Cluj-Napoca 2027 Open Qualifier 2",
+    "team1": "STATE",
+    "team2": "33",
+    "team1-id": 13623,
+    "team2-id": 13297,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "STATE",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "33",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 0:6)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "STATE",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "33",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 7:5) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "STATE",
+          "score": "15",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "33",
+          "score": "19",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 5:7) (3:7)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400487,
+    "url": "https://hltv.org/matches/2400487/kuusamo-vs-maybe-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "KUUSAMO",
+    "team2": "MAYBE",
+    "team1-id": 13745,
+    "team2-id": 13945,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "KUUSAMO",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 5:7) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "KUUSAMO",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "KUUSAMO",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 6:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400427,
+    "url": "https://hltv.org/matches/2400427/brandbergen-shooters-vs-talent-factory-svenska-cupen-2026-closed-qualifier",
+    "date": null,
+    "event": "Svenska Cupen 2026 Closed Qualifier",
+    "team1": "Brandbergen Shooters",
+    "team2": "Talent Factory",
+    "team1-id": 11039,
+    "team2-id": 14137,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Brandbergen Shooters",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Talent Factory",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Brandbergen Shooters",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Talent Factory",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Brandbergen Shooters",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Talent Factory",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400156,
+    "url": "https://hltv.org/matches/2400156/omega-vs-inner-circle-academy-cct-2026-europe-series-13",
+    "date": null,
+    "event": "CCT 2026 Europe Series 13",
+    "team1": "Omega",
+    "team2": "Inner Circle Academy",
+    "team1-id": 11459,
+    "team2-id": 13681,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Omega",
+          "score": "13",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Inner Circle Academy",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 8:4) (1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Omega",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Inner Circle Academy",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Omega",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Inner Circle Academy",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:7)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400250,
+    "url": "https://hltv.org/matches/2400250/azuolas-vs-lfo-10-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "Azuolas",
+    "team2": "LFO 10",
+    "team1-id": 13991,
+    "team2-id": 14084,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Azuolas",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400249,
+    "url": "https://hltv.org/matches/2400249/mint-vs-masonic-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "MINT",
+    "team2": "MASONIC",
+    "team1-id": null,
+    "team2-id": 10867,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "MINT",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400111,
+    "url": "https://hltv.org/matches/2400111/alka-vs-low-cortisol-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "ALKA",
+    "team2": "Low Cortisol",
+    "team1-id": 13756,
+    "team2-id": 14051,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "ALKA",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Low Cortisol",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "ALKA",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Low Cortisol",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "ALKA",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Low Cortisol",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400248,
+    "url": "https://hltv.org/matches/2400248/ex-rustec-vs-nexus-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "ex-RUSTEC",
+    "team2": "Nexus",
+    "team1-id": 13901,
+    "team2-id": 6239,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "ex-RUSTEC",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Nexus",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 4:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "ex-RUSTEC",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Nexus",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 3:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "ex-RUSTEC",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Nexus",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400486,
+    "url": "https://hltv.org/matches/2400486/noir-verse-vs-6yubojlbl-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "Noir Verse",
+    "team2": "6yuBoJlbl",
+    "team1-id": 13877,
+    "team2-id": 14079,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Noir Verse",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "6yuBoJlbl",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Noir Verse",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "6yuBoJlbl",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Noir Verse",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "6yuBoJlbl",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400488,
+    "url": "https://hltv.org/matches/2400488/lavked-vs-alliance-esl-challenger-league-season-52-europe-cup-12",
+    "date": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 12",
+    "team1": "Lavked",
+    "team2": "Alliance",
+    "team1-id": 12609,
+    "team2-id": 12474,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Lavked",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Alliance",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Lavked",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Alliance",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 0:6)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Lavked",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Alliance",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400426,
+    "url": "https://hltv.org/matches/2400426/lilmix-vs-converge-svenska-cupen-2026-closed-qualifier",
+    "date": null,
+    "event": "Svenska Cupen 2026 Closed Qualifier",
+    "team1": "Lilmix",
+    "team2": "Converge",
+    "team1-id": 9735,
+    "team2-id": 14138,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Lilmix",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Converge",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(2:10; 10:2) (4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Lilmix",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Converge",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Lilmix",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Converge",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2400205,
     "url": "https://hltv.org/matches/2400205/g2-vs-falcons-blast-rivals-2026-season-2",
     "date": null,

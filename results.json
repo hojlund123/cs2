@@ -1,5 +1,315 @@
 [
   {
+    "match-id": 2400533,
+    "url": "https://hltv.org/matches/2400533/lag-vs-arnies-acolytes-austin-lan-2026",
+    "date": null,
+    "event": "Austin LAN 2026",
+    "team1": "LAG",
+    "team2": "Arnie's Acolytes",
+    "team1-id": 11955,
+    "team2-id": 14149,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "LAG",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Arnie's Acolytes",
+          "score": "12",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 4:8) (4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "LAG",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Arnie's Acolytes",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "LAG",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Arnie's Acolytes",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400531,
+    "url": "https://hltv.org/matches/2400531/voca-vs-nutorious-austin-lan-2026",
+    "date": null,
+    "event": "Austin LAN 2026",
+    "team1": "Voca",
+    "team2": "NuTorious",
+    "team1-id": 13499,
+    "team2-id": 12973,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Voca",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NuTorious",
+          "score": "12",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 6:6) (4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Voca",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NuTorious",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Voca",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NuTorious",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400532,
+    "url": "https://hltv.org/matches/2400532/iowa-stormboar-vs-its-a-secret-austin-lan-2026",
+    "date": null,
+    "event": "Austin LAN 2026",
+    "team1": "Iowa Stormboar",
+    "team2": "It's a Secret",
+    "team1-id": 13857,
+    "team2-id": 13819,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Iowa Stormboar",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "It's a Secret",
+          "score": "1",
+          "status": "lost"
+        },
+        "half_scores": "(11:1; 2:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Iowa Stormboar",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "It's a Secret",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 7:5) (4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Iowa Stormboar",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "It's a Secret",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400534,
+    "url": "https://hltv.org/matches/2400534/detonate-vs-celestial-austin-lan-2026",
+    "date": null,
+    "event": "Austin LAN 2026",
+    "team1": "DETONATE",
+    "team2": "Celestial",
+    "team1-id": 11336,
+    "team2-id": 13906,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "DETONATE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Celestial",
+          "score": "1",
+          "status": "lost"
+        },
+        "half_scores": "(11:1; 2:0)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "DETONATE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Celestial",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "DETONATE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Celestial",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400116,
+    "url": "https://hltv.org/matches/2400116/galorys-vs-low-cortisol-cct-2026-south-america-series-8",
+    "date": null,
+    "event": "CCT 2026 South America Series 8",
+    "team1": "Galorys",
+    "team2": "Low Cortisol",
+    "team1-id": 12677,
+    "team2-id": 14051,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Galorys",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Low Cortisol",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Galorys",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Low Cortisol",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Galorys",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Low Cortisol",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2400207,
     "url": "https://hltv.org/matches/2400207/furia-vs-falcons-blast-rivals-2026-season-2",
     "date": null,

@@ -1,5 +1,997 @@
 [
   {
+    "match-id": 2400525,
+    "url": "https://hltv.org/matches/2400525/bbl-vs-envy-tipsport-rush-brno-2026",
+    "date": null,
+    "event": "Tipsport RUSH Brno 2026",
+    "team1": "BBL",
+    "team2": "Envy",
+    "team1-id": 13996,
+    "team2-id": 5991,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "BBL",
+          "score": "18",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Envy",
+          "score": "22",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 7:5) (6:10)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "BBL",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Envy",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "BBL",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Envy",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400443,
+    "url": "https://hltv.org/matches/2400443/ninjas-in-pyjamas-vs-luminosity-stake-ranked-episode-6",
+    "date": null,
+    "event": "Stake Ranked Episode 6",
+    "team1": "Ninjas in Pyjamas",
+    "team2": "Luminosity",
+    "team1-id": 4411,
+    "team2-id": 6021,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Ninjas in Pyjamas",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Luminosity",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 3:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Ninjas in Pyjamas",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Luminosity",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 4:6)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Ninjas in Pyjamas",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Luminosity",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400265,
+    "url": "https://hltv.org/matches/2400265/leo-vs-walczaki-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "Leo",
+    "team2": "Walczaki",
+    "team1-id": 11446,
+    "team2-id": 13808,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Leo",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Walczaki",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 3:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Leo",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Walczaki",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:0)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Leo",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Walczaki",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400359,
+    "url": "https://hltv.org/matches/2400359/forze-reload-vs-ex-inox-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "FORZE Reload",
+    "team2": "ex-INOX",
+    "team1-id": 12857,
+    "team2-id": 14116,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ex-INOX",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ex-INOX",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 6:6) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ex-INOX",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400524,
+    "url": "https://hltv.org/matches/2400524/sinners-vs-alliance-tipsport-rush-brno-2026",
+    "date": null,
+    "event": "Tipsport RUSH Brno 2026",
+    "team1": "SINNERS",
+    "team2": "Alliance",
+    "team1-id": 10577,
+    "team2-id": 12474,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "SINNERS",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Alliance",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 4:8)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "SINNERS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Alliance",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "SINNERS",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Alliance",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 2:7)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400442,
+    "url": "https://hltv.org/matches/2400442/inner-circle-vs-sangal-stake-ranked-episode-6",
+    "date": null,
+    "event": "Stake Ranked Episode 6",
+    "team1": "Inner Circle",
+    "team2": "Sangal",
+    "team1-id": 13117,
+    "team2-id": 10333,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Inner Circle",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Sangal",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Inner Circle",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Sangal",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 1:9)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Inner Circle",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Sangal",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400264,
+    "url": "https://hltv.org/matches/2400264/baks-vs-the-last-resort-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "BAKS",
+    "team2": "The Last Resort",
+    "team1-id": 11699,
+    "team2-id": 6089,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "The Last Resort",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "The Last Resort",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(11:1; 2:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "BAKS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "The Last Resort",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400441,
+    "url": "https://hltv.org/matches/2400441/unity-vs-gamerlegion-stake-ranked-episode-6",
+    "date": null,
+    "event": "Stake Ranked Episode 6",
+    "team1": "UNiTY",
+    "team2": "GamerLegion",
+    "team1-id": 12267,
+    "team2-id": 9928,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "UNiTY",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "GamerLegion",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "UNiTY",
+          "score": "1",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "GamerLegion",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 0:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "UNiTY",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "GamerLegion",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 1:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400523,
+    "url": "https://hltv.org/matches/2400523/phantom-vs-metizport-tipsport-rush-brno-2026",
+    "date": null,
+    "event": "Tipsport RUSH Brno 2026",
+    "team1": "Phantom",
+    "team2": "Metizport",
+    "team1-id": 13173,
+    "team2-id": 11641,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Phantom",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Metizport",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:1)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Phantom",
+          "score": "13",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Metizport",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 8:4) (1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Phantom",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Metizport",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 5:7)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400404,
+    "url": "https://hltv.org/matches/2400404/forze-reload-vs-g2-ares-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "FORZE Reload",
+    "team2": "G2 Ares",
+    "team1-id": 12857,
+    "team2-id": 12889,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400358,
+    "url": "https://hltv.org/matches/2400358/33-vs-spirit-academy-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "33",
+    "team2": "Spirit Academy",
+    "team1-id": 13297,
+    "team2-id": 7900,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "33",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:3)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "33",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "33",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400263,
+    "url": "https://hltv.org/matches/2400263/ex-rustec-vs-mouz-nxt-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "ex-RUSTEC",
+    "team2": "MOUZ NXT",
+    "team1-id": 13901,
+    "team2-id": 11176,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "ex-RUSTEC",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "ex-RUSTEC",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "ex-RUSTEC",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400440,
+    "url": "https://hltv.org/matches/2400440/betclic-vs-big-stake-ranked-episode-6",
+    "date": null,
+    "event": "Stake Ranked Episode 6",
+    "team1": "Betclic",
+    "team2": "BIG",
+    "team1-id": 12916,
+    "team2-id": 7532,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Betclic",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BIG",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 2:8)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Betclic",
+          "score": "23",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BIG",
+          "score": "25",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 5:7) (11:13)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Betclic",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BIG",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400403,
+    "url": "https://hltv.org/matches/2400403/balkan-outlaws-vs-pcific-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "Balkan Outlaws",
+    "team2": "PCIFIC",
+    "team1-id": 14130,
+    "team2-id": 13054,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PCIFIC",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 2:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PCIFIC",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PCIFIC",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400522,
+    "url": "https://hltv.org/matches/2400522/nexus-vs-iberian-soul-tipsport-rush-brno-2026",
+    "date": null,
+    "event": "Tipsport RUSH Brno 2026",
+    "team1": "Nexus",
+    "team2": "Iberian Soul",
+    "team1-id": 6239,
+    "team2-id": 13104,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Nexus",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Iberian Soul",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Nexus",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Iberian Soul",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Nexus",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Iberian Soul",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400357,
+    "url": "https://hltv.org/matches/2400357/nt-vs-ex-rustec-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "NT",
+    "team2": "ex-RUSTEC",
+    "team1-id": 14007,
+    "team2-id": 13901,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "NT",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ex-RUSTEC",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "NT",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ex-RUSTEC",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "NT",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ex-RUSTEC",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2400521,
     "url": "https://hltv.org/matches/2400521/envy-vs-metizport-tipsport-rush-brno-2026",
     "date": null,

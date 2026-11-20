@@ -1,5 +1,533 @@
 [
   {
+    "match-id": 2400616,
+    "url": "https://hltv.org/matches/2400616/black-phoenix-vs-butterfly-gluck-yungstar-2026-wildcard-lan",
+    "date": null,
+    "event": "GLuck Yungstar 2026 Wildcard LAN",
+    "team1": "Black Phoenix",
+    "team2": "Butterfly",
+    "team1-id": 13924,
+    "team2-id": 13908,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Butterfly",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400731,
+    "url": "https://hltv.org/matches/2400731/farmville-vs-empire-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "FarmVille",
+    "team2": "EMPIRE",
+    "team1-id": 13665,
+    "team2-id": 13729,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FarmVille",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "EMPIRE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FarmVille",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "EMPIRE",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FarmVille",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "EMPIRE",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400732,
+    "url": "https://hltv.org/matches/2400732/marsborne-vs-northforge-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "Marsborne",
+    "team2": "NorthForge",
+    "team1-id": 13124,
+    "team2-id": 14157,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Marsborne",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NorthForge",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:3)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Marsborne",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NorthForge",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 8:4) (4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Marsborne",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NorthForge",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400735,
+    "url": "https://hltv.org/matches/2400735/iowa-stormboar-vs-flyquest-red-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "Iowa Stormboar",
+    "team2": "FlyQuest RED",
+    "team1-id": 13857,
+    "team2-id": 12301,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Iowa Stormboar",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FlyQuest RED",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Iowa Stormboar",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FlyQuest RED",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Iowa Stormboar",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FlyQuest RED",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400734,
+    "url": "https://hltv.org/matches/2400734/regain-vs-milk-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "regain",
+    "team2": "Milk",
+    "team1-id": 12554,
+    "team2-id": 14155,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "regain",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Milk",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:0)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "regain",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Milk",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "regain",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Milk",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400730,
+    "url": "https://hltv.org/matches/2400730/without-a-roof-vs-kodex-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "Without a Roof",
+    "team2": "KODEX",
+    "team1-id": 6914,
+    "team2-id": 13994,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Without a Roof",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "KODEX",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Without a Roof",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "KODEX",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Without a Roof",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "KODEX",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400729,
+    "url": "https://hltv.org/matches/2400729/lag-vs-villainous-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "LAG",
+    "team2": "Villainous",
+    "team1-id": 11955,
+    "team2-id": 11795,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "LAG",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Villainous",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 3:7)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "LAG",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Villainous",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "LAG",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Villainous",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400447,
+    "url": "https://hltv.org/matches/2400447/gamerlegion-vs-big-stake-ranked-episode-6",
+    "date": null,
+    "event": "Stake Ranked Episode 6",
+    "team1": "GamerLegion",
+    "team2": "BIG",
+    "team1-id": 9928,
+    "team2-id": 7532,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "GamerLegion",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BIG",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "GamerLegion",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BIG",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "GamerLegion",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BIG",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 4:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400269,
+    "url": "https://hltv.org/matches/2400269/aimclub-vs-nexus-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "aimclub",
+    "team2": "Nexus",
+    "team1-id": 6810,
+    "team2-id": 6239,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "aimclub",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Nexus",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "aimclub",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Nexus",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 6:4)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "aimclub",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Nexus",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2400632,
     "url": "https://hltv.org/matches/2400632/drama-vs-megoshort-cct-2026-europe-series-15-closed-qualifier",
     "date": null,

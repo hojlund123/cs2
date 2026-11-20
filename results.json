@@ -1,5 +1,1121 @@
 [
   {
+    "match-id": 2400622,
+    "url": "https://hltv.org/matches/2400622/just-players-vs-baks-gluck-yungstar-2026-wildcard-lan",
+    "date": null,
+    "event": "GLuck Yungstar 2026 Wildcard LAN",
+    "team1": "Just Players",
+    "team2": "BAKS",
+    "team1-id": 13776,
+    "team2-id": 11699,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Just Players",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Just Players",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 2:7)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Just Players",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400551,
+    "url": "https://hltv.org/matches/2400551/state-vs-masonic-power-ligaen-season-33-finals",
+    "date": null,
+    "event": "POWER Ligaen Season 33 Finals",
+    "team1": "STATE",
+    "team2": "MASONIC",
+    "team1-id": 13623,
+    "team2-id": 10867,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "STATE",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 1:6)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "STATE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:7)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "STATE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400621,
+    "url": "https://hltv.org/matches/2400621/luntiki-vs-forze-reload-gluck-yungstar-2026-wildcard-lan",
+    "date": null,
+    "event": "GLuck Yungstar 2026 Wildcard LAN",
+    "team1": "LUNTIKI",
+    "team2": "FORZE Reload",
+    "team1-id": 14142,
+    "team2-id": 12857,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "LUNTIKI",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:1)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "LUNTIKI",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "LUNTIKI",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400526,
+    "url": "https://hltv.org/matches/2400526/nexus-vs-envy-tipsport-rush-brno-2026",
+    "date": null,
+    "event": "Tipsport RUSH Brno 2026",
+    "team1": "Nexus",
+    "team2": "Envy",
+    "team1-id": 6239,
+    "team2-id": 5991,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Nexus",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Envy",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Nexus",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Envy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Nexus",
+          "score": "3",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Envy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 0:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400272,
+    "url": "https://hltv.org/matches/2400272/rune-eaters-vs-butterfly-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "Rune Eaters",
+    "team2": "Butterfly",
+    "team1-id": 12194,
+    "team2-id": 13908,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Rune Eaters",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Butterfly",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Rune Eaters",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Rune Eaters",
+          "score": "13",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Butterfly",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(9:3; 3:9) (1:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400362,
+    "url": "https://hltv.org/matches/2400362/fokus-vs-black-phoenix-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "FOKUS",
+    "team2": "Black Phoenix",
+    "team1-id": 13679,
+    "team2-id": 13924,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FOKUS",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 2:8)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FOKUS",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 5:7) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FOKUS",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 4:8)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400546,
+    "url": "https://hltv.org/matches/2400546/fuzos-vs-famalico-master-league-portugal-season-19",
+    "date": null,
+    "event": "Master League Portugal Season 19",
+    "team1": "Fuzos",
+    "team2": "Famalicão",
+    "team1-id": 13689,
+    "team2-id": 13364,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Fuzos",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Famalicão",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 2:5)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Fuzos",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Famalicão",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 0:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Fuzos",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Famalicão",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400620,
+    "url": "https://hltv.org/matches/2400620/forze-reload-vs-baks-gluck-yungstar-2026-wildcard-lan",
+    "date": null,
+    "event": "GLuck Yungstar 2026 Wildcard LAN",
+    "team1": "FORZE Reload",
+    "team2": "BAKS",
+    "team1-id": 12857,
+    "team2-id": 11699,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400635,
+    "url": "https://hltv.org/matches/2400635/kuusamo-vs-lfo-10-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "KUUSAMO",
+    "team2": "LFO 10",
+    "team1-id": 13745,
+    "team2-id": 14084,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "KUUSAMO",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 0:7)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "KUUSAMO",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "KUUSAMO",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400448,
+    "url": "https://hltv.org/matches/2400448/luminosity-vs-big-stake-ranked-episode-6",
+    "date": null,
+    "event": "Stake Ranked Episode 6",
+    "team1": "Luminosity",
+    "team2": "BIG",
+    "team1-id": 6021,
+    "team2-id": 7532,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Luminosity",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BIG",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Luminosity",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BIG",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Luminosity",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BIG",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400619,
+    "url": "https://hltv.org/matches/2400619/luntiki-vs-just-players-gluck-yungstar-2026-wildcard-lan",
+    "date": null,
+    "event": "GLuck Yungstar 2026 Wildcard LAN",
+    "team1": "LUNTIKI",
+    "team2": "Just Players",
+    "team1-id": 14142,
+    "team2-id": 13776,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "LUNTIKI",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Just Players",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "LUNTIKI",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Just Players",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:6)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "LUNTIKI",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Just Players",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400408,
+    "url": "https://hltv.org/matches/2400408/ex-inox-vs-wbt-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "ex-INOX",
+    "team2": "WBT",
+    "team1-id": 14116,
+    "team2-id": 13683,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "ex-INOX",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "WBT",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "ex-INOX",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "WBT",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 3:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "ex-INOX",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "WBT",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 2:8)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400361,
+    "url": "https://hltv.org/matches/2400361/iberian-soul-vs-butterfly-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "Iberian Soul",
+    "team2": "Butterfly",
+    "team1-id": 13104,
+    "team2-id": 13908,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Iberian Soul",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Butterfly",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:2)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Iberian Soul",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Iberian Soul",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Butterfly",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400617,
+    "url": "https://hltv.org/matches/2400617/black-phoenix-vs-enjoy-gluck-yungstar-2026-wildcard-lan",
+    "date": null,
+    "event": "GLuck Yungstar 2026 Wildcard LAN",
+    "team1": "Black Phoenix",
+    "team2": "Enjoy",
+    "team1-id": 13924,
+    "team2-id": 4246,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Enjoy",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Enjoy",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:0)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Enjoy",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400271,
+    "url": "https://hltv.org/matches/2400271/lazer-cats-vs-hype-tech-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "Lazer Cats",
+    "team2": "Hype Tech",
+    "team1-id": 12087,
+    "team2-id": 14147,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Lazer Cats",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Hype Tech",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 1:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Lazer Cats",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Hype Tech",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 1:7)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Lazer Cats",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Hype Tech",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400545,
+    "url": "https://hltv.org/matches/2400545/sega-dll-vs-abt-master-league-portugal-season-19",
+    "date": null,
+    "event": "Master League Portugal Season 19",
+    "team1": "SEGA DLL",
+    "team2": "ABT",
+    "team1-id": 13307,
+    "team2-id": 12693,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "SEGA DLL",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ABT",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 2:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "SEGA DLL",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ABT",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 3:6)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "SEGA DLL",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ABT",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400634,
+    "url": "https://hltv.org/matches/2400634/g2-ares-vs-megoshort-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "G2 Ares",
+    "team2": "megoshort",
+    "team1-id": 12889,
+    "team2-id": 11018,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "G2 Ares",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "megoshort",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400618,
+    "url": "https://hltv.org/matches/2400618/butterfly-vs-private-gluck-yungstar-2026-wildcard-lan",
+    "date": null,
+    "event": "GLuck Yungstar 2026 Wildcard LAN",
+    "team1": "Butterfly",
+    "team2": "PRIVATE",
+    "team1-id": 13908,
+    "team2-id": 14030,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Butterfly",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PRIVATE",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400615,
+    "url": "https://hltv.org/matches/2400615/private-vs-enjoy-gluck-yungstar-2026-wildcard-lan",
+    "date": null,
+    "event": "GLuck Yungstar 2026 Wildcard LAN",
+    "team1": "PRIVATE",
+    "team2": "Enjoy",
+    "team1-id": 14030,
+    "team2-id": 4246,
+    "team1score": 1,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400360,
+    "url": "https://hltv.org/matches/2400360/nemesis-vs-33-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "Nemesis",
+    "team2": "33",
+    "team1-id": 8634,
+    "team2-id": 13297,
+    "team1score": 0,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400270,
+    "url": "https://hltv.org/matches/2400270/nt-vs-baks-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "NT",
+    "team2": "BAKS",
+    "team1-id": 14007,
+    "team2-id": 11699,
+    "team1score": 0,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400407,
+    "url": "https://hltv.org/matches/2400407/balkan-outlaws-vs-forze-reload-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "Balkan Outlaws",
+    "team2": "FORZE Reload",
+    "team1-id": 14130,
+    "team2-id": 12857,
+    "team1score": 0,
+    "team2score": 2
+  },
+  {
+    "match-id": 2400633,
+    "url": "https://hltv.org/matches/2400633/walczaki-vs-noir-verse-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "Walczaki",
+    "team2": "Noir Verse",
+    "team1-id": 13808,
+    "team2-id": 13877,
+    "team1score": 0,
+    "team2score": 1
+  },
+  {
     "match-id": 2400616,
     "url": "https://hltv.org/matches/2400616/black-phoenix-vs-butterfly-gluck-yungstar-2026-wildcard-lan",
     "date": null,

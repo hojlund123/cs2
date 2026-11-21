@@ -1,5 +1,563 @@
 [
   {
+    "match-id": 2400733,
+    "url": "https://hltv.org/matches/2400733/swole-patrol-vs-feistein-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "Swole Patrol",
+    "team2": "Feistein",
+    "team1-id": 7726,
+    "team2-id": 14134,
+    "team1score": 1,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Swole Patrol",
+          "score": "1",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Feistein",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400624,
+    "url": "https://hltv.org/matches/2400624/enjoy-vs-baks-gluck-yungstar-2026-wildcard-lan",
+    "date": null,
+    "event": "GLuck Yungstar 2026 Wildcard LAN",
+    "team1": "Enjoy",
+    "team2": "BAKS",
+    "team1-id": 4246,
+    "team2-id": 11699,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Enjoy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Enjoy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:7)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Enjoy",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400623,
+    "url": "https://hltv.org/matches/2400623/private-vs-forze-reload-gluck-yungstar-2026-wildcard-lan",
+    "date": null,
+    "event": "GLuck Yungstar 2026 Wildcard LAN",
+    "team1": "PRIVATE",
+    "team2": "FORZE Reload",
+    "team1-id": 14030,
+    "team2-id": 12857,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "PRIVATE",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "PRIVATE",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 3:6)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "PRIVATE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400527,
+    "url": "https://hltv.org/matches/2400527/sinners-vs-metizport-tipsport-rush-brno-2026",
+    "date": null,
+    "event": "Tipsport RUSH Brno 2026",
+    "team1": "SINNERS",
+    "team2": "Metizport",
+    "team1-id": 10577,
+    "team2-id": 11641,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "SINNERS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Metizport",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "SINNERS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Metizport",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "SINNERS",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Metizport",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400552,
+    "url": "https://hltv.org/matches/2400552/xi-vs-eac-power-ligaen-season-33-finals",
+    "date": null,
+    "event": "POWER Ligaen Season 33 Finals",
+    "team1": "XI",
+    "team2": "EAC",
+    "team1-id": 8947,
+    "team2-id": 13838,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "XI",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "EAC",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:0)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "XI",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "EAC",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "XI",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "EAC",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400363,
+    "url": "https://hltv.org/matches/2400363/wbt-vs-phantom-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "WBT",
+    "team2": "Phantom",
+    "team1-id": 13683,
+    "team2-id": 13173,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "WBT",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 2:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "WBT",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "WBT",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400273,
+    "url": "https://hltv.org/matches/2400273/genone-vs-leo-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "GenOne",
+    "team2": "Leo",
+    "team1-id": 11609,
+    "team2-id": 11446,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "GenOne",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Leo",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 3:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "GenOne",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Leo",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "GenOne",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Leo",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400636,
+    "url": "https://hltv.org/matches/2400636/maybe-vs-drama-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "MAYBE",
+    "team2": "Drama",
+    "team1-id": 13945,
+    "team2-id": 13704,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "MAYBE",
+          "score": "22",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "19",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 6:6) (10:7)",
+        "status": "played"
+      },
+      {
+        "map": "Default",
+        "team1": {
+          "name": "MAYBE",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      },
+      {
+        "map": "Default",
+        "team1": {
+          "name": "MAYBE",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400449,
+    "url": "https://hltv.org/matches/2400449/sangal-vs-luminosity-stake-ranked-episode-6",
+    "date": null,
+    "event": "Stake Ranked Episode 6",
+    "team1": "Sangal",
+    "team2": "Luminosity",
+    "team1-id": 10333,
+    "team2-id": 6021,
+    "team1score": 1,
+    "team2score": 3,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Sangal",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Luminosity",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 6:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Sangal",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Luminosity",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 3:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Sangal",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Luminosity",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Sangal",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Luminosity",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 2:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Sangal",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Luminosity",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2400622,
     "url": "https://hltv.org/matches/2400622/just-players-vs-baks-gluck-yungstar-2026-wildcard-lan",
     "date": null,
@@ -1065,7 +1623,57 @@
     "team1-id": 14030,
     "team2-id": 4246,
     "team1score": 1,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "PRIVATE",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Enjoy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "PRIVATE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Enjoy",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "PRIVATE",
+          "score": "13",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Enjoy",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 8:4) (1:4)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400360,
@@ -1077,7 +1685,57 @@
     "team1-id": 8634,
     "team2-id": 13297,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Nemesis",
+          "score": "3",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "33",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 0:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Nemesis",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "33",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 3:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Nemesis",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "33",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400270,
@@ -1089,7 +1747,57 @@
     "team1-id": 14007,
     "team2-id": 11699,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "NT",
+          "score": "2",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 0:3)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "NT",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 5:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "NT",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "BAKS",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400407,
@@ -1101,7 +1809,57 @@
     "team1-id": 14130,
     "team2-id": 12857,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "3",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 0:4)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "3",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 1:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400633,
@@ -1113,7 +1871,27 @@
     "team1-id": 13808,
     "team2-id": 13877,
     "team1score": 0,
-    "team2score": 1
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Walczaki",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400616,

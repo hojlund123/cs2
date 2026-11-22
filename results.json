@@ -1,5 +1,1059 @@
 [
   {
+    "match-id": 2400549,
+    "url": "https://hltv.org/matches/2400549/rbls-vs-famalico-master-league-portugal-season-19",
+    "date": null,
+    "event": "Master League Portugal Season 19",
+    "team1": "RBLS",
+    "team2": "Famalicão",
+    "team1-id": 12642,
+    "team2-id": 13364,
+    "team1score": 2,
+    "team2score": 3,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "RBLS",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Famalicão",
+          "score": "12",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 6:6) (4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "RBLS",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Famalicão",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 4:8)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "RBLS",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Famalicão",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "RBLS",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Famalicão",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 2:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "RBLS",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Famalicão",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 3:9)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400530,
+    "url": "https://hltv.org/matches/2400530/envy-vs-sinners-tipsport-rush-brno-2026",
+    "date": null,
+    "event": "Tipsport RUSH Brno 2026",
+    "team1": "Envy",
+    "team2": "SINNERS",
+    "team1-id": 5991,
+    "team2-id": 10577,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Envy",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "SINNERS",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Envy",
+          "score": "2",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "SINNERS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 0:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Envy",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "SINNERS",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 8:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400280,
+    "url": "https://hltv.org/matches/2400280/butterfly-vs-black-phoenix-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "Butterfly",
+    "team2": "Black Phoenix",
+    "team1-id": 13908,
+    "team2-id": 13924,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Butterfly",
+          "score": "1",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 0:2)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Butterfly",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 3:9)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Butterfly",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400371,
+    "url": "https://hltv.org/matches/2400371/black-phoenix-vs-iberian-soul-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "Black Phoenix",
+    "team2": "Iberian Soul",
+    "team1-id": 13924,
+    "team2-id": 13104,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Iberian Soul",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400744,
+    "url": "https://hltv.org/matches/2400744/ic-prospect-vs-b8-academy-uesf-championship-of-ukraine-2026-stage-5-finals",
+    "date": null,
+    "event": "UESF Championship of Ukraine 2026 Stage 5 Finals",
+    "team1": "IC Prospect",
+    "team2": "B8 Academy",
+    "team1-id": 14152,
+    "team2-id": 13732,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "IC Prospect",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "B8 Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 3:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "IC Prospect",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "B8 Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 2:7)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "IC Prospect",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "B8 Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400370,
+    "url": "https://hltv.org/matches/2400370/betclic-vs-nuclear-tigeres-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "Betclic",
+    "team2": "Nuclear TigeRES",
+    "team1-id": 12916,
+    "team2-id": 13027,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Betclic",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Nuclear TigeRES",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 3:9) (4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Betclic",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Nuclear TigeRES",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(3:9; 10:2)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Betclic",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Nuclear TigeRES",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400279,
+    "url": "https://hltv.org/matches/2400279/forze-reload-vs-black-phoenix-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "FORZE Reload",
+    "team2": "Black Phoenix",
+    "team1-id": 12857,
+    "team2-id": 13924,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:6)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 2:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Black Phoenix",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 0:8)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400743,
+    "url": "https://hltv.org/matches/2400743/never-vs-b8-academy-uesf-championship-of-ukraine-2026-stage-5-finals",
+    "date": null,
+    "event": "UESF Championship of Ukraine 2026 Stage 5 Finals",
+    "team1": "NEVER",
+    "team2": "B8 Academy",
+    "team1-id": 14153,
+    "team2-id": 13732,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "NEVER",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "B8 Academy",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Default",
+        "team1": {
+          "name": "NEVER",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "B8 Academy",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      },
+      {
+        "map": "Default",
+        "team1": {
+          "name": "NEVER",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "B8 Academy",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400643,
+    "url": "https://hltv.org/matches/2400643/phantom-academy-vs-lilmix-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "Phantom Academy",
+    "team2": "Lilmix",
+    "team1-id": 13766,
+    "team2-id": 9735,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Phantom Academy",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lilmix",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Phantom Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lilmix",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Phantom Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lilmix",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400544,
+    "url": "https://hltv.org/matches/2400544/monkeys-vs-unity-tipsport-mr-2026-finals",
+    "date": null,
+    "event": "Tipsport MČR 2026 Finals",
+    "team1": "Monkeys",
+    "team2": "UNiTY",
+    "team1-id": 14150,
+    "team2-id": 12267,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Monkeys",
+          "score": "1",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "UNiTY",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 0:2)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Monkeys",
+          "score": "20",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "UNiTY",
+          "score": "22",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 8:4) (8:10)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Monkeys",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "UNiTY",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400369,
+    "url": "https://hltv.org/matches/2400369/virtuspro-vs-infinite-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "Virtus.pro",
+    "team2": "INFINITE",
+    "team1-id": 4555,
+    "team2-id": 10823,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Virtus.pro",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "INFINITE",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Virtus.pro",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "INFINITE",
+          "score": "17",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 7:5) (7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Virtus.pro",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "INFINITE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400278,
+    "url": "https://hltv.org/matches/2400278/butterfly-vs-ex-rustec-cct-2026-europe-series-14",
+    "date": null,
+    "event": "CCT 2026 Europe Series 14",
+    "team1": "Butterfly",
+    "team2": "ex-RUSTEC",
+    "team1-id": 13908,
+    "team2-id": 13901,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ex-RUSTEC",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ex-RUSTEC",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Butterfly",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ex-RUSTEC",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400742,
+    "url": "https://hltv.org/matches/2400742/ic-prospect-vs-top-g-uesf-championship-of-ukraine-2026-stage-5-finals",
+    "date": null,
+    "event": "UESF Championship of Ukraine 2026 Stage 5 Finals",
+    "team1": "IC Prospect",
+    "team2": "TOP G",
+    "team1-id": 14152,
+    "team2-id": 14154,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "IC Prospect",
+          "score": "25",
+          "status": "won"
+        },
+        "team2": {
+          "name": "TOP G",
+          "score": "22",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 8:4) (13:10)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "IC Prospect",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "TOP G",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 4:7)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "IC Prospect",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "TOP G",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:1)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400410,
+    "url": "https://hltv.org/matches/2400410/forze-reload-vs-wbt-european-pro-league-series-10",
+    "date": null,
+    "event": "European Pro League Series 10",
+    "team1": "FORZE Reload",
+    "team2": "WBT",
+    "team1-id": 12857,
+    "team2-id": 13683,
+    "team1score": 3,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "WBT",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 4:8) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "WBT",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:3)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "WBT",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "WBT",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "FORZE Reload",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "WBT",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400368,
+    "url": "https://hltv.org/matches/2400368/33-vs-phantom-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "33",
+    "team2": "Phantom",
+    "team1-id": 13297,
+    "team2-id": 13173,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "33",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Phantom",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:3)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "33",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 3:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "33",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 3:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400642,
+    "url": "https://hltv.org/matches/2400642/banda-chuya-vs-infurity-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "Banda Chuya",
+    "team2": "INFURITY",
+    "team1-id": 13900,
+    "team2-id": 8488,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Banda Chuya",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "INFURITY",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Banda Chuya",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "INFURITY",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Banda Chuya",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "INFURITY",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400641,
+    "url": "https://hltv.org/matches/2400641/azuolas-vs-illyrians-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "Azuolas",
+    "team2": "Illyrians",
+    "team1-id": 13991,
+    "team2-id": 11719,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Azuolas",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Illyrians",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2400736,
     "url": "https://hltv.org/matches/2400736/overtake-sector-vs-detonate-crossfire-season-7",
     "date": null,
@@ -1465,7 +2519,57 @@
     "team1-id": 11446,
     "team2-id": 12857,
     "team1score": 1,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Leo",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 6:6) (4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Leo",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 1:6)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Leo",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FORZE Reload",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 3:7)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400553,
@@ -1477,7 +2581,57 @@
     "team1-id": 10867,
     "team2-id": 13838,
     "team1score": 1,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "MASONIC",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "EAC",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 2:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "MASONIC",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "EAC",
+          "score": "16",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 8:4) (7:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "MASONIC",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "EAC",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      }
+    ]
   },
   {
     "match-id": 2400364,
@@ -1489,7 +2643,57 @@
     "team1-id": 13027,
     "team2-id": 14147,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Nuclear TigeRES",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Hype Tech",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:3)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Nuclear TigeRES",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Hype Tech",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Nuclear TigeRES",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Hype Tech",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400409,

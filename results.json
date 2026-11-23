@@ -1,5 +1,843 @@
 [
   {
+    "match-id": 2400648,
+    "url": "https://hltv.org/matches/2400648/infurity-vs-lunacy-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "INFURITY",
+    "team2": "Lunacy",
+    "team1-id": 8488,
+    "team2-id": 14124,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "INFURITY",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lunacy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 6:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "INFURITY",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lunacy",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(10:2; 2:10) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "INFURITY",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lunacy",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400374,
+    "url": "https://hltv.org/matches/2400374/betclic-vs-virtuspro-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "Betclic",
+    "team2": "Virtus.pro",
+    "team1-id": 12916,
+    "team2-id": 4555,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Betclic",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Virtus.pro",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Betclic",
+          "score": "20",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Virtus.pro",
+          "score": "22",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 7:5) (8:10)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Betclic",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Virtus.pro",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400647,
+    "url": "https://hltv.org/matches/2400647/illyrians-vs-phantom-academy-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "Illyrians",
+    "team2": "Phantom Academy",
+    "team1-id": 11719,
+    "team2-id": 13766,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Illyrians",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 7:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Illyrians",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 0:5)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Illyrians",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400646,
+    "url": "https://hltv.org/matches/2400646/maybe-vs-g2-ares-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "MAYBE",
+    "team2": "G2 Ares",
+    "team1-id": 13945,
+    "team2-id": 12889,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "MAYBE",
+          "score": "12",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 5:7) (0:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:1)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "G2 Ares",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400373,
+    "url": "https://hltv.org/matches/2400373/virtuspro-vs-iberian-soul-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "Virtus.pro",
+    "team2": "Iberian Soul",
+    "team1-id": 4555,
+    "team2-id": 13104,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Virtus.pro",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Iberian Soul",
+          "score": "14",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 5:7) (4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Virtus.pro",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Iberian Soul",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Virtus.pro",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Iberian Soul",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400372,
+    "url": "https://hltv.org/matches/2400372/phantom-vs-betclic-nodwin-clutch-series-14",
+    "date": null,
+    "event": "NODWIN Clutch Series 14",
+    "team1": "Phantom",
+    "team2": "Betclic",
+    "team1-id": 13173,
+    "team2-id": 12916,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Phantom",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Betclic",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Phantom",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Betclic",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Phantom",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Betclic",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 4:7)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400645,
+    "url": "https://hltv.org/matches/2400645/kuusamo-vs-noir-verse-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "KUUSAMO",
+    "team2": "Noir Verse",
+    "team1-id": 13745,
+    "team2-id": 13877,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "KUUSAMO",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400747,
+    "url": "https://hltv.org/matches/2400747/regain-vs-iowa-stormboar-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "regain",
+    "team2": "Iowa Stormboar",
+    "team1-id": 12554,
+    "team2-id": 13857,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "regain",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Iowa Stormboar",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 6:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "regain",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Iowa Stormboar",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "regain",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Iowa Stormboar",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:8)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400755,
+    "url": "https://hltv.org/matches/2400755/detonate-vs-nxg-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "DETONATE",
+    "team2": "NXG",
+    "team1-id": 11336,
+    "team2-id": 13862,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "DETONATE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NXG",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "DETONATE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NXG",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "DETONATE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NXG",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400754,
+    "url": "https://hltv.org/matches/2400754/alka-vs-rush-cct-2026-challengers-south-america-series-4",
+    "date": null,
+    "event": "CCT 2026 Challengers South America Series 4",
+    "team1": "ALKA",
+    "team2": "RUSH",
+    "team1-id": 13756,
+    "team2-id": 13907,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "ALKA",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:2)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "ALKA",
+          "score": "2",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 0:3)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "ALKA",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 1:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400748,
+    "url": "https://hltv.org/matches/2400748/flyquest-red-vs-axial-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "FlyQuest RED",
+    "team2": "Axial",
+    "team1-id": 12301,
+    "team2-id": 14003,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "FlyQuest RED",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Axial",
+          "score": "2",
+          "status": "lost"
+        },
+        "half_scores": "(11:1; 2:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FlyQuest RED",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Axial",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:4)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "FlyQuest RED",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Axial",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400753,
+    "url": "https://hltv.org/matches/2400753/meia-noite-vs-rush-cct-2026-challengers-south-america-series-4",
+    "date": null,
+    "event": "CCT 2026 Challengers South America Series 4",
+    "team1": "MEIA NOITE",
+    "team2": "RUSH",
+    "team1-id": 13938,
+    "team2-id": 13907,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "MEIA NOITE",
+          "score": "19",
+          "status": "won"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "15",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 3:9) (7:3)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "MEIA NOITE",
+          "score": "1",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 0:2)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "MEIA NOITE",
+          "score": "2",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "RUSH",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 0:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400749,
+    "url": "https://hltv.org/matches/2400749/lag-vs-swole-patrol-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "LAG",
+    "team2": "Swole Patrol",
+    "team1-id": 11955,
+    "team2-id": 7726,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "LAG",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Swole Patrol",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 0:6)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "LAG",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Swole Patrol",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "LAG",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Swole Patrol",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400644,
+    "url": "https://hltv.org/matches/2400644/lunacy-vs-mouz-nxt-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "Lunacy",
+    "team2": "MOUZ NXT",
+    "team1-id": 14124,
+    "team2-id": 11176,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Lunacy",
+          "score": "15",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "19",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 5:7) (3:7)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Lunacy",
+          "score": "1",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 0:2)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Lunacy",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MOUZ NXT",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2400549,
     "url": "https://hltv.org/matches/2400549/rbls-vs-famalico-master-league-portugal-season-19",
     "date": null,
@@ -2705,7 +3543,57 @@
     "team1-id": 14130,
     "team2-id": 14116,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ex-INOX",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 3:7)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ex-INOX",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 0:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Balkan Outlaws",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ex-INOX",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400625,
@@ -2717,7 +3605,57 @@
     "team1-id": 13924,
     "team2-id": 14142,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LUNTIKI",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LUNTIKI",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 2:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Black Phoenix",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LUNTIKI",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400637,

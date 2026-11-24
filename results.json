@@ -1,5 +1,721 @@
 [
   {
+    "match-id": 2400557,
+    "url": "https://hltv.org/matches/2400557/ninjas-in-pyjamas-vs-lynn-vision-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "Ninjas in Pyjamas",
+    "team2": "Lynn Vision",
+    "team1-id": 4411,
+    "team2-id": 8840,
+    "team1score": 13,
+    "team2score": 10,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Ninjas in Pyjamas",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Lynn Vision",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400558,
+    "url": "https://hltv.org/matches/2400558/heroic-vs-chinggis-warriors-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "HEROIC",
+    "team2": "Chinggis Warriors",
+    "team1-id": 7175,
+    "team2-id": 12646,
+    "team1score": 13,
+    "team2score": 3,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "HEROIC",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Chinggis Warriors",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:1)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400501,
+    "url": "https://hltv.org/matches/2400501/eternal-fire-vs-flyquest-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "Eternal Fire",
+    "team2": "FlyQuest",
+    "team1-id": 11251,
+    "team2-id": 12774,
+    "team1score": 7,
+    "team2score": 13,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Eternal Fire",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FlyQuest",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 3:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400500,
+    "url": "https://hltv.org/matches/2400500/faze-vs-wildcard-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "FaZe",
+    "team2": "Wildcard",
+    "team1-id": 6667,
+    "team2-id": 12257,
+    "team1score": 9,
+    "team2score": 13,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "FaZe",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Wildcard",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 4:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400499,
+    "url": "https://hltv.org/matches/2400499/parivision-vs-dendele-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "PARIVISION",
+    "team2": "DENDELE",
+    "team1-id": 12467,
+    "team2-id": 13926,
+    "team1score": 13,
+    "team2score": 3,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "PARIVISION",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "DENDELE",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400498,
+    "url": "https://hltv.org/matches/2400498/liquid-vs-bcgame-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "Liquid",
+    "team2": "BC.Game",
+    "team1-id": 5973,
+    "team2-id": 12878,
+    "team1score": 13,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Liquid",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BC.Game",
+          "score": "1",
+          "status": "lost"
+        },
+        "half_scores": "(11:1; 2:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400497,
+    "url": "https://hltv.org/matches/2400497/100-thieves-vs-chinggis-warriors-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "100 Thieves",
+    "team2": "Chinggis Warriors",
+    "team1-id": 8474,
+    "team2-id": 12646,
+    "team1score": 13,
+    "team2score": 6,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "100 Thieves",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Chinggis Warriors",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400496,
+    "url": "https://hltv.org/matches/2400496/ninjas-in-pyjamas-vs-m80-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "Ninjas in Pyjamas",
+    "team2": "M80",
+    "team1-id": 4411,
+    "team2-id": 12376,
+    "team1score": 13,
+    "team2score": 10,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Ninjas in Pyjamas",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "M80",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400495,
+    "url": "https://hltv.org/matches/2400495/9z-vs-lynn-vision-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "9z",
+    "team2": "Lynn Vision",
+    "team1-id": 9996,
+    "team2-id": 8840,
+    "team1score": 11,
+    "team2score": 13,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "9z",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lynn Vision",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 5:7)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400494,
+    "url": "https://hltv.org/matches/2400494/heroic-vs-imperial-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "HEROIC",
+    "team2": "Imperial",
+    "team1-id": 7175,
+    "team2-id": 11655,
+    "team1score": 6,
+    "team2score": 13,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "HEROIC",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Imperial",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 0:7)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400750,
+    "url": "https://hltv.org/matches/2400750/marsborne-vs-overtake-sector-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "Marsborne",
+    "team2": "Overtake Sector",
+    "team1-id": 13124,
+    "team2-id": 13855,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Marsborne",
+          "score": "17",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Overtake Sector",
+          "score": "19",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 5:7) (5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Marsborne",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Overtake Sector",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:1)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Marsborne",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Overtake Sector",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400797,
+    "url": "https://hltv.org/matches/2400797/feistein-vs-elusive-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "Feistein",
+    "team2": "Elusive",
+    "team1-id": 14134,
+    "team2-id": 7256,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Feistein",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Elusive",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Feistein",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Elusive",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 1:6)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Feistein",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Elusive",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 9:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400751,
+    "url": "https://hltv.org/matches/2400751/without-a-roof-vs-farmville-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "Without a Roof",
+    "team2": "FarmVille",
+    "team1-id": 6914,
+    "team2-id": 13665,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Without a Roof",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FarmVille",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:3)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Without a Roof",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "FarmVille",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Without a Roof",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FarmVille",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400752,
+    "url": "https://hltv.org/matches/2400752/villainous-vs-wanted-goons-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "Villainous",
+    "team2": "Wanted Goons",
+    "team1-id": 11795,
+    "team2-id": 12971,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Villainous",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Wanted Goons",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Villainous",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Wanted Goons",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Villainous",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Wanted Goons",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400737,
+    "url": "https://hltv.org/matches/2400737/milk-vs-celestial-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "Milk",
+    "team2": "Celestial",
+    "team1-id": 14155,
+    "team2-id": 13906,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Milk",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Celestial",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Milk",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Celestial",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Milk",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Celestial",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400738,
+    "url": "https://hltv.org/matches/2400738/kodex-vs-ninefly-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "KODEX",
+    "team2": "NineFly",
+    "team1-id": 13994,
+    "team2-id": 13864,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "KODEX",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NineFly",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "KODEX",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NineFly",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:6)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "KODEX",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NineFly",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400746,
+    "url": "https://hltv.org/matches/2400746/empire-vs-addice-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "EMPIRE",
+    "team2": "Addice",
+    "team1-id": 13729,
+    "team2-id": 10772,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
+    "match-id": 2400745,
+    "url": "https://hltv.org/matches/2400745/northforge-vs-nz-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "NorthForge",
+    "team2": "NZ",
+    "team1-id": 14157,
+    "team2-id": 14158,
+    "team1score": 2,
+    "team2score": 0
+  },
+  {
     "match-id": 2400648,
     "url": "https://hltv.org/matches/2400648/infurity-vs-lunacy-cct-2026-europe-series-15-closed-qualifier",
     "date": null,

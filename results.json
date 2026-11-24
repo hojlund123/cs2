@@ -1,5 +1,445 @@
 [
   {
+    "match-id": 2400564,
+    "url": "https://hltv.org/matches/2400564/faze-vs-bcgame-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "FaZe",
+    "team2": "BC.Game",
+    "team1-id": 6667,
+    "team2-id": 12878,
+    "team1score": 13,
+    "team2score": 3,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FaZe",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "BC.Game",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:1)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400563,
+    "url": "https://hltv.org/matches/2400563/liquid-vs-wildcard-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "Liquid",
+    "team2": "Wildcard",
+    "team1-id": 5973,
+    "team2-id": 12257,
+    "team1score": 13,
+    "team2score": 8,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Liquid",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Wildcard",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400561,
+    "url": "https://hltv.org/matches/2400561/parivision-vs-flyquest-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "PARIVISION",
+    "team2": "FlyQuest",
+    "team1-id": 12467,
+    "team2-id": 12774,
+    "team1score": 9,
+    "team2score": 13,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "PARIVISION",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "FlyQuest",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 5:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400562,
+    "url": "https://hltv.org/matches/2400562/eternal-fire-vs-dendele-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "Eternal Fire",
+    "team2": "DENDELE",
+    "team1-id": 11251,
+    "team2-id": 13926,
+    "team1score": 13,
+    "team2score": 8,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Eternal Fire",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "DENDELE",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400559,
+    "url": "https://hltv.org/matches/2400559/100-thieves-vs-imperial-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "100 Thieves",
+    "team2": "Imperial",
+    "team1-id": 8474,
+    "team2-id": 11655,
+    "team1score": 11,
+    "team2score": 13,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "100 Thieves",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Imperial",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 4:8)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400560,
+    "url": "https://hltv.org/matches/2400560/9z-vs-m80-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "9z",
+    "team2": "M80",
+    "team1-id": 9996,
+    "team2-id": 12376,
+    "team1score": 8,
+    "team2score": 13,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "9z",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "M80",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 5:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400652,
+    "url": "https://hltv.org/matches/2400652/mouz-nxt-vs-noir-verse-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "MOUZ NXT",
+    "team2": "Noir Verse",
+    "team1-id": 11176,
+    "team2-id": 13877,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "MOUZ NXT",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 1:8)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "MOUZ NXT",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 5:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "MOUZ NXT",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400651,
+    "url": "https://hltv.org/matches/2400651/drama-vs-phantom-academy-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "Drama",
+    "team2": "Phantom Academy",
+    "team1-id": 13704,
+    "team2-id": 13766,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Drama",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Phantom Academy",
+          "score": "4",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Drama",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom Academy",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 6:6) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Drama",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Phantom Academy",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400650,
+    "url": "https://hltv.org/matches/2400650/lfo-10-vs-lunacy-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "LFO 10",
+    "team2": "Lunacy",
+    "team1-id": 14084,
+    "team2-id": 14124,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "LFO 10",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Lunacy",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "LFO 10",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lunacy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 5:7)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "LFO 10",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lunacy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 6:4)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400649,
+    "url": "https://hltv.org/matches/2400649/lilmix-vs-maybe-cct-2026-europe-series-15-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+    "team1": "Lilmix",
+    "team2": "MAYBE",
+    "team1-id": 9735,
+    "team2-id": 13945,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Lilmix",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Lilmix",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 3:5)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Lilmix",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 5:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2400557,
     "url": "https://hltv.org/matches/2400557/ninjas-in-pyjamas-vs-lynn-vision-pgl-major-singapore-2026-stage-1",
     "date": null,
@@ -701,7 +1141,57 @@
     "team1-id": 13729,
     "team2-id": 10772,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "EMPIRE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Addice",
+          "score": "3",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:1)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "EMPIRE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Addice",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "EMPIRE",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Addice",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400745,
@@ -713,7 +1203,57 @@
     "team1-id": 14157,
     "team2-id": 14158,
     "team1score": 2,
-    "team2score": 0
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "NorthForge",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NZ",
+          "score": "0",
+          "status": "lost"
+        },
+        "half_scores": "(12:0; 1:0)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "NorthForge",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NZ",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:0)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "NorthForge",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NZ",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400648,
@@ -4383,7 +4923,57 @@
     "team1-id": 13991,
     "team2-id": 13766,
     "team1score": 0,
-    "team2score": 2
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Azuolas",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 1:5)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Azuolas",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 0:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Azuolas",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Phantom Academy",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
   },
   {
     "match-id": 2400733,

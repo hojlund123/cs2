@@ -1,5 +1,287 @@
 [
   {
+    "match-id": 2400568,
+    "url": "https://hltv.org/matches/2400568/wildcard-vs-lynn-vision-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "Wildcard",
+    "team2": "Lynn Vision",
+    "team1-id": 12257,
+    "team2-id": 8840,
+    "team1score": 8,
+    "team2score": 13,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Wildcard",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Lynn Vision",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 2:7)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400565,
+    "url": "https://hltv.org/matches/2400565/heroic-vs-m80-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "HEROIC",
+    "team2": "M80",
+    "team1-id": 7175,
+    "team2-id": 12376,
+    "team1score": 10,
+    "team2score": 13,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "HEROIC",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "M80",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 5:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400566,
+    "url": "https://hltv.org/matches/2400566/eternal-fire-vs-100-thieves-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "Eternal Fire",
+    "team2": "100 Thieves",
+    "team1-id": 11251,
+    "team2-id": 8474,
+    "team1score": 13,
+    "team2score": 6,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Eternal Fire",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "100 Thieves",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400871,
+    "url": "https://hltv.org/matches/2400871/detonate-vs-northforge-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "DETONATE",
+    "team2": "NorthForge",
+    "team1-id": 11336,
+    "team2-id": 14157,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "DETONATE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NorthForge",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "DETONATE",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "NorthForge",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 3:6)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "DETONATE",
+          "score": "16",
+          "status": "won"
+        },
+        "team2": {
+          "name": "NorthForge",
+          "score": "12",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 2:10) (4:0)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400870,
+    "url": "https://hltv.org/matches/2400870/empire-vs-kodex-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "EMPIRE",
+    "team2": "KODEX",
+    "team1-id": 13729,
+    "team2-id": 13994,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "EMPIRE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "KODEX",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:0)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "EMPIRE",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "KODEX",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 4:6)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "EMPIRE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "KODEX",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400872,
+    "url": "https://hltv.org/matches/2400872/flyquest-red-vs-milk-crossfire-season-7",
+    "date": null,
+    "event": "CROSSFIRE Season 7",
+    "team1": "FlyQuest RED",
+    "team2": "Milk",
+    "team1-id": 12301,
+    "team2-id": 14155,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "FlyQuest RED",
+          "score": "9",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Milk",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(8:4; 1:9)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "FlyQuest RED",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Milk",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(0:12; 0:1)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "FlyQuest RED",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Milk",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
     "match-id": 2400564,
     "url": "https://hltv.org/matches/2400564/faze-vs-bcgame-pgl-major-singapore-2026-stage-1",
     "date": null,

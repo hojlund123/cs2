@@ -1,5 +1,1031 @@
 [
   {
+    "match-id": 2400581,
+    "url": "https://hltv.org/matches/2400581/m80-vs-100-thieves-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "M80",
+    "team2": "100 Thieves",
+    "team1-id": 12376,
+    "team2-id": 8474,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "M80",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "100 Thieves",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 2:5)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "M80",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "100 Thieves",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "M80",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "100 Thieves",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 0:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400580,
+    "url": "https://hltv.org/matches/2400580/imperial-vs-wildcard-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "Imperial",
+    "team2": "Wildcard",
+    "team1-id": 11655,
+    "team2-id": 12257,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Imperial",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Wildcard",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(6:6; 7:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Imperial",
+          "score": "11",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Wildcard",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(1:11; 10:2)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Imperial",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Wildcard",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:3)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400579,
+    "url": "https://hltv.org/matches/2400579/lynn-vision-vs-heroic-pgl-major-singapore-2026-stage-1",
+    "date": null,
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": "Lynn Vision",
+    "team2": "HEROIC",
+    "team1-id": 8840,
+    "team2-id": 7175,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Lynn Vision",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "HEROIC",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:9)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Lynn Vision",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "HEROIC",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(10:2; 3:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Lynn Vision",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "HEROIC",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400664,
+    "url": "https://hltv.org/matches/2400664/butterfly-vs-maybe-cct-2026-europe-series-15",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15",
+    "team1": "Butterfly",
+    "team2": "MAYBE",
+    "team1-id": 13908,
+    "team2-id": 13945,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:5)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Butterfly",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:1)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Butterfly",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400874,
+    "url": "https://hltv.org/matches/2400874/prestige-vs-sinqu-elisa-open-finland-season-14",
+    "date": null,
+    "event": "Elisa Open Finland Season 14",
+    "team1": "Prestige",
+    "team2": "SINQU",
+    "team1-id": 13159,
+    "team2-id": 13571,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Prestige",
+          "score": "4",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "SINQU",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(2:10; 2:3)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Prestige",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "SINQU",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "Prestige",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "SINQU",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:1)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400663,
+    "url": "https://hltv.org/matches/2400663/nordic-partners-vs-xmeta-cct-2026-europe-series-15",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15",
+    "team1": "Nordic Partners",
+    "team2": "XMETA",
+    "team1-id": 13937,
+    "team2-id": 14103,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Nordic Partners",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "XMETA",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(11:1; 2:5)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Nordic Partners",
+          "score": "3",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "XMETA",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 0:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Nordic Partners",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "XMETA",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400885,
+    "url": "https://hltv.org/matches/2400885/rune-eaters-vs-lph-exort-fiesta-series-4",
+    "date": null,
+    "event": "Exort Fiesta Series 4",
+    "team1": "Rune Eaters",
+    "team2": "LPH",
+    "team1-id": 12194,
+    "team2-id": 13279,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Rune Eaters",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:4)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Rune Eaters",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 3:4)",
+        "status": "played"
+      },
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Rune Eaters",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LPH",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:1)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400808,
+    "url": "https://hltv.org/matches/2400808/walczaki-vs-maybe-cct-2026-europe-series-16-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 16 Closed Qualifier",
+    "team1": "Walczaki",
+    "team2": "MAYBE",
+    "team1-id": 13808,
+    "team2-id": 13945,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "Walczaki",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MAYBE",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400886,
+    "url": "https://hltv.org/matches/2400886/9ine-vs-revise-exort-fiesta-series-4",
+    "date": null,
+    "event": "Exort Fiesta Series 4",
+    "team1": "9INE",
+    "team2": "Revise",
+    "team1-id": 10278,
+    "team2-id": 13971,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "9INE",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Revise",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400807,
+    "url": "https://hltv.org/matches/2400807/azuolas-vs-honvd-cct-2026-europe-series-16-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 16 Closed Qualifier",
+    "team1": "Azuolas",
+    "team2": "Honvéd",
+    "team1-id": 13991,
+    "team2-id": 11110,
+    "team1score": 0,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Azuolas",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Honvéd",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 3:5)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Azuolas",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Honvéd",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Azuolas",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Honvéd",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400662,
+    "url": "https://hltv.org/matches/2400662/lir-vs-drama-cct-2026-europe-series-15",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15",
+    "team1": "Lir",
+    "team2": "Drama",
+    "team1-id": 14151,
+    "team2-id": 13704,
+    "team1score": 2,
+    "team2score": 0,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Lir",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(9:3; 4:6)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Lir",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "8",
+          "status": "lost"
+        },
+        "half_scores": "(4:8; 9:0)",
+        "status": "played"
+      },
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "Lir",
+          "score": "-",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Drama",
+          "score": "-",
+          "status": "lost"
+        },
+        "half_scores": "",
+        "status": "not_played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400884,
+    "url": "https://hltv.org/matches/2400884/hype-tech-vs-pcific-exort-fiesta-series-4",
+    "date": null,
+    "event": "Exort Fiesta Series 4",
+    "team1": "Hype Tech",
+    "team2": "PCIFIC",
+    "team1-id": 14147,
+    "team2-id": 13054,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "Hype Tech",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "PCIFIC",
+          "score": "7",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:2)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "Hype Tech",
+          "score": "12",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PCIFIC",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(10:2; 2:10) (0:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Hype Tech",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "PCIFIC",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(4:8; 6:5)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400806,
+    "url": "https://hltv.org/matches/2400806/mouz-nxt-vs-masonic-cct-2026-europe-series-16-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 16 Closed Qualifier",
+    "team1": "MOUZ NXT",
+    "team2": "MASONIC",
+    "team1-id": 11176,
+    "team2-id": 10867,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Inferno",
+        "team1": {
+          "name": "MOUZ NXT",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(6:6; 6:6) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "MOUZ NXT",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "11",
+          "status": "lost"
+        },
+        "half_scores": "(3:9; 10:2)",
+        "status": "played"
+      },
+      {
+        "map": "Nuke",
+        "team1": {
+          "name": "MOUZ NXT",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "MASONIC",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(7:5; 6:1)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400889,
+    "url": "https://hltv.org/matches/2400889/encelade-vs-axe-cct-2026-contenders-europe-series-11",
+    "date": null,
+    "event": "CCT 2026 Contenders Europe Series 11",
+    "team1": "ENCELADE",
+    "team2": "AXE",
+    "team1-id": 14160,
+    "team2-id": 14161,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "ENCELADE",
+          "score": "10",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "AXE",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 3:8)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "ENCELADE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "AXE",
+          "score": "10",
+          "status": "lost"
+        },
+        "half_scores": "(3:9; 10:1)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "ENCELADE",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "AXE",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(5:7; 8:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400805,
+    "url": "https://hltv.org/matches/2400805/donstu-vs-lfo-10-cct-2026-europe-series-16-closed-qualifier",
+    "date": null,
+    "event": "CCT 2026 Europe Series 16 Closed Qualifier",
+    "team1": "DONSTU",
+    "team2": "LFO 10",
+    "team1-id": 13714,
+    "team2-id": 14084,
+    "team1score": 2,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "DONSTU",
+          "score": "14",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "16",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 9:3) (2:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "DONSTU",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "9",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:5)",
+        "status": "played"
+      },
+      {
+        "map": "Dust2",
+        "team1": {
+          "name": "DONSTU",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "LFO 10",
+          "score": "6",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:2)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400888,
+    "url": "https://hltv.org/matches/2400888/ex-cph-wolves-vs-zotix-cct-2026-contenders-europe-series-11",
+    "date": null,
+    "event": "CCT 2026 Contenders Europe Series 11",
+    "team1": "ex-CPH Wolves",
+    "team2": "ZOTIX",
+    "team1-id": 7019,
+    "team2-id": 13797,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "ex-CPH Wolves",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "ZOTIX",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:1)",
+        "status": "played"
+      },
+      {
+        "map": "Cache",
+        "team1": {
+          "name": "ex-CPH Wolves",
+          "score": "8",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ZOTIX",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(3:9; 5:4)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "ex-CPH Wolves",
+          "score": "6",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "ZOTIX",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 1:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400661,
+    "url": "https://hltv.org/matches/2400661/ex-ence-vs-noir-verse-cct-2026-europe-series-15",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15",
+    "team1": "ex-ENCE",
+    "team2": "Noir Verse",
+    "team1-id": 13749,
+    "team2-id": 13877,
+    "team1score": 0,
+    "team2score": 1,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Default",
+        "team1": {
+          "name": "ex-ENCE",
+          "score": "0",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Noir Verse",
+          "score": "1",
+          "status": "won"
+        },
+        "half_scores": "",
+        "status": "played"
+      }
+    ]
+  },
+  {
+    "match-id": 2400660,
+    "url": "https://hltv.org/matches/2400660/lir-vs-spirit-academy-cct-2026-europe-series-15",
+    "date": null,
+    "event": "CCT 2026 Europe Series 15",
+    "team1": "Lir",
+    "team2": "Spirit Academy",
+    "team1-id": 14151,
+    "team2-id": 7900,
+    "team1score": 1,
+    "team2score": 2,
+    "format": "",
+    "stage": "",
+    "veto": [],
+    "maps": [
+      {
+        "map": "Ancient",
+        "team1": {
+          "name": "Lir",
+          "score": "13",
+          "status": "won"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "5",
+          "status": "lost"
+        },
+        "half_scores": "(8:4; 5:1)",
+        "status": "played"
+      },
+      {
+        "map": "Mirage",
+        "team1": {
+          "name": "Lir",
+          "score": "7",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(7:5; 0:8)",
+        "status": "played"
+      },
+      {
+        "map": "Anubis",
+        "team1": {
+          "name": "Lir",
+          "score": "5",
+          "status": "lost"
+        },
+        "team2": {
+          "name": "Spirit Academy",
+          "score": "13",
+          "status": "won"
+        },
+        "half_scores": "(5:7; 0:6)",
+        "status": "played"
+      }
+    ]
+  },
+  {
     "match-id": 2400578,
     "url": "https://hltv.org/matches/2400578/wildcard-vs-chinggis-warriors-pgl-major-singapore-2026-stage-1",
     "date": null,
